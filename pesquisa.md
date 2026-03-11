@@ -4,4 +4,6 @@
 
 - Descrição
 - Principais áreas (etiquetas)
+- Destaque
+- Endereço físico 
 - URL
