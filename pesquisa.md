@@ -72,3 +72,129 @@ goiania@cotec.org.br
   
 -  **Links:**
    [https://cotec.go.gov.br/](https://cotec.go.gov.br/))
+
+
+## Sistema S – Cursos e Sites
+
+O **Sistema S** é um conjunto de instituições brasileiras que oferecem **cursos profissionalizantes, técnicos e capacitações** em diversas áreas.
+
+### Principais instituições
+
+## SENAI – Indústria (tecnologia, programação, automação)
+Site: https://www.senaigoias.com.br/
+
+- **Casa da Indústria / Atendimento SENAI**  
+  Av. Araguaia, 1544 – Edifício Albano Franco  
+  Setor Leste Vila Nova – Goiânia – GO  
+
+- **Faculdade de Tecnologia SENAI Ítalo Bologna (FATESG)**  
+  Rua Amorgaste José da Silveira, 612  
+  Setor Centro-Oeste – Goiânia – GO  
+
+- **Instituto SENAI de Tecnologia de Alimentos**  
+  Rua Professor Lázaro Costa, 330  
+  Cidade Jardim – Goiânia – GO  
+
+- **UDIGI – Unidade SENAI Digital**  
+  Av. Anhanguera, 5440  
+  Setor Central – Goiânia – GO  
+
+- **Escola SESI SENAI Aparecida de Goiânia**  
+  Rua dos Pirineus, Quadra 1, Lote 1  
+  Residencial Village Garavelo – Aparecida de Goiânia – GO  
+
+- **Escola SENAI Dr. Celso Charuri**  
+  Rua Barita, Quadra 122, Lote 1 e 2  
+  Bairro Vila Oliveira – Aparecida de Goiânia – GO  
+
+---
+
+## SENAC – Comércio e serviços (TI, administração, marketing)
+Site: https://www.senac.br/
+
+- **Senac Elias Bufaiçal**  
+  Rua 31-A, nº 43  
+  Setor Aeroporto – Goiânia – GO  
+
+- **Senac Cora Coralina**  
+  Av. Independência, nº 1002  
+  Setor Leste Vila Nova – Goiânia – GO  
+
+- **Senac Aparecida de Goiânia**  
+  Av. Dona Maria Cardoso  
+  Jardim Luz – Aparecida de Goiânia – GO  
+
+---
+
+## SESI – Educação e qualidade de vida para trabalhadores da indústria
+Site: https://www.sesi.org.br/
+
+- **SESI Vila Canaã**  
+  Av. Anhanguera, 5440  
+  Vila Canaã – Goiânia – GO  
+
+---
+
+## SESC – Cultura, lazer e atividades sociais
+Site: https://www.sesc.com.br/
+
+- **Sesc Centro**  
+  Rua 19, nº 260  
+  Centro – Goiânia – GO
+
+- **Sesc Campinas**  
+  Av. Rio Grande do Sul, nº 123  
+  Setor Campinas – Goiânia – GO
+
+- **Sesc Faiçalville**  
+  Av. Ipanema, nº 1600  
+  Setor Faiçalville – Goiânia – GO 
+---
+
+## SENAR – Agricultura e gestão rural
+Site: https://www.senar.org.br/  
+EAD: https://ead.senargo.org.br/
+
+- **Administração SENAR Goiás**  
+  Rua 87, nº 662  
+  Setor Sul – Goiânia – GO  
+
+---
+
+## SEST SENAT – Transporte e logística
+Site: https://www.sestsenat.org.br/
+
+- **SEST SENAT Goiânia**  
+  Rua Tuiuti, 541  
+  Setor São Francisco – Goiânia – GO 
+
+---
+
+## SESCOOP – Cooperativismo
+Site: https://www.sescoop.coop.br/
+
+- **SESCOOP Goiás**  
+  Av. H, nº 550  
+  Setor Oeste – Goiânia – GO  
+
+---
+
+## SEBRAE – Empreendedorismo e gestão de negócios
+Site: https://www.sebrae.com.br/
+
+- **SEBRAE Goiás – Sede**  
+  Av. T-3, nº 1000  
+  Setor Bueno – Goiânia – GO  
+
+---
+
+> Muitos cursos são **gratuitos ou com baixo custo**, principalmente nas áreas de **tecnologia, administração e qualificação profissional**.
+
+---
+
+# Fundação Bradesco
+
+A **Fundação Bradesco** é uma das maiores instituições de investimento social do Brasil, focada em promover a inclusão social por meio da **educação gratuita e de qualidade**.
+
+**Cursos online gratuitos:**  
+https://www.ev.org.br/
