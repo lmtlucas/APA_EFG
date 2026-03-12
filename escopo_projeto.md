@@ -5,9 +5,10 @@ Atualmente, as oportunidades de qualificação gratuita em Goiás estão espalha
 Nosso objetivo é **centralizar** essas informações em um único lugar. Queremos criar uma ponte entre o cidadão e a oportunidade, permitindo que qualquer pessoa descubra, em poucos cliques, onde existem vagas abertas para estudar e transformar sua carreira em Goiânia e região.
 
 ## 1. Levantamento de Dados 
-O foco inicial deve ser em instituições que oferecem cursos gratuitos recorrentes em Goiás:
+O foco inicial deve ser em instituições que oferecem cursos gratuitos recorrentes em Goiânia:
 
 - EFG (Escolas do Futuro de Goiás).
+- COTEC (escola técnica)
 - IFG / IF Goiano (Institutos Federais).
 - Itego (Rede de Institutos Tecnológicos).
 - Sesi/Senai/Senac (Vagas gratuitas do sistema S).
