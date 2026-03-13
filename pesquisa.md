@@ -3,8 +3,8 @@
 ## Nome Instituição
 
 - Descrição
+- Cursos presenciais
 - Principais áreas (etiquetas)
-- Destaque
 - Endereço físico 
 - URL
 
@@ -72,6 +72,14 @@ goiania@cotec.org.br
   
 -  **Links:**
    [https://cotec.go.gov.br/](https://cotec.go.gov.br/))
+
+## SINE
+- **SINE Municipal de Goiânia**
+- É um programa do Ministério do Trabalho e Emprego- MTE , implantado em todos os Estados. Entre as ações desenvolvidas está o encaminhamento de trabalhadores para o mercado de trabalho. Aqui você tem: • Orientação sobre o mercado de trabalho, Emprego • Intermediação de Mão-de-Obra • Seguro-Desemprego • Qualificação Profissional • Qualificação do Trabalhador Segurado • Apoio ao Empregador • Emissão de Carteira de Trabalho
+-  Rua 1, nº 147, em frente ao Banco Sicoob, entre a Av. Goiás e a Av. Tocantins, abaixo da Praça Cívica. 🕗 Horário de funcionamento De segunda a sexta-feira, das 8h às 17h.
+-  Cursos Profissionalizantes
+-  https://www.instagram.com/sinegoiania/
+
 
 
 ## Sistema S – Cursos e Sites
