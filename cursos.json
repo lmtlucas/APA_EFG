@@ -1,24 +1,36 @@
 [
   {
-    "id": 1,
-    "titulo": "Lógica de programação",
-    "instituicao": "EFG",
-    "categoria": "Tecnologia e Inovação",
-    "localizacao": "Goiânia",
-    "modalidade": "Presencial",
-    "status": "Aberto",
-    "link": "https://efg.org.br/detalhes-turma?codigo=1149",
-    "descricao": "Neste curso você vai compreender como um computador pensa. Aprenda a compreender os elementos da programação de computadores; aplicar raciocínio lógico na análise de problemas; usar estruturas básicas de linguagens de programação; criar soluções através da construção de algoritmos."
+  "id": 1,
+  "titulo": "Lógica de Programação",
+  "instituicao": {
+    "nome": "EFG",
+    "unidade": "EFG José Luiz Bittencourt",
+    "cidade": "Goiânia"
   },
-  {
-    "id": 2,
-    "titulo": "Ciência de Dados",
-    "instituicao": "EFG",
-    "categoria": "Tecnologia e Inovação",
-    "localizacao": "Goiânia",
-    "modalidade": "Presencial",
-    "status": "Aberto",
-    "link": "https://efg.org.br/detalhes-turma?codigo=1228",
-    "descricao": "No Curso Técnico em Ciência de Dados você se torna um profissional essencial no mercado de trabalho. Aprenda a importância dos dados na transformação digital. Desenvolva habilidades de programação, tratamento de dados e criação de gráficos. Realize análises de dados para identificar tendências e projete bancos de dados eficientes."
-  }
+  "nivel": "Capacitação",
+  "area": "Tecnologia e Inovação",
+  "modalidades": ["Presencial", "Online"],
+  "idade_minima": 16,
+  "carga_horaria": 40,
+  "status": "Aberto",
+  "link": "https://efg.org.br/detalhes-turma?codigo=1149",
+  "descricao": "Neste curso você vai compreender como um computador pensa. Aprenda a compreender os elementos da programação de computadores; aplicar raciocínio lógico na análise de problemas; usar estruturas básicas de linguagens de programação; criar soluções através da construção de algoritmos."
+},
+{
+  "id": 2,
+  "titulo": "Logística Empresarial",
+  "instituicao": {
+    "nome": "EFG",
+    "unidade": "EFG Raul Brandão de Castro",
+    "cidade": "Mineiros"
+  },
+  "nivel": "Capacitação",
+  "area": "Tecnologia e Inovação",
+  "modalidades": ["Presencial","Online"],
+  "idade_minima": 16,
+  "carga_horaria": 40,
+  "status": "Aberto",
+  "link": "https://efg.org.br/detalhes-turma?codigo=1285",
+  "descricao": "Entenda os fundamentos da logística empresarial. Aprenda sobre distribuição, armazenamento, gestão de estoques, custos e sustentabilidade."
+}
 ]
