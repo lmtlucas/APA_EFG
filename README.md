@@ -23,6 +23,7 @@ Nesta primeira versão (MVP inicial), foram implementadas as seguintes funcional
 * Criação de uma API simples
 * Leitura de dados a partir de um arquivo JSON (`cursos.json`)
 * Exibição dos cursos na tela usando JavaScript
+* Organização do código utilizando Programação Orientada a Objetos (POO)
 
 ---
 
@@ -44,6 +45,24 @@ cursos.json → Flask → API → JavaScript → HTML (tela)
 
 ---
 
+## Organização com POO
+
+Após aprender Python intermediário e POO, refatoramos o projeto para melhorar sua organização.
+
+Inicialmente, validamos o funcionamento da aplicação com dados vindos do `cursos.json`. Em seguida, aplicamos POO criando:
+
+- `Curso` → representa um curso individual
+- `RepositorioCursos` → responsável por carregar e organizar os cursos
+
+### Para adicionar um novo detalhe ao curso:
+
+- Adicionar o atributo na classe `Curso` (`__init__`)
+- Incluir no método `to_dict`
+- Ajustar o carregamento na classe `RepositorioCursos`
+- Exibir no `script.js`
+
+Isso facilita a evolução do projeto sem bagunçar o código.
+
 ## Estrutura do projeto
 
 ```txt
@@ -52,6 +71,12 @@ portal-cursos-go/
 ├── app.py
 ├── cursos.json
 ├── requirements.txt
+│
+├── models/ │
+|   └── curso.py
+│
+├── repositories/
+│   └── repositorio_cursos.py
 │
 ├── templates/
 │   └── index.html
