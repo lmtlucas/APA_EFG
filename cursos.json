@@ -1,10 +1,13 @@
-{
-  "id": 1,
-  "titulo": "Desenvolvimento Web & Mobile",
-  "categoria_slug": "tecnologia",
-  "subcategoria": "Desenvolvimento Web",
-  "instituicao": "EFG",
-  "unidade": "José Luiz Bittencourt",
-  "status": "aberto",
-  "link_oficial": "https://selecao.efg.org.br/..."
-}
+[
+  {
+    "id": 1,
+    "titulo": "Lógica de programação",
+    "instituicao": "EFG",
+    "categoria": "Tecnologia e Inovação",
+    "localizacao": "Goiânia",
+    "modalidade": "Presencial",
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1149",
+    "descricao": "Curso gratuito para iniciantes na área de programação."
+  }
+]
