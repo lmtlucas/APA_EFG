@@ -1,36 +1,4952 @@
 [
   {
-  "id": 1,
-  "titulo": "Lógica de Programação",
-  "instituicao": {
-    "nome": "EFG",
-    "unidade": "EFG José Luiz Bittencourt",
-    "cidade": "Goiânia"
+    "id": 1,
+    "titulo": "Agronegócio",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 1200,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1519",
+    "descricao": null
   },
-  "nivel": "Capacitação",
-  "area": "Tecnologia e Inovação",
-  "modalidades": ["Presencial", "Online"],
-  "idade_minima": 16,
-  "carga_horaria": 40,
-  "status": "Aberto",
-  "link": "https://efg.org.br/detalhes-turma?codigo=1149",
-  "descricao": "Neste curso você vai compreender como um computador pensa. Aprenda a compreender os elementos da programação de computadores; aplicar raciocínio lógico na análise de problemas; usar estruturas básicas de linguagens de programação; criar soluções através da construção de algoritmos."
-},
-{
-  "id": 2,
-  "titulo": "Logística Empresarial",
-  "instituicao": {
-    "nome": "EFG",
-    "unidade": "EFG Raul Brandão de Castro",
-    "cidade": "Mineiros"
+  {
+    "id": 2,
+    "titulo": "Assessoria de Imprensa",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1279",
+    "descricao": null
   },
-  "nivel": "Capacitação",
-  "area": "Tecnologia e Inovação",
-  "modalidades": ["Presencial","Online"],
-  "idade_minima": 16,
-  "carga_horaria": 40,
-  "status": "Aberto",
-  "link": "https://efg.org.br/detalhes-turma?codigo=1285",
-  "descricao": "Entenda os fundamentos da logística empresarial. Aprenda sobre distribuição, armazenamento, gestão de estoques, custos e sustentabilidade."
-}
+  {
+    "id": 3,
+    "titulo": "Automação em Marketing e Vendas Online",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1211",
+    "descricao": null
+  },
+  {
+    "id": 4,
+    "titulo": "Ciência de Dados",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 1000,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1228",
+    "descricao": null
+  },
+  {
+    "id": 5,
+    "titulo": "Criação e Gestão de Projetos",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": null,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1207",
+    "descricao": null
+  },
+  {
+    "id": 6,
+    "titulo": "Desenvolvedor Python: Nível Básico",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1151",
+    "descricao": null
+  },
+  {
+    "id": 7,
+    "titulo": "Desenvolvimento Web e Mobile",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 1440,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1310",
+    "descricao": null
+  },
+  {
+    "id": 8,
+    "titulo": "Direito do Consumidor",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1281",
+    "descricao": null
+  },
+  {
+    "id": 9,
+    "titulo": "Empreendedorismo",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1219",
+    "descricao": null
+  },
+  {
+    "id": 10,
+    "titulo": "Empresas Digitais",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 1040,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1202",
+    "descricao": null
+  },
+  {
+    "id": 11,
+    "titulo": "Empresas Digitais",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 960,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1452",
+    "descricao": null
+  },
+  {
+    "id": 12,
+    "titulo": "Excel Básico",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1295",
+    "descricao": null
+  },
+  {
+    "id": 13,
+    "titulo": "Fotografia para Mídias Digitais",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1193",
+    "descricao": null
+  },
+  {
+    "id": 14,
+    "titulo": "Gestão de Tráfego Digital",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1225",
+    "descricao": null
+  },
+  {
+    "id": 15,
+    "titulo": "Gestão Financeira",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1296",
+    "descricao": null
+  },
+  {
+    "id": 16,
+    "titulo": "Gravação e Edição de Vídeos para Mídias Digi",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1194",
+    "descricao": null
+  },
+  {
+    "id": 17,
+    "titulo": "Inglês Instrumental",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1268",
+    "descricao": null
+  },
+  {
+    "id": 18,
+    "titulo": "Inteligência Emocional",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1283",
+    "descricao": null
+  },
+  {
+    "id": 19,
+    "titulo": "Internet das Coisas",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1456",
+    "descricao": null
+  },
+  {
+    "id": 20,
+    "titulo": "Liderança e Gestão de Equipes",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1215",
+    "descricao": null
+  },
+  {
+    "id": 21,
+    "titulo": "Lógica de Programação",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1149",
+    "descricao": null
+  },
+  {
+    "id": 22,
+    "titulo": "Logística Empresarial",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1285",
+    "descricao": null
+  },
+  {
+    "id": 23,
+    "titulo": "Marketing Digital",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1198",
+    "descricao": null
+  },
+  {
+    "id": 24,
+    "titulo": "Marketing e Mídias Sociais",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 960,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1451",
+    "descricao": null
+  },
+  {
+    "id": 25,
+    "titulo": "Modelagem 3D",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1426",
+    "descricao": null
+  },
+  {
+    "id": 26,
+    "titulo": "Negociação",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1288",
+    "descricao": null
+  },
+  {
+    "id": 27,
+    "titulo": "Oratória",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1287",
+    "descricao": null
+  },
+  {
+    "id": 28,
+    "titulo": "Pacote Office",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1298",
+    "descricao": null
+  },
+  {
+    "id": 29,
+    "titulo": "Pesquisa de Mercado",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1201",
+    "descricao": null
+  },
+  {
+    "id": 30,
+    "titulo": "Pilotagem de Drone (VANT)",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=723",
+    "descricao": null
+  },
+  {
+    "id": 31,
+    "titulo": "Planejamento de Marketing",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1200",
+    "descricao": null
+  },
+  {
+    "id": 32,
+    "titulo": "Planejamento e Acompanhamento de Conteúdo Digital",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1196",
+    "descricao": null
+  },
+  {
+    "id": 33,
+    "titulo": "Redação e português instrumental",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=340",
+    "descricao": null
+  },
+  {
+    "id": 34,
+    "titulo": "Relações Interpessoais",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1458",
+    "descricao": null
+  },
+  {
+    "id": 35,
+    "titulo": "Técnicas de Comunicação Oral e Escrita",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1220",
+    "descricao": null
+  },
+  {
+    "id": 36,
+    "titulo": "Técnicas de Vendas",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": 16,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": "https://efg.org.br/detalhes-turma?codigo=1222",
+    "descricao": null
+  },
+  {
+    "id": 37,
+    "titulo": "Acrobacias Aéreas I - Lira",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 38,
+    "titulo": "Acrobacias Aéreas I - Tecido Acrobático",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 39,
+    "titulo": "Acrobacias Aéreas I - Trapézio",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 40,
+    "titulo": "Acrobacias Aéreas III",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 120,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 41,
+    "titulo": "Acrobacias Aéreas IV",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 42,
+    "titulo": "Acrobacias de Solo I - Flexibilidade",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 43,
+    "titulo": "Acrobacias de Solo I - Parada de Mão",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 44,
+    "titulo": "Acrobacias de Solo III",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 45,
+    "titulo": "Acrobacias de Solo IV",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 46,
+    "titulo": "Aquarela I",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 120,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 47,
+    "titulo": "Arte Contemporânea - Visualidades",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 48,
+    "titulo": "Arte e Cultura Popular",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 49,
+    "titulo": "Arte em Vidro (Fusing)",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 360,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 50,
+    "titulo": "Artes circenses",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nivel médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 51,
+    "titulo": "Artes Visuais - Produção Artística Desenho e Pi",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 1212,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 52,
+    "titulo": "Artesão em Cerâmica",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 53,
+    "titulo": "Artesão em Cerâmica",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 54,
+    "titulo": "Assistente de Marketing",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 55,
+    "titulo": "Assistente em Marketing",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 56,
+    "titulo": "Ateliê de Produção Criativa",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 57,
+    "titulo": "Ateliê de Produção Criativa",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 58,
+    "titulo": "Ateliê Voz e Piano",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 59,
+    "titulo": "Automação e Robótica",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 60,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 60,
+    "titulo": "Balé do Teatro Escola Basileu França Júnior - B",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 500,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 61,
+    "titulo": "Balé Fraldinha Basileu França - BFBF",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 320,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 62,
+    "titulo": "Balé Infantil Basileu França - BIBF",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 320,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 63,
+    "titulo": "Balé Juvenil Basileu França - BJBF",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 330,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 64,
+    "titulo": "Balet Grau I",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 252,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 65,
+    "titulo": "Balet Grau IV",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 360,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 66,
+    "titulo": "Ballet Baby Class",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 110,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 67,
+    "titulo": "Ballet Grau II",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 252,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 68,
+    "titulo": "Ballet Grau III",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 324,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 69,
+    "titulo": "Ballet Grau V",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 360,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 70,
+    "titulo": "Ballet Intermediário",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 324,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 71,
+    "titulo": "Ballet Intermediário I",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 400,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 72,
+    "titulo": "Ballet Preparatório I",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 110,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 73,
+    "titulo": "Ballet Preparatório II",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 144,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 74,
+    "titulo": "Banda Sinfônica Jovem de Goiás – BSJG",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 260,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 75,
+    "titulo": "Big Band Basileu França – BBBF",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 76,
+    "titulo": "Camerata de Cordas Friccionadas",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 77,
+    "titulo": "Camerata de Sopros",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 78,
+    "titulo": "Camerata de Violão",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 79,
+    "titulo": "Camerata de Violoncelo",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 80,
+    "titulo": "Captação de Recursos de Editais de Fomento",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 81,
+    "titulo": "Cerâmica Decorativa Artesanal",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 82,
+    "titulo": "Cerâmica Decorativa Artesanal",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 100,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 83,
+    "titulo": "Ceramista",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 84,
+    "titulo": "Ceramista",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 85,
+    "titulo": "Cia de Dança Contemporânea Basileu França - CIA",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 180,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 86,
+    "titulo": "Cia Jovem do Teatro Escola Basileu França - CIABF",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 500,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 87,
+    "titulo": "Circo Avançado Adulto",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 240,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 88,
+    "titulo": "Circo Avançado Infanto",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 240,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 89,
+    "titulo": "Circo Avançado Juvenil",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 240,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 90,
+    "titulo": "Circo Iniciante Adulto",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 240,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 91,
+    "titulo": "Circo Iniciante Infanto",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 240,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 92,
+    "titulo": "Circo Iniciante Juvenil",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 240,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 93,
+    "titulo": "Colagem e Assemblagem",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 94,
+    "titulo": "Coletivo de Artes Visuais",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 350,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 95,
+    "titulo": "Competências Empreendedoras",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 96,
+    "titulo": "Consultoria em Agronegócio",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 97,
+    "titulo": "Corda Bamba IV",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 98,
+    "titulo": "Corpo Circense",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 320,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 99,
+    "titulo": "Criação de Conteúdo Digital",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 100,
+    "titulo": "Criação e Edição Multimídia",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 101,
+    "titulo": "Curso Superior de Tecnologia em Produção Cênica",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Superior de técnologia",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 1900,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 102,
+    "titulo": "Dança - Nível 1 - Dança Oriental Árabe",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 103,
+    "titulo": "Dança - Nível 1 - Danças Urbanas",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 104,
+    "titulo": "Dança de Rua Basileu França - DRBF",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 180,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 105,
+    "titulo": "Dança de Rua Basileu França Juvenil - DRBFJ",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 180,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 106,
+    "titulo": "Dança de Rua Juvenil",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 500,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 107,
+    "titulo": "Dança Moderna e Contemporânea",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 270,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 108,
+    "titulo": "Dança Moderna e Contemporânea I",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 380,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 109,
+    "titulo": "Danças Urbanas I",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 320,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 110,
+    "titulo": "Danças Urbanas I",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 270,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 111,
+    "titulo": "Danças Urbanas II",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 320,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 112,
+    "titulo": "Danças Urbanas Infanto Juvenil",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 180,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 113,
+    "titulo": "Danças Urbanas ll",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 270,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 114,
+    "titulo": "Desenho 1",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 320,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 115,
+    "titulo": "Desenho 2 - Figura Humana",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 116,
+    "titulo": "Desenho 3 - Ilustração",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 320,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 117,
+    "titulo": "Desenho Artístico",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 118,
+    "titulo": "Desenho Auxiliado por Computador",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 119,
+    "titulo": "Desenho de Figura Humana",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 120,
+    "titulo": "Desenvolvedor Python: Nível Intermediário",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 121,
+    "titulo": "Desenvolvimento Mobile",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": null,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 122,
+    "titulo": "Desenvolvimento Web Back-End",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 200,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 123,
+    "titulo": "Desenvolvimento Web Front-End",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 200,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 124,
+    "titulo": "Design e Prototipagem",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 240,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 125,
+    "titulo": "Design Thinking e Gestão da Criatividade",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 126,
+    "titulo": "Desktop GNU-Linux",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 127,
+    "titulo": "E-commerce",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 128,
+    "titulo": "Empreendedorismo Criativo",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 240,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 129,
+    "titulo": "Empresas Digitais: Gestão do Negócio e Criação",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 130,
+    "titulo": "Escada Livre IV",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 131,
+    "titulo": "Estratégias de Design de Negócios",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 132,
+    "titulo": "Experiência do Usuário/Consumidor (UX)",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 133,
+    "titulo": "Flexibilidade II",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 134,
+    "titulo": "Formação Artística Avançada em Teatro",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 368,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 135,
+    "titulo": "Formação artística em teatro",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nivel médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 280,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 136,
+    "titulo": "Formação Artística Iniciante em Teatro",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": null,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 137,
+    "titulo": "Formação Artística Intermediária em Teatro",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 368,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 138,
+    "titulo": "Formação Inicial Artística em Artes Visuais I",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 139,
+    "titulo": "Formação Inicial Artística em Artes Visuais II",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 140,
+    "titulo": "Formação Inicial Artística em Artes Visuais III",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 141,
+    "titulo": "Fotografia de Produtos e Tratamento de Imagem Digi",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 142,
+    "titulo": "Fundamentos do  Agronegócio",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 143,
+    "titulo": "Fundamentos do Desenho",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 144,
+    "titulo": "Gestão de Anúncios",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 145,
+    "titulo": "Gestão de Custos e Eficiência no Agronegócio",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 146,
+    "titulo": "Gestão do Negócio e Criação de Valor",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 147,
+    "titulo": "Gestão Estratégica no Agronegócio",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 148,
+    "titulo": "Gravura - Xilo I",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 149,
+    "titulo": "Gravura - Xilo l",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 150,
+    "titulo": "Grupo Vai...Idade",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 200,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 151,
+    "titulo": "Guitarra Rock e Blues",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 152,
+    "titulo": "Guitarra Rock e Blues",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 153,
+    "titulo": "História da Arte",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 154,
+    "titulo": "Qualificação profissional",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 60,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 155,
+    "titulo": "Iniciação Coletiva ao Instrumento Musical",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 200,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 156,
+    "titulo": "Iniciação Coletiva ao Instrumento Musical",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 157,
+    "titulo": "Instrumento Musical",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 44,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 158,
+    "titulo": "Instrumento Musical - Iniciante",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 280,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 159,
+    "titulo": "Instrumento Musical - Iniciante",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 280,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 160,
+    "titulo": "Instrumento Musical - Nível 1 - Cordas Friccionad",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 161,
+    "titulo": "Instrumento Musical - Nível 1 - Flauta Doce",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 162,
+    "titulo": "Instrumento Musical - Nível 1 - Metais Heterogên",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 163,
+    "titulo": "Instrumento Musical - Nível 1 - Violão",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 164,
+    "titulo": "Instrumento Musical - Nível 2 - Cordas Friccionad",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 165,
+    "titulo": "Instrumento Musical - Nível 2 - Flauta Doce",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 166,
+    "titulo": "Instrumento Musical - Nível 2 - Violão",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 167,
+    "titulo": "Instrumento Musical - Nível 3 - Flauta Doce",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 168,
+    "titulo": "Instrumento Musical - Nível 3 - Violão",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 169,
+    "titulo": "Instrumento Musical - Nível Avançado",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 280,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 170,
+    "titulo": "Instrumento Musical - Nível Básico",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 280,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 171,
+    "titulo": "Instrumento Musical - Nível Iniciante - Flauta Do",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 280,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 172,
+    "titulo": "Instrumento Musical - Nível Intermediário",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 280,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 173,
+    "titulo": "Instrumento Musical – Nível 3 – Cordas Fricci",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 174,
+    "titulo": "Instrumento Musical Violão - Iniciante",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 280,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 175,
+    "titulo": "Inteligência Artificial",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 176,
+    "titulo": "Interpretação Teatral I",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 368,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 177,
+    "titulo": "Interpretação Teatral II",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 368,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 178,
+    "titulo": "Introdução à Programação de Computadores",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 60,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 179,
+    "titulo": "Jazz Combo",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 180,
+    "titulo": "Joias em Vidro (Fusing)",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 100,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 181,
+    "titulo": "Laboratório de Arte em Vidro (Fusing)",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 100,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 182,
+    "titulo": "Laboratório de Harmonia e Improvisação",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 183,
+    "titulo": "Laboratório de Pintura",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 184,
+    "titulo": "Laboratório de Pintura",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 185,
+    "titulo": "Laboratório de Pintura Experimental",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 186,
+    "titulo": "Liderança e Gestão Estratégica de Pessoas",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 187,
+    "titulo": "Lira Acrobática IV",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 60,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 188,
+    "titulo": "Malabares e Equilíbrios I",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 189,
+    "titulo": "Malabares e Equilíbrios II",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 190,
+    "titulo": "Marketing  Aplicado ao  Agronegócio",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 191,
+    "titulo": "Marketing Digital",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 192,
+    "titulo": "Marketing Digital",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 193,
+    "titulo": "Marketing e Mídias Sociais",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 1040,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 194,
+    "titulo": "Matemática aplicada a Eletrônica",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 195,
+    "titulo": "Matemática Básica",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 196,
+    "titulo": "Mídias Sociais",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 197,
+    "titulo": "Móbile da Imaginação 1",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 198,
+    "titulo": "Móbile da Imaginação 2",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 199,
+    "titulo": "Móbile da Imaginação 3",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 200,
+    "titulo": "Móbile da Imaginação 4",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 201,
+    "titulo": "Modelagem em Argila",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 100,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 202,
+    "titulo": "Monociclo III",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 203,
+    "titulo": "Mosaico",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 204,
+    "titulo": "NAH  - Corpo  Cênico",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 360,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 205,
+    "titulo": "Novelo das Artes 1",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 206,
+    "titulo": "Novelo das Artes 2",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 207,
+    "titulo": "Novelo das Artes 3",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 208,
+    "titulo": "Novelo das Artes 4",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 209,
+    "titulo": "Núcleo de Choro Basileu França (NCBF)",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 100,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 210,
+    "titulo": "Ópera Estúdio",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 188,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 211,
+    "titulo": "Orquestra Infantil Mozart",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 240,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 212,
+    "titulo": "Orquestra Infantil Mozart - OIM",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 240,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 213,
+    "titulo": "Orquestra Sinfônica Jovem de  Goiás –   OSJG",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 500,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 214,
+    "titulo": "Orquestra Sinfônica Juvenil Pedro Ludovico Teixei",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 260,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 215,
+    "titulo": "Passes de Objetos II",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 216,
+    "titulo": "Performance Musical",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 217,
+    "titulo": "Pintura 2 - Acrílica",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 280,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 218,
+    "titulo": "Pintura 3 - Aquarela",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 200,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 219,
+    "titulo": "Pintura a Frio",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 120,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 220,
+    "titulo": "Pintura a Óleo II - Figura Humana",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 100,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 221,
+    "titulo": "Pintura a Óleo II - Figura Humana",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 100,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 222,
+    "titulo": "Pintura com Tinta a Óleo I",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 120,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 223,
+    "titulo": "Pintura com Tinta Acrílica - 2",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 224,
+    "titulo": "Pintura com Tinta Acrílica - Mista",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 100,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 225,
+    "titulo": "Pintura com Tinta Acrílica I",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 120,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 226,
+    "titulo": "Pintura com Tinta Acrílica II",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 100,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 227,
+    "titulo": "Pintura de Figura Humana",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 120,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 228,
+    "titulo": "Pintura em Cerâmica",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 240,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 229,
+    "titulo": "Pintura em Cerâmica",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 240,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 230,
+    "titulo": "Pintura em Madeira",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 320,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 231,
+    "titulo": "Pintura em Madeira",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 320,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 232,
+    "titulo": "Pintura em Madeira 3 - Latonagem",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 233,
+    "titulo": "Pintura em Madeira 3 – Latonagem",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 234,
+    "titulo": "Pintura em Madeira I - Caixas",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 235,
+    "titulo": "Pintura em Madeira I - Caixas",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 236,
+    "titulo": "Pintura I - Óleo",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 237,
+    "titulo": "Pintura Vitrificada e Técnicas de Esmaltação",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 120,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 238,
+    "titulo": "Pintura Vitrificada e Técnicas de Esmaltação",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 120,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 239,
+    "titulo": "Planejamento de Mídias Sociais",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 240,
+    "titulo": "Planejamento e Criação de Novos Negócios",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 241,
+    "titulo": "Planejamento Financeiro para Startup",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 60,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 242,
+    "titulo": "Português  Instrumental",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 243,
+    "titulo": "Prática Coletiva de Guitarra",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 244,
+    "titulo": "Prática Coletiva de Instrumento de Sopros",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 245,
+    "titulo": "Prática Coletiva de Sopros",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 246,
+    "titulo": "Prática coletiva de Viola Clássica",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 247,
+    "titulo": "Prática coletiva de Violino",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 248,
+    "titulo": "Prática coletiva de Violoncelo",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 249,
+    "titulo": "Processo Criativo",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 250,
+    "titulo": "Programação de  Computadores",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 200,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 251,
+    "titulo": "Programação de Computadores",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 240,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 252,
+    "titulo": "Retrato",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 253,
+    "titulo": "Ritmos e Melodias do Choro",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 254,
+    "titulo": "ROBÓTICA EDUCACIONAL PARA DOCENTES",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 255,
+    "titulo": "Segurança da Informação",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 256,
+    "titulo": "Sustentabilidade e Legislação Ambiental",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 257,
+    "titulo": "Teatro Iniciante - Nível Básico",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 258,
+    "titulo": "Teatro Iniciante - Nível Iniciante",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 259,
+    "titulo": "Teatro Iniciante - Nível Intermediário",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 260,
+    "titulo": "Teatro Musical",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 188,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 261,
+    "titulo": "Qualificação profissional",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 90,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 262,
+    "titulo": "Tecido Acrobático II",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 60,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 263,
+    "titulo": "Técnicas Acrobáticas e Caracterização de Perso",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "NAH",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 80,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 264,
+    "titulo": "Técnicas de Recuperação e Pintura para Móveis",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 300,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 265,
+    "titulo": "Técnico de Nível Médio em Artes Circenses",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 1200,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 266,
+    "titulo": "Técnico de Nível Médio em Ballet Clássico",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 1200,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 267,
+    "titulo": "Técnico de Nível Médio em Canto",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 1000,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 268,
+    "titulo": "Técnico de Nível Médio em Dança Contemporânea",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 1200,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 269,
+    "titulo": "Técnico de Nível Médio em Instrumento Musical",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 1200,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 270,
+    "titulo": "Técnico em Artes Circenses",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 1020,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 271,
+    "titulo": "Técnico em Teatro",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Técnico de nível médio",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 1040,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 272,
+    "titulo": "Tecnologias e Inovação para Start ups",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Qualificação profissional",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 160,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 273,
+    "titulo": "Transformação Digital",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 274,
+    "titulo": "Transformação Digital e Prototipagem",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 40,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  },
+  {
+    "id": 275,
+    "titulo": "Trapézio Simples IV",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": null
+    },
+    "categoria": "Capacitação",
+    "area": null,
+    "modalidades": [],
+    "turnos": [],
+    "idade_minima": null,
+    "carga_horaria": 60,
+    "status": "Aberto",
+    "link": null,
+    "descricao": null
+  }
 ]
