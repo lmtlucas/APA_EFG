@@ -1,16 +1,17 @@
-from flask import Flask, jsonify
+from flask import Flask, render_template
 import json
 
 app = Flask(__name__)
 
-@app.route("/api/cursos")
-def listar_cursos():
+@app.route("/")
+def home():
 
     with open("cursos.json", "r", encoding="utf-8") as arquivo:
         cursos = json.load(arquivo)
 
-    print("Cursos carregados!")
-
-    return jsonify(cursos)
+    return render_template(
+        "cursos.html",
+        cursos=cursos
+    )
 
 app.run(debug=True)

@@ -1,4952 +1,4677 @@
 [
   {
     "id": 1,
-    "titulo": "Agronegócio",
+    "nome_curso": "Agronegócio",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Mineiros"
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 1200,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1519",
-    "descricao": null
+    "descricao": "Aprenda a unir a força do campo com a tecnologia e transforme o agronegócio em uma carreira de suces..."
   },
   {
     "id": 2,
-    "titulo": "Assessoria de Imprensa",
+    "nome_curso": "Assessoria de Imprensa",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Goiânia"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1279",
-    "descricao": null
+    "descricao": "Aprenda as principais técnicas de assessoria de imprensa. Descubra como promover a imagem de uma org..."
   },
   {
     "id": 3,
-    "titulo": "Automação em Marketing e Vendas Online",
+    "nome_curso": "Automação em Marketing e Vendas Online",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Santo Antônio do Descoberto"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1211",
-    "descricao": null
+    "descricao": "Para ganhar escala de mercado é preciso ir além do contato pessoa a pessoa. Automatizando ações, voc..."
   },
   {
     "id": 4,
-    "titulo": "Ciência de Dados",
+    "nome_curso": "Ciência de Dados",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 3 cidades disponívelis"
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 1000,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1228",
-    "descricao": null
+    "descricao": "No Curso Técnico em Ciência de Dados você se torna um profissional essencial no mercado de trabalho...."
   },
   {
     "id": 5,
-    "titulo": "Criação e Gestão de Projetos",
+    "nome_curso": "Criação e Gestão de Projetos",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Goiânia"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": null,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1207",
-    "descricao": null
+    "descricao": "Aprenda a planejar, criar e gerir projetos. Neste curso você vai aprender técnicas de gestão de proj..."
   },
   {
     "id": 6,
-    "titulo": "Desenvolvedor Python: Nível Básico",
+    "nome_curso": "Desenvolvedor Python: Nível Básico",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Valparaíso de  Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1151",
-    "descricao": null
+    "descricao": "Com este curso você aprende técnicas básicas para criar e melhorar programas de computadores, utiliz..."
   },
   {
     "id": 7,
-    "titulo": "Desenvolvimento Web e Mobile",
+    "nome_curso": "Desenvolvimento Web e Mobile",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 3 cidades disponívelis"
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 1440,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1310",
-    "descricao": null
+    "descricao": "Explore o mundo do desenvolvimento para internet e celulares! Aprenda a criar sites e aplicativos in..."
   },
   {
     "id": 8,
-    "titulo": "Direito do Consumidor",
+    "nome_curso": "Direito do Consumidor",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Todo o estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1281",
-    "descricao": null
+    "descricao": "Conheça os fundamentos do direito do consumidor. Entenda as leis, práticas comerciais, responsabilid..."
   },
   {
     "id": 9,
-    "titulo": "Empreendedorismo",
+    "nome_curso": "Empreendedorismo",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Todo o estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1219",
-    "descricao": null
+    "descricao": "Saiba como criar empresas ou lançar produtos digitais! Aprenda a identificar oportunidades de negóci..."
   },
   {
     "id": 10,
-    "titulo": "Empresas Digitais",
+    "nome_curso": "Empresas Digitais",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 2 cidades disponívelis"
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 1040,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1202",
-    "descricao": null
+    "descricao": "Crie ou melhore sua empresa no ambiente digital através das redes sociais, sites, marketplaces, entr..."
   },
   {
     "id": 11,
-    "titulo": "Empresas Digitais",
+    "nome_curso": "Empresas Digitais",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 2 cidades disponívelis"
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 960,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1452",
-    "descricao": null
+    "descricao": "Aprenda a criar, gerenciar e expandir seu próprio negócio online com o curso Empresas Digitais. Desc..."
   },
   {
     "id": 12,
-    "titulo": "Excel Básico",
+    "nome_curso": "Excel Básico",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Goiânia, Mineiros e mais 2 cidades disponívelis e online para as demais cidades do estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1295",
-    "descricao": null
+    "descricao": "Aprenda os fundamentos do Excel. Domine os principais recursos e fórmulas matemáticas, de texto e da..."
   },
   {
     "id": 13,
-    "titulo": "Fotografia para Mídias Digitais",
+    "nome_curso": "Fotografia para Mídias Digitais",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 1 cidade disponível e online para as demais cidades do estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1193",
-    "descricao": null
+    "descricao": "Com este curso você vai aprender como produzir fotografias para inserção em mídias digitais. Entenda..."
   },
   {
     "id": 14,
-    "titulo": "Gestão de Tráfego Digital",
+    "nome_curso": "Gestão de Tráfego Digital",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Goiânia, Santo Antônio do Descoberto e online para as demais cidades do estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1225",
-    "descricao": null
+    "descricao": "Descubra como fazer planos para falar com as pessoas na internet, pense em jeitos de mostrar seus pr..."
   },
   {
     "id": 15,
-    "titulo": "Gestão Financeira",
+    "nome_curso": "Gestão Financeira",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 3 cidades disponívelis e online para as demais cidades do estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1296",
-    "descricao": null
+    "descricao": "Entenda os conceitos básicos de gestão financeira. Aprenda a elaborar fluxos de caixa, orçamentos e ..."
   },
   {
     "id": 16,
-    "titulo": "Gravação e Edição de Vídeos para Mídias Digi",
+    "nome_curso": "Gravação e Edição de Vídeos para Mídias Digi",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 1 cidade disponível e online para as demais cidades do estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1194",
-    "descricao": null
+    "descricao": "Aprenda a produzir vídeos para a internet! Grave e edite com a qualidade profissional que os seus cl..."
   },
   {
     "id": 17,
-    "titulo": "Inglês Instrumental",
+    "nome_curso": "Inglês Instrumental",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 3 cidades disponívelis e online para as demais cidades do estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1268",
-    "descricao": null
+    "descricao": "Aprenda inglês voltado para o ambiente profissional. Desenvolva habilidades básicas de comunicação, ..."
   },
   {
     "id": 18,
-    "titulo": "Inteligência Emocional",
+    "nome_curso": "Inteligência Emocional",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 2 cidades disponívelis e online para as demais cidades do estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1283",
-    "descricao": null
+    "descricao": "Desenvolva sua inteligência emocional. Aprenda a gerenciar emoções, melhorar a liderança, e aplicar ..."
   },
   {
     "id": 19,
-    "titulo": "Internet das Coisas",
+    "nome_curso": "Internet das Coisas",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Todo o estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1456",
-    "descricao": null
+    "descricao": "Aprenda Internet das Coisas (IoT) e conecte dispositivos para tornar seu dia a dia e processos mais ..."
   },
   {
     "id": 20,
-    "titulo": "Liderança e Gestão de Equipes",
+    "nome_curso": "Liderança e Gestão de Equipes",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 2 cidades disponívelis e online para as demais cidades do estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1215",
-    "descricao": null
+    "descricao": "Tenha uma equipe à frente do futuro aprendendo a liderar colaboradores e equipes, demandar tarefas e..."
   },
   {
     "id": 21,
-    "titulo": "Lógica de Programação",
+    "nome_curso": "Lógica de Programação",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 2 cidades disponívelis e online para as demais cidades do estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1149",
-    "descricao": null
+    "descricao": "Neste curso você vai compreender como um computador pensa. Aprenda a compreender os elementos da pro..."
   },
   {
     "id": 22,
-    "titulo": "Logística Empresarial",
+    "nome_curso": "Logística Empresarial",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Goiânia, Mineiros e mais 1 cidade disponível e online para as demais cidades do estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1285",
-    "descricao": null
+    "descricao": "Entenda os fundamentos da logística empresarial. Aprenda sobre distribuição, armazenamento, gestão d..."
   },
   {
     "id": 23,
-    "titulo": "Marketing Digital",
+    "nome_curso": "Marketing Digital",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Goiânia"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1198",
-    "descricao": null
+    "descricao": "Aprenda a consolidar a presença digital da sua marca! Seja visto e seja lembrado. Analise o mercado ..."
   },
   {
     "id": 24,
-    "titulo": "Marketing e Mídias Sociais",
+    "nome_curso": "Marketing e Mídias Sociais",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 2 cidades disponívelis"
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 960,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1451",
-    "descricao": null
+    "descricao": "Domine as redes sociais e aprenda a transformar curtidas em resultados com o curso Marketing e Mídia..."
   },
   {
     "id": 25,
-    "titulo": "Modelagem 3D",
+    "nome_curso": "Modelagem 3D",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Mineiros"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1426",
-    "descricao": null
+    "descricao": "Desperte sua criatividade e transforme ideias em modelos tridimensionais com técnicas e softwares de..."
   },
   {
     "id": 26,
-    "titulo": "Negociação",
+    "nome_curso": "Negociação",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Todo o estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1288",
-    "descricao": null
+    "descricao": "Aprenda técnicas e estratégias de negociação. Entenda diferentes abordagens, melhore suas habilidade..."
   },
   {
     "id": 27,
-    "titulo": "Oratória",
+    "nome_curso": "Oratória",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 3 cidades disponívelis e online para as demais cidades do estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1287",
-    "descricao": null
+    "descricao": "Desenvolva suas habilidades de fala em público. Aprenda técnicas de oratória, superação do medo de f..."
   },
   {
     "id": 28,
-    "titulo": "Pacote Office",
+    "nome_curso": "Pacote Office",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 3 cidades disponívelis"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1298",
-    "descricao": null
+    "descricao": "Domine as principais ferramentas do Pacote Office. Aprenda os fundamentos de Excel, PowerPoint e Wor..."
   },
   {
     "id": 29,
-    "titulo": "Pesquisa de Mercado",
+    "nome_curso": "Pesquisa de Mercado",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Goiânia"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1201",
-    "descricao": null
+    "descricao": "Aprenda a desenvolver e interpretar pesquisas de mercado para traçar estratégias muito mais eficient..."
   },
   {
     "id": 30,
-    "titulo": "Pilotagem de Drone (VANT)",
+    "nome_curso": "Pilotagem de Drone (VANT)",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Aparecida de Goiânia, Goiânia e mais 3 cidades disponívelis"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=723",
-    "descricao": null
+    "descricao": "Neste curso, além de aprender como pilotar drones, você conhecerá os aspectos regulatórios aplicados..."
   },
   {
     "id": 31,
-    "titulo": "Planejamento de Marketing",
+    "nome_curso": "Planejamento de Marketing",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Goiânia"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1200",
-    "descricao": null
+    "descricao": "Você sabe como estruturar um plano de Marketing? Neste curso você vai aprender a coletar informações..."
   },
   {
     "id": 32,
-    "titulo": "Planejamento e Acompanhamento de Conteúdo Digital",
+    "nome_curso": "Planejamento e Acompanhamento de Conteúdo Digital",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Todo o estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1196",
-    "descricao": null
+    "descricao": "Você sabe como planejar conteúdo para o ambiente digital? Neste curso você vai ter noções de como pl..."
   },
   {
     "id": 33,
-    "titulo": "Redação e português instrumental",
+    "nome_curso": "Redação e português instrumental",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Mineiros, Santo Antônio do Descoberto e mais 1 cidade disponível e online para as demais cidades do estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=340",
-    "descricao": null
+    "descricao": "Este curso proporciona ao estudante sobre como compreender, redigir e escrever diferentes gêneros te..."
   },
   {
     "id": 34,
-    "titulo": "Relações Interpessoais",
+    "nome_curso": "Relações Interpessoais",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Todo o estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1458",
-    "descricao": null
+    "descricao": "Aprenda a desenvolver relações interpessoais de forma positiva e eficaz. Fortaleça comunicação, empa..."
   },
   {
     "id": 35,
-    "titulo": "Técnicas de Comunicação Oral e Escrita",
+    "nome_curso": "Técnicas de Comunicação Oral e Escrita",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Goiânia, Santo Antônio do Descoberto e mais 1 cidade disponível e online para as demais cidades do estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1220",
-    "descricao": null
+    "descricao": "Melhore a sua forma de se comunicar nos negócios! Aprenda a escrever com clareza, a organizar suas i..."
   },
   {
     "id": 36,
-    "titulo": "Técnicas de Vendas",
+    "nome_curso": "Técnicas de Vendas",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": "Goiânia, Mineiros e mais 1 cidade disponível e online para as demais cidades do estado de Goiás"
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": "https://efg.org.br/detalhes-turma?codigo=1222",
-    "descricao": null
+    "descricao": "Descubra os segredos das vendas! Com esse curso você aprende técnicas de venda e aprende formas de i..."
   },
   {
     "id": 37,
-    "titulo": "Acrobacias Aéreas I - Lira",
+    "nome_curso": "Acrobacias Aéreas I - Lira",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Acrobacias Aéreas – Lira e explore as técnicas básicas do trabalho em altura. Desenvolv..."
   },
   {
     "id": 38,
-    "titulo": "Acrobacias Aéreas I - Tecido Acrobático",
+    "nome_curso": "Acrobacias Aéreas I - Tecido Acrobático",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Acrobacias Aéreas I – Tecido Acrobático e descubra as técnicas básicas do trabalho em altura..."
   },
   {
     "id": 39,
-    "titulo": "Acrobacias Aéreas I - Trapézio",
+    "nome_curso": "Acrobacias Aéreas I - Trapézio",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Acrobacias Aéreas I – Trapézio e descubra as técnicas básicas do trabalho em altura. Fo..."
   },
   {
     "id": 40,
-    "titulo": "Acrobacias Aéreas III",
+    "nome_curso": "Acrobacias Aéreas III",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprimore sua técnica e desafie seus limites nas acrobacias aéreas. Um curso avançado para quem já do..."
   },
   {
     "id": 41,
-    "titulo": "Acrobacias Aéreas IV",
+    "nome_curso": "Acrobacias Aéreas IV",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desperte sua coragem nas alturas com o curso Acrobacias Aéreas IV! Aprimore manobras ousadas, ganhe ..."
   },
   {
     "id": 42,
-    "titulo": "Acrobacias de Solo I - Flexibilidade",
+    "nome_curso": "Acrobacias de Solo I - Flexibilidade",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Acrobacias de Solo I – Flexibilidade e dê seus primeiros passos no circo com um curso acessí..."
   },
   {
     "id": 43,
-    "titulo": "Acrobacias de Solo I - Parada de Mão",
+    "nome_curso": "Acrobacias de Solo I - Parada de Mão",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Acrobacias de Solo I – Parada de Mão e desenvolva\ntécnica, força e controle corporal."
   },
   {
     "id": 44,
-    "titulo": "Acrobacias de Solo III",
+    "nome_curso": "Acrobacias de Solo III",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desafie-se com o curso Acrobacias de Solo III! Domine técnicas avançadas, aprimore sua força e flexi..."
   },
   {
     "id": 45,
-    "titulo": "Acrobacias de Solo IV",
+    "nome_curso": "Acrobacias de Solo IV",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desenvolva acrobacias de solo de alto nível com este curso avançado. Explore movimentos desafiadores..."
   },
   {
     "id": 46,
-    "titulo": "Aquarela I",
+    "nome_curso": "Aquarela I",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda aquarela e técnicas mistas em um curso prático e acessível! Desenvolva sua criatividade, dom..."
   },
   {
     "id": 47,
-    "titulo": "Arte Contemporânea - Visualidades",
+    "nome_curso": "Arte Contemporânea - Visualidades",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Explore as múltiplas linguagens da arte atual no curso Arte Contemporânea – Visualidades! Investigue..."
   },
   {
     "id": 48,
-    "titulo": "Arte e Cultura Popular",
+    "nome_curso": "Arte e Cultura Popular",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Mergulhe na riqueza das tradições no curso Arte e Cultura Popular! Descubra saberes ancestrais, mani..."
   },
   {
     "id": 49,
-    "titulo": "Arte em Vidro (Fusing)",
+    "nome_curso": "Arte em Vidro (Fusing)",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 360,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra a beleza da arte em vidro com o curso de Fusing. Aprenda técnicas de fusão para criar peças..."
   },
   {
     "id": 50,
-    "titulo": "Artes circenses",
+    "nome_curso": "Artes circenses",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Técnico de nivel médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que tal trabalhar com o mundo do circo? Este curso te prepara para atividades de criação, produção e..."
   },
   {
     "id": 51,
-    "titulo": "Artes Visuais - Produção Artística Desenho e Pi",
+    "nome_curso": "Artes Visuais - Produção Artística Desenho e Pi",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 1212,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda história da arte, desenho, fotografia, pintura, serigrafia e produção autoral. Desenvolva ha..."
   },
   {
     "id": 52,
-    "titulo": "Artesão em Cerâmica",
+    "nome_curso": "Artesão em Cerâmica",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desperte sua criatividade com o curso de Artesão em Cerâmica. Aprenda a transformar argila em peças ..."
   },
   {
     "id": 53,
-    "titulo": "Artesão em Cerâmica",
+    "nome_curso": "Artesão em Cerâmica",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda cerâmica do básico ao avançado e transforme sua criatividade em arte e renda! Cursos prático..."
   },
   {
     "id": 54,
-    "titulo": "Assistente de Marketing",
+    "nome_curso": "Assistente de Marketing",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que tal se tornar um assistente de marketing? Neste curso você aprende sobre as técnicas e práticas ..."
   },
   {
     "id": 55,
-    "titulo": "Assistente em Marketing",
+    "nome_curso": "Assistente em Marketing",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Seja um assistente de marketing de primeira! Neste curso você vai  se familiarizar com as técnicas e..."
   },
   {
     "id": 56,
-    "titulo": "Ateliê de Produção Criativa",
+    "nome_curso": "Ateliê de Produção Criativa",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desperte sua criatividade no Ateliê de Produção Criativa! Um espaço para experimentar ideias, explor..."
   },
   {
     "id": 57,
-    "titulo": "Ateliê de Produção Criativa",
+    "nome_curso": "Ateliê de Produção Criativa",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desperte sua criatividade e transforme ideias em arte com o Ateliê de Produção Criativa! Aprenda a c..."
   },
   {
     "id": 58,
-    "titulo": "Ateliê Voz e Piano",
+    "nome_curso": "Ateliê Voz e Piano",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a unir voz e piano em um curso focado no mundo da música e da expressão artística. Desenvolv..."
   },
   {
     "id": 59,
-    "titulo": "Automação e Robótica",
+    "nome_curso": "Automação e Robótica",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 60,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Transforme ideias em inovação com tecnologia de ponta! No curso de Automação e Robótica, aprenda a d..."
   },
   {
     "id": 60,
-    "titulo": "Balé do Teatro Escola Basileu França Júnior - B",
+    "nome_curso": "Balé do Teatro Escola Basileu França Júnior - B",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 500,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "A Cia Jovem do Teatro Escola Basileu França é um espaço para aprimoramento artístico e experiências ..."
   },
   {
     "id": 61,
-    "titulo": "Balé Fraldinha Basileu França - BFBF",
+    "nome_curso": "Balé Fraldinha Basileu França - BFBF",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "O Balé Fraldinha Basileu França é a introdução perfeita ao mundo da dança para os pequenos. Com ativ..."
   },
   {
     "id": 62,
-    "titulo": "Balé Infantil Basileu França - BIBF",
+    "nome_curso": "Balé Infantil Basileu França - BIBF",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "O Balé Infantil Basileu França é um curso que introduz as crianças ao universo da dança clássica. Co..."
   },
   {
     "id": 63,
-    "titulo": "Balé Juvenil Basileu França - BJBF",
+    "nome_curso": "Balé Juvenil Basileu França - BJBF",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 330,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "O Balé Juvenil Basileu França oferece formação técnica e artística para jovens bailarinos. Com aulas..."
   },
   {
     "id": 64,
-    "titulo": "Balet Grau I",
+    "nome_curso": "Balet Grau I",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 252,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Dê seus primeiros passos no Ballet Grau I e aprenda as técnicas básicas dessa dança clássica de form..."
   },
   {
     "id": 65,
-    "titulo": "Balet Grau IV",
+    "nome_curso": "Balet Grau IV",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 360,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Domine os movimentos mais desafiadores e ganhe força, agilidade e autonomia, preparando-se para bril..."
   },
   {
     "id": 66,
-    "titulo": "Ballet Baby Class",
+    "nome_curso": "Ballet Baby Class",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 110,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Introduza seu filho no mundo do Ballet Baby Class e ajude no desenvolvimento da coordenação, do ritm..."
   },
   {
     "id": 67,
-    "titulo": "Ballet Grau II",
+    "nome_curso": "Ballet Grau II",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 252,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprofunde seus conhecimentos no Ballet Grau II e melhore sua técnica com aulas práticas de barra e e..."
   },
   {
     "id": 68,
-    "titulo": "Ballet Grau III",
+    "nome_curso": "Ballet Grau III",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 324,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Evolua sua técnica no Ballet Grau III e inicie o aprendizado nas sapatilhas de ponta com segurança.\r..."
   },
   {
     "id": 69,
-    "titulo": "Ballet Grau V",
+    "nome_curso": "Ballet Grau V",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 360,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aperfeiçoe sua arte no Ballet Grau V com técnicas avançadas de pontas e dança contemporânea.\r\nPrepar..."
   },
   {
     "id": 70,
-    "titulo": "Ballet Intermediário",
+    "nome_curso": "Ballet Intermediário",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 324,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desafie seus limites no Ballet Intermediário e domine saltos, giros e variações de grandes espetácul..."
   },
   {
     "id": 71,
-    "titulo": "Ballet Intermediário I",
+    "nome_curso": "Ballet Intermediário I",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 400,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desenvolvimento de habilidades complexas do ballet intermediário, estudo da nomenclatura e técnica a..."
   },
   {
     "id": 72,
-    "titulo": "Ballet Preparatório I",
+    "nome_curso": "Ballet Preparatório I",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 110,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Ballet Preparatório I e comece a descobrir a magia da dança com os primeiros passos e ritmos..."
   },
   {
     "id": 73,
-    "titulo": "Ballet Preparatório II",
+    "nome_curso": "Ballet Preparatório II",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 144,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprimore seus movimentos no Ballet Preparatório II e fortaleça seu corpo para novos desafios na danç..."
   },
   {
     "id": 74,
-    "titulo": "Banda Sinfônica Jovem de Goiás – BSJG",
+    "nome_curso": "Banda Sinfônica Jovem de Goiás – BSJG",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 260,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Prepare-se para tocar em bandas sinfônicas com uma formação sólida em repertório e técnicas musicais..."
   },
   {
     "id": 75,
-    "titulo": "Big Band Basileu França – BBBF",
+    "nome_curso": "Big Band Basileu França – BBBF",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Receba educação musical básica e capacitação técnica para atuar em big bands e grupos instrumentais...."
   },
   {
     "id": 76,
-    "titulo": "Camerata de Cordas Friccionadas",
+    "nome_curso": "Camerata de Cordas Friccionadas",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Explore a arte das cordas friccionadas em um ambiente de grupo, aprimorando suas habilidades em viol..."
   },
   {
     "id": 77,
-    "titulo": "Camerata de Sopros",
+    "nome_curso": "Camerata de Sopros",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a tocar instrumentos de sopro em grupo e descubra a beleza de fazer música junto com outras ..."
   },
   {
     "id": 78,
-    "titulo": "Camerata de Violão",
+    "nome_curso": "Camerata de Violão",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Capacite-se em técnicas de violão e desenvolva habilidades específicas para o mercado. Aprenda a ler..."
   },
   {
     "id": 79,
-    "titulo": "Camerata de Violoncelo",
+    "nome_curso": "Camerata de Violoncelo",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Participe da Camerata de Violoncelo e aprimore suas habilidades no instrumento, tocando em conjunto ..."
   },
   {
     "id": 80,
-    "titulo": "Captação de Recursos de Editais de Fomento",
+    "nome_curso": "Captação de Recursos de Editais de Fomento",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Este curso destina-se a contribuir na capacitação de interessados na elaborção e submissão de propos..."
   },
   {
     "id": 81,
-    "titulo": "Cerâmica Decorativa Artesanal",
+    "nome_curso": "Cerâmica Decorativa Artesanal",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Crie peças únicas e cheias de estilo com o curso de Cerâmica Decorativa Artesanal. Aprenda técnicas ..."
   },
   {
     "id": 82,
-    "titulo": "Cerâmica Decorativa Artesanal",
+    "nome_curso": "Cerâmica Decorativa Artesanal",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desenvolva projetos artísticos em cerâmica, explorando criação e experimentação com diferentes tipos..."
   },
   {
     "id": 83,
-    "titulo": "Ceramista",
+    "nome_curso": "Ceramista",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Explore o universo da cerâmica no curso de Ceramista. Aprenda técnicas de modelagem, esmaltação e ac..."
   },
   {
     "id": 84,
-    "titulo": "Ceramista",
+    "nome_curso": "Ceramista",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a criar peças de cerâmica do projeto ao acabamento final! Conheça técnicas de produção, quei..."
   },
   {
     "id": 85,
-    "titulo": "Cia de Dança Contemporânea Basileu França - CIA",
+    "nome_curso": "Cia de Dança Contemporânea Basileu França - CIA",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 180,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "A Cia de Dança Contemporânea Basileu França é um espaço de criação e aperfeiçoamento para bailarinos..."
   },
   {
     "id": 86,
-    "titulo": "Cia Jovem do Teatro Escola Basileu França - CIABF",
+    "nome_curso": "Cia Jovem do Teatro Escola Basileu França - CIABF",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 500,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "A Cia Jovem do Teatro Escola Basileu França é um espaço para aprimoramento artístico e experiências ..."
   },
   {
     "id": 87,
-    "titulo": "Circo Avançado Adulto",
+    "nome_curso": "Circo Avançado Adulto",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Eleve suas habilidades circenses com um curso avançado e desafiador. Aprimore técnicas em acrobacias..."
   },
   {
     "id": 88,
-    "titulo": "Circo Avançado Infanto",
+    "nome_curso": "Circo Avançado Infanto",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Para crianças que já têm experiência no circo e querem aprimorar suas habilidades. Um curso dinâmico..."
   },
   {
     "id": 89,
-    "titulo": "Circo Avançado Juvenil",
+    "nome_curso": "Circo Avançado Juvenil",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprimore suas técnicas circenses em um curso desafiador e dinâmico. Desenvolva acrobacias, malabaris..."
   },
   {
     "id": 90,
-    "titulo": "Circo Iniciante Adulto",
+    "nome_curso": "Circo Iniciante Adulto",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra a arte do circo em um curso envolvente e desafiador. Aprenda acrobacias, malabarismo e outr..."
   },
   {
     "id": 91,
-    "titulo": "Circo Iniciante Infanto",
+    "nome_curso": "Circo Iniciante Infanto",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra o mundo do circo de forma divertida e segura. Um curso para crianças explorarem acrobacias,..."
   },
   {
     "id": 92,
-    "titulo": "Circo Iniciante Juvenil",
+    "nome_curso": "Circo Iniciante Juvenil",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda os fundamentos do circo em um curso dinâmico e envolvente. Desenvolva equilíbrio, força e cr..."
   },
   {
     "id": 93,
-    "titulo": "Colagem e Assemblagem",
+    "nome_curso": "Colagem e Assemblagem",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Solte a imaginação no curso Colagem e Assemblage! Aprenda a transformar imagens, objetos e fragmento..."
   },
   {
     "id": 94,
-    "titulo": "Coletivo de Artes Visuais",
+    "nome_curso": "Coletivo de Artes Visuais",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 350,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desenvolva sua criatividade e amplie sua visão artística no Coletivo de Artes Visuais! Um curso imer..."
   },
   {
     "id": 95,
-    "titulo": "Competências Empreendedoras",
+    "nome_curso": "Competências Empreendedoras",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desenvolva seu espírito empreendedor aprendendo a negociar, motivar seu time e vender de maneira efi..."
   },
   {
     "id": 96,
-    "titulo": "Consultoria em Agronegócio",
+    "nome_curso": "Consultoria em Agronegócio",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Domine estratégias de gestão e inovação com o curso de Consultoria em Agronegócio. Aprenda a impulsi..."
   },
   {
     "id": 97,
-    "titulo": "Corda Bamba IV",
+    "nome_curso": "Corda Bamba IV",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que tal aprender a se equilibrar na corda bamba? Neste curso você aprende a ficar sentado e deitado ..."
   },
   {
     "id": 98,
-    "titulo": "Corpo Circense",
+    "nome_curso": "Corpo Circense",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "O Corpo Circense do Basileu França é um espaço de criação e aperfeiçoamento para artistas do circo. ..."
   },
   {
     "id": 99,
-    "titulo": "Criação de Conteúdo Digital",
+    "nome_curso": "Criação de Conteúdo Digital",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Trabalhe criando conteúdo de qualidade para seus clientes. Aprenda a planejar o conteúdo digital, ti..."
   },
   {
     "id": 100,
-    "titulo": "Criação e Edição Multimídia",
+    "nome_curso": "Criação e Edição Multimídia",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a criar e editar imagens; Manipular elementos visuais em editores de imagens; Aplicar filtro..."
   },
   {
     "id": 101,
-    "titulo": "Curso Superior de Tecnologia em Produção Cênica",
+    "nome_curso": "Curso Superior de Tecnologia em Produção Cênica",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Superior de técnologia",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Superior de Tecnologia",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 1900,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a planejar, implementar e executar projetos cênicos e culturais."
   },
   {
     "id": 102,
-    "titulo": "Dança - Nível 1 - Dança Oriental Árabe",
+    "nome_curso": "Dança - Nível 1 - Dança Oriental Árabe",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra a magia e o ritmo da dança árabe e aprenda a se expressar com elegância e consciência corpo..."
   },
   {
     "id": 103,
-    "titulo": "Dança - Nível 1 - Danças Urbanas",
+    "nome_curso": "Dança - Nível 1 - Danças Urbanas",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Entre no ritmo das Danças Urbanas e aprenda os movimentos que dominam as ruas e os palcos de um jeit..."
   },
   {
     "id": 104,
-    "titulo": "Dança de Rua Basileu França - DRBF",
+    "nome_curso": "Dança de Rua Basileu França - DRBF",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 180,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "O Dança de Rua Basileu França é um curso voltado para quem quer aprender e aperfeiçoar técnicas da d..."
   },
   {
     "id": 105,
-    "titulo": "Dança de Rua Basileu França Juvenil - DRBFJ",
+    "nome_curso": "Dança de Rua Basileu França Juvenil - DRBFJ",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 180,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "O Dança de Rua Basileu França Juvenil é um curso para jovens que desejam explorar a cultura e os est..."
   },
   {
     "id": 106,
-    "titulo": "Dança de Rua Juvenil",
+    "nome_curso": "Dança de Rua Juvenil",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 500,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desenvolva e aperfeiçoe suas habilidades técnicas sobre os fundamentos das Danças Urbanas, como o Hi..."
   },
   {
     "id": 107,
-    "titulo": "Dança Moderna e Contemporânea",
+    "nome_curso": "Dança Moderna e Contemporânea",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 270,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Dança Moderna e Contemporânea e descubra novas formas de expressar seus sentimentos através ..."
   },
   {
     "id": 108,
-    "titulo": "Dança Moderna e Contemporânea I",
+    "nome_curso": "Dança Moderna e Contemporânea I",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 380,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desenvolva a técnica e postura da dança moderna e contemporânea. Utilize o espaço de forma eficaz e ..."
   },
   {
     "id": 109,
-    "titulo": "Danças Urbanas I",
+    "nome_curso": "Danças Urbanas I",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aperfeiçoe técnicas de Hip-Hop e House Dance. Desenvolva coordenação e ritmo. Participe de apresenta..."
   },
   {
     "id": 110,
-    "titulo": "Danças Urbanas I",
+    "nome_curso": "Danças Urbanas I",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 270,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Danças Urbanas I e descubra o prazer de se movimentar com ritmo, coordenação e consciência c..."
   },
   {
     "id": 111,
-    "titulo": "Danças Urbanas II",
+    "nome_curso": "Danças Urbanas II",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Jazz Funk e estilos comerciais. Desenvolva coordenação e ritmo. Participe de apresentações t..."
   },
   {
     "id": 112,
-    "titulo": "Danças Urbanas Infanto Juvenil",
+    "nome_curso": "Danças Urbanas Infanto Juvenil",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 180,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Hip-Hop, desenvolva coordenação e ritmo. Participe de apresentações teatrais e crie para o e..."
   },
   {
     "id": 113,
-    "titulo": "Danças Urbanas ll",
+    "nome_curso": "Danças Urbanas ll",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 270,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprimore seu estilo nas Danças Urbanas II e aprofunde seus conhecimentos de coreografia.\r\nFortaleça ..."
   },
   {
     "id": 114,
-    "titulo": "Desenho 1",
+    "nome_curso": "Desenho 1",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Inicie sua jornada artística no curso de Desenho 1. Aprenda os fundamentos do desenho, como formas, ..."
   },
   {
     "id": 115,
-    "titulo": "Desenho 2 - Figura Humana",
+    "nome_curso": "Desenho 2 - Figura Humana",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a desenhar a figura humana com precisão e expressividade no curso Desenho 2. Domine proporçõ..."
   },
   {
     "id": 116,
-    "titulo": "Desenho 3 - Ilustração",
+    "nome_curso": "Desenho 3 - Ilustração",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aperfeiçoe suas habilidades no curso de Desenho 3 - Ilustração. Aprenda técnicas para criar personag..."
   },
   {
     "id": 117,
-    "titulo": "Desenho Artístico",
+    "nome_curso": "Desenho Artístico",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desenvolva seu olhar e aprimore sua técnica no curso de Desenho Artístico, onde traços ganham vida e..."
   },
   {
     "id": 118,
-    "titulo": "Desenho Auxiliado por Computador",
+    "nome_curso": "Desenho Auxiliado por Computador",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a criar projetos técnicos com precisão usando ferramentas digitais modernas.Domine softwares..."
   },
   {
     "id": 119,
-    "titulo": "Desenho de Figura Humana",
+    "nome_curso": "Desenho de Figura Humana",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a representar o corpo humano com precisão e sensibilidade no curso de Desenho de Figura Huma..."
   },
   {
     "id": 120,
-    "titulo": "Desenvolvedor Python: Nível Intermediário",
+    "nome_curso": "Desenvolvedor Python: Nível Intermediário",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Com este curso você aprende técnicas para criar programas com interfaces gráficas e desenvolver solu..."
   },
   {
     "id": 121,
-    "titulo": "Desenvolvimento Mobile",
+    "nome_curso": "Desenvolvimento Mobile",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": null,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda sobre uma das profissões mais demandadas do momento! Saiba como criar jogos e aplicativos mó..."
   },
   {
     "id": 122,
-    "titulo": "Desenvolvimento Web Back-End",
+    "nome_curso": "Desenvolvimento Web Back-End",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 200,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Para que uma interface computacional funcione é necessário desenvolver uma série de códigos. Essas t..."
   },
   {
     "id": 123,
-    "titulo": "Desenvolvimento Web Front-End",
+    "nome_curso": "Desenvolvimento Web Front-End",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 200,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "A área de desenvolvimento Web Front-End é a ponte que une os mundos do design e da programação. O De..."
   },
   {
     "id": 124,
-    "titulo": "Design e Prototipagem",
+    "nome_curso": "Design e Prototipagem",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Design e Prototipagem e transforme suas ideias em produtos concretos. Desenvolva habilidades..."
   },
   {
     "id": 125,
-    "titulo": "Design Thinking e Gestão da Criatividade",
+    "nome_curso": "Design Thinking e Gestão da Criatividade",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Inove com estratégia e criatividade! No curso de Design Thinking e Gestão da Criatividade, descubra ..."
   },
   {
     "id": 126,
-    "titulo": "Desktop GNU-Linux",
+    "nome_curso": "Desktop GNU-Linux",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra todo o potencial do Desktop GNU/Linux: um sistema rápido, seguro e personalizável. Aprenda ..."
   },
   {
     "id": 127,
-    "titulo": "E-commerce",
+    "nome_curso": "E-commerce",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Torne-se um especialista em Comércio Eletrônico. Entenda o que fazer para deixar seu e-commerce com ..."
   },
   {
     "id": 128,
-    "titulo": "Empreendedorismo Criativo",
+    "nome_curso": "Empreendedorismo Criativo",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Transforme ideias em negócios inovadores! No curso de Empreendedorismo Criativo, aprenda a unir cria..."
   },
   {
     "id": 129,
-    "titulo": "Empresas Digitais: Gestão do Negócio e Criação",
+    "nome_curso": "Empresas Digitais: Gestão do Negócio e Criação",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Prepare-se para o futuro dos negócios! No curso de Empresas Digitais, aprenda a criar, gerenciar e e..."
   },
   {
     "id": 130,
-    "titulo": "Escada Livre IV",
+    "nome_curso": "Escada Livre IV",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que tal ter domínio do equilibrismo na Escada de Equilíbrio? Neste curso você aprende métodos, abord..."
   },
   {
     "id": 131,
-    "titulo": "Estratégias de Design de Negócios",
+    "nome_curso": "Estratégias de Design de Negócios",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Conheça e utilize ferramentas para estimular a criatividade e melhore seu pensamento analítico e cri..."
   },
   {
     "id": 132,
-    "titulo": "Experiência do Usuário/Consumidor (UX)",
+    "nome_curso": "Experiência do Usuário/Consumidor (UX)",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que tal se tornar um especialista na experiência do cliente? Neste curso você aprende a entender e a..."
   },
   {
     "id": 133,
-    "titulo": "Flexibilidade II",
+    "nome_curso": "Flexibilidade II",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que tal ganhar mais flexibilidade para suas atividades circenses? Neste curso você aprende como melh..."
   },
   {
     "id": 134,
-    "titulo": "Formação Artística Avançada em Teatro",
+    "nome_curso": "Formação Artística Avançada em Teatro",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Teatro",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 368,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Neste curso você aprende as técnicas necessárias para se tornar atriz/ator. Participe de jogos de im..."
   },
   {
     "id": 135,
-    "titulo": "Formação artística em teatro",
+    "nome_curso": "Formação artística em teatro",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Técnico de nivel médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Teatro",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Neste curso você conhecerá os diferentes conceitos de dramaturgia em teatro, entenderá como ocorrem ..."
   },
   {
     "id": 136,
-    "titulo": "Formação Artística Iniciante em Teatro",
+    "nome_curso": "Formação Artística Iniciante em Teatro",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Teatro",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": null,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Neste curso você aprende as técnicas necessárias para se tornar atriz/ator. Participe de jogos de im..."
   },
   {
     "id": 137,
-    "titulo": "Formação Artística Intermediária em Teatro",
+    "nome_curso": "Formação Artística Intermediária em Teatro",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Teatro",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 368,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Neste curso você aprende as técnicas necessárias para se tornar atriz/ator. Participe de jogos de im..."
   },
   {
     "id": 138,
-    "titulo": "Formação Inicial Artística em Artes Visuais I",
+    "nome_curso": "Formação Inicial Artística em Artes Visuais I",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Dê os primeiros passos no mundo das artes com o curso de Formação Inicial Artística em Artes Visuais..."
   },
   {
     "id": 139,
-    "titulo": "Formação Inicial Artística em Artes Visuais II",
+    "nome_curso": "Formação Inicial Artística em Artes Visuais II",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desenvolva sua criatividade com o curso de Formação Inicial Artística em Artes Visuais II. Aprenda f..."
   },
   {
     "id": 140,
-    "titulo": "Formação Inicial Artística em Artes Visuais III",
+    "nome_curso": "Formação Inicial Artística em Artes Visuais III",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Amplie sua expressão criativa no curso de Formação Inicial Artística em Artes Visuais III. Explore t..."
   },
   {
     "id": 141,
-    "titulo": "Fotografia de Produtos e Tratamento de Imagem Digi",
+    "nome_curso": "Fotografia de Produtos e Tratamento de Imagem Digi",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Encante seus clientes pelos olhos! Aprenda a produzir fotografias para vendas online e editar imagen..."
   },
   {
     "id": 142,
-    "titulo": "Fundamentos do  Agronegócio",
+    "nome_curso": "Fundamentos do  Agronegócio",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desvende o universo do agronegócio! No curso de Fundamentos do Agronegócio, compreenda as bases econ..."
   },
   {
     "id": 143,
-    "titulo": "Fundamentos do Desenho",
+    "nome_curso": "Fundamentos do Desenho",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra as bases da arte no curso Fundamentos do Desenho, onde você aprende do zero a observar, tra..."
   },
   {
     "id": 144,
-    "titulo": "Gestão de Anúncios",
+    "nome_curso": "Gestão de Anúncios",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a anunciar no lugar certo, na hora certa, para as pessoas certas! Crie campanhas eficazes e ..."
   },
   {
     "id": 145,
-    "titulo": "Gestão de Custos e Eficiência no Agronegócio",
+    "nome_curso": "Gestão de Custos e Eficiência no Agronegócio",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Maximize os resultados no agronegócio com gestão eficiente! No curso de Gestão de Custos e Eficiênci..."
   },
   {
     "id": 146,
-    "titulo": "Gestão do Negócio e Criação de Valor",
+    "nome_curso": "Gestão do Negócio e Criação de Valor",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Explore canais de venda, domine a gestão de custos e formação de preço, aprimore sua liderança e hab..."
   },
   {
     "id": 147,
-    "titulo": "Gestão Estratégica no Agronegócio",
+    "nome_curso": "Gestão Estratégica no Agronegócio",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a aplicar estratégias de gestão para impulsionar o crescimento no agronegócio! No curso de G..."
   },
   {
     "id": 148,
-    "titulo": "Gravura - Xilo I",
+    "nome_curso": "Gravura - Xilo I",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Explore o universo da arte impressa no curso Gravura – Xilo I, aprendendo a criar imagens potentes a..."
   },
   {
     "id": 149,
-    "titulo": "Gravura - Xilo l",
+    "nome_curso": "Gravura - Xilo l",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda xilogravura do início ao fim! Curso prático e acessível, ensinando preparação do material, u..."
   },
   {
     "id": 150,
-    "titulo": "Grupo Vai...Idade",
+    "nome_curso": "Grupo Vai...Idade",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Teatro",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 200,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desenvolva e monte um espetáculo teatral investigando a arte do envelhecimento. Aprimore suas habili..."
   },
   {
     "id": 151,
-    "titulo": "Guitarra Rock e Blues",
+    "nome_curso": "Guitarra Rock e Blues",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Explore os estilos rock e blues, aprenda improvisação e fundamentos musicais, e prepare-se para o me..."
   },
   {
     "id": 152,
-    "titulo": "Guitarra Rock e Blues",
+    "nome_curso": "Guitarra Rock e Blues",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda as bases da guitarra Rock e Blues e comece a tocar seus primeiros acordes e solos com atitud..."
   },
   {
     "id": 153,
-    "titulo": "História da Arte",
+    "nome_curso": "História da Arte",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Viaje pelas imagens, estilos e movimentos que marcaram épocas no curso de História da Arte. Entenda ..."
   },
   {
     "id": 154,
-    "titulo": "Qualificação profissional",
+    "nome_curso": "Qualificação profissional",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 60,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "O curso de Iniciação Coletiva ao Instrumento Musical oferece uma \nintrodução divertida e prática à m..."
   },
   {
     "id": 155,
-    "titulo": "Iniciação Coletiva ao Instrumento Musical",
+    "nome_curso": "Iniciação Coletiva ao Instrumento Musical",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 200,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "O curso de Iniciação Coletivo ao Instrumento Musical oferece formação básica e acessível para quem d..."
   },
   {
     "id": 156,
-    "titulo": "Iniciação Coletiva ao Instrumento Musical",
+    "nome_curso": "Iniciação Coletiva ao Instrumento Musical",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Escolha seu instrumento e dê o primeiro passo no mundo da música aprendendo em grupo. Desenvolva seu..."
   },
   {
     "id": 157,
-    "titulo": "Instrumento Musical",
+    "nome_curso": "Instrumento Musical",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 44,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Escolha o instrumento que você ama e aprenda a tocar com técnica, ritmo e dedicação.\r\nDesenvolva seu..."
   },
   {
     "id": 158,
-    "titulo": "Instrumento Musical - Iniciante",
+    "nome_curso": "Instrumento Musical - Iniciante",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a tocar seu primeiro instrumento de forma fácil e divertida!  Com aulas práticas e didá..."
   },
   {
     "id": 159,
-    "titulo": "Instrumento Musical - Iniciante",
+    "nome_curso": "Instrumento Musical - Iniciante",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a tocar seu primeiro instrumento de forma fácil e divertida!  Com aulas práticas e didá..."
   },
   {
     "id": 160,
-    "titulo": "Instrumento Musical - Nível 1 - Cordas Friccionad",
+    "nome_curso": "Instrumento Musical - Nível 1 - Cordas Friccionad",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que tal fazer um desenvolvimento e\nconhecimento de repertório variado em instrumentos de cordas fric..."
   },
   {
     "id": 161,
-    "titulo": "Instrumento Musical - Nível 1 - Flauta Doce",
+    "nome_curso": "Instrumento Musical - Nível 1 - Flauta Doce",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Inicie sua jornada musical com a flauta doce, aprendendo técnicas básicas de sopro, articulação e le..."
   },
   {
     "id": 162,
-    "titulo": "Instrumento Musical - Nível 1 - Metais Heterogên",
+    "nome_curso": "Instrumento Musical - Nível 1 - Metais Heterogên",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que tal aprender a tocar metais? Neste curso você dá os primeiros passos para se preparar musicalmen..."
   },
   {
     "id": 163,
-    "titulo": "Instrumento Musical - Nível 1 - Violão",
+    "nome_curso": "Instrumento Musical - Nível 1 - Violão",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que tal aprender a tocar violão? Neste curso você inicia em práticas de sensibilização musical, além..."
   },
   {
     "id": 164,
-    "titulo": "Instrumento Musical - Nível 2 - Cordas Friccionad",
+    "nome_curso": "Instrumento Musical - Nível 2 - Cordas Friccionad",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprimore sua técnica em instrumentos de cordas friccionadas, explorando novos repertórios e expressi..."
   },
   {
     "id": 165,
-    "titulo": "Instrumento Musical - Nível 2 - Flauta Doce",
+    "nome_curso": "Instrumento Musical - Nível 2 - Flauta Doce",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprofunde sua técnica na flauta doce, explorando repertórios mais desafiadores e aperfeiçoando sua m..."
   },
   {
     "id": 166,
-    "titulo": "Instrumento Musical - Nível 2 - Violão",
+    "nome_curso": "Instrumento Musical - Nível 2 - Violão",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprofunde seu conhecimento no violão, desenvolvendo técnicas avançadas e explorando novos repertório..."
   },
   {
     "id": 167,
-    "titulo": "Instrumento Musical - Nível 3 - Flauta Doce",
+    "nome_curso": "Instrumento Musical - Nível 3 - Flauta Doce",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprimore suas habilidades musicais no curso Instrumento Musical - Nível 3 - Flauta Doce, com técnica..."
   },
   {
     "id": 168,
-    "titulo": "Instrumento Musical - Nível 3 - Violão",
+    "nome_curso": "Instrumento Musical - Nível 3 - Violão",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprimore seu talento no curso Instrumento Musical – Nível 3 – Violão, voltado para quem já tem exper..."
   },
   {
     "id": 169,
-    "titulo": "Instrumento Musical - Nível Avançado",
+    "nome_curso": "Instrumento Musical - Nível Avançado",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprofunde suas habilidades musicais com o curso de Instrumento Musical - Nível Avançado. Aprimore té..."
   },
   {
     "id": 170,
-    "titulo": "Instrumento Musical - Nível Básico",
+    "nome_curso": "Instrumento Musical - Nível Básico",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Dê os primeiros passos na música com o curso de Instrumento Musical - Nível Básico. Aprenda técnica,..."
   },
   {
     "id": 171,
-    "titulo": "Instrumento Musical - Nível Iniciante - Flauta Do",
+    "nome_curso": "Instrumento Musical - Nível Iniciante - Flauta Do",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que aprender começar a aprender a tocar flauta doce? Neste curso você inicia a prática deste instrum..."
   },
   {
     "id": 172,
-    "titulo": "Instrumento Musical - Nível Intermediário",
+    "nome_curso": "Instrumento Musical - Nível Intermediário",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desenvolva sua técnica e amplie seu repertório no curso de Instrumento Musical - Nível Intermediário..."
   },
   {
     "id": 173,
-    "titulo": "Instrumento Musical – Nível 3 – Cordas Fricci",
+    "nome_curso": "Instrumento Musical – Nível 3 – Cordas Fricci",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "O curso é ideal para quem já possui alguma experiência e deseja aprimorar suas habilidades. Com qual..."
   },
   {
     "id": 174,
-    "titulo": "Instrumento Musical Violão - Iniciante",
+    "nome_curso": "Instrumento Musical Violão - Iniciante",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a tocar violão do zero de forma fácil e prática! Com aulas dinâmicas, você vai dominar os pr..."
   },
   {
     "id": 175,
-    "titulo": "Inteligência Artificial",
+    "nome_curso": "Inteligência Artificial",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra o poder da tecnologia que transforma o mundo! No curso de Inteligência Artificial, aprenda ..."
   },
   {
     "id": 176,
-    "titulo": "Interpretação Teatral I",
+    "nome_curso": "Interpretação Teatral I",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Teatro",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 368,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Entre em cena e atue como ator ou atriz no campo das artes cênicas, através da prática em conjunto, ..."
   },
   {
     "id": 177,
-    "titulo": "Interpretação Teatral II",
+    "nome_curso": "Interpretação Teatral II",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Teatro",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 368,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Entre em cena e atue como ator ou atriz no campo das artes cênicas, através da prática em conjunto, ..."
   },
   {
     "id": 178,
-    "titulo": "Introdução à Programação de Computadores",
+    "nome_curso": "Introdução à Programação de Computadores",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 60,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda os fundamentos da lógica de programação e domine as principais linguagens utilizadas no merc..."
   },
   {
     "id": 179,
-    "titulo": "Jazz Combo",
+    "nome_curso": "Jazz Combo",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Jazz Combo e descubra como tocar em grupo, combinando técnica, ritmo e muita prática musical..."
   },
   {
     "id": 180,
-    "titulo": "Joias em Vidro (Fusing)",
+    "nome_curso": "Joias em Vidro (Fusing)",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Explore o mundo da joalheria com vidro! No curso \"Joias em Vidro (Fusing)\", você aprenderá a técnica..."
   },
   {
     "id": 181,
-    "titulo": "Laboratório de Arte em Vidro (Fusing)",
+    "nome_curso": "Laboratório de Arte em Vidro (Fusing)",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra a magia do vidro no Laboratório de Arte Vidro (Fusing), onde calor e criatividade se unem p..."
   },
   {
     "id": 182,
-    "titulo": "Laboratório de Harmonia e Improvisação",
+    "nome_curso": "Laboratório de Harmonia e Improvisação",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desenvolva habilidades em improvisação e harmonia para fortalecer sua base musical e sua carreira."
   },
   {
     "id": 183,
-    "titulo": "Laboratório de Pintura",
+    "nome_curso": "Laboratório de Pintura",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Liberte seu talento artístico no \"Laboratório de Pintura\"! Neste curso, você experimentará diferente..."
   },
   {
     "id": 184,
-    "titulo": "Laboratório de Pintura",
+    "nome_curso": "Laboratório de Pintura",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desperte sua criatividade no Laboratório de Pintura, um curso que convida você a explorar cores, téc..."
   },
   {
     "id": 185,
-    "titulo": "Laboratório de Pintura Experimental",
+    "nome_curso": "Laboratório de Pintura Experimental",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Solte sua criatividade no Laboratório de Pintura Experimental! Aqui, você explora técnicas inovadora..."
   },
   {
     "id": 186,
-    "titulo": "Liderança e Gestão Estratégica de Pessoas",
+    "nome_curso": "Liderança e Gestão Estratégica de Pessoas",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a liderar e gerenciar pessoas de forma estratégica. Explore tendências, ferramentas de comun..."
   },
   {
     "id": 187,
-    "titulo": "Lira Acrobática IV",
+    "nome_curso": "Lira Acrobática IV",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 60,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que tal ficar craque em lira acrobática? Neste curso você realizará equilíbrios diversos, executará ..."
   },
   {
     "id": 188,
-    "titulo": "Malabares e Equilíbrios I",
+    "nome_curso": "Malabares e Equilíbrios I",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda os fundamentos de malabares e equilibrismo de forma divertida e desafiadora. Este curso intr..."
   },
   {
     "id": 189,
-    "titulo": "Malabares e Equilíbrios II",
+    "nome_curso": "Malabares e Equilíbrios II",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aperfeiçoe suas habilidades em malabares e equilibrismo com este curso intermediário. Desafie seu fo..."
   },
   {
     "id": 190,
-    "titulo": "Marketing  Aplicado ao  Agronegócio",
+    "nome_curso": "Marketing  Aplicado ao  Agronegócio",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Impulsione o agronegócio com estratégias certeiras! No curso de Marketing Aplicado ao Agronegócio, a..."
   },
   {
     "id": 191,
-    "titulo": "Marketing Digital",
+    "nome_curso": "Marketing Digital",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a consolidar a presença digital da sua marca! Seja visto e seja lembrado. Analise o mercado ..."
   },
   {
     "id": 192,
-    "titulo": "Marketing Digital",
+    "nome_curso": "Marketing Digital",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Neste curso você aprende a construir marcas de sucesso na internet através das técnicas de Marketing..."
   },
   {
     "id": 193,
-    "titulo": "Marketing e Mídias Sociais",
+    "nome_curso": "Marketing e Mídias Sociais",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 1040,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Saiba como turbinar seu E-commerce e suas redes sociais! No curso Marketing e Mídias Sociais você ap..."
   },
   {
     "id": 194,
-    "titulo": "Matemática aplicada a Eletrônica",
+    "nome_curso": "Matemática aplicada a Eletrônica",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Domine conceitos matemáticos essenciais para a eletrônica! No curso de Matemática Aplicada à Eletrôn..."
   },
   {
     "id": 195,
-    "titulo": "Matemática Básica",
+    "nome_curso": "Matemática Básica",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Reforce os fundamentos da matemática. Estude operações aritméticas, equações, funções e suas aplicaç..."
   },
   {
     "id": 196,
-    "titulo": "Mídias Sociais",
+    "nome_curso": "Mídias Sociais",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Seja um especialista em Redes Sociais! Use essa ferramenta para vender seus produtos e se conectar c..."
   },
   {
     "id": 197,
-    "titulo": "Móbile da Imaginação 1",
+    "nome_curso": "Móbile da Imaginação 1",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Arte Educação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aulas de música, circo, artes visuais, teatro e dança, facilitando a escolha e ingresso posterior em..."
   },
   {
     "id": 198,
-    "titulo": "Móbile da Imaginação 2",
+    "nome_curso": "Móbile da Imaginação 2",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Arte Educação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aulas de música, circo, artes visuais, teatro e dança, facilitando a escolha e ingresso posterior em..."
   },
   {
     "id": 199,
-    "titulo": "Móbile da Imaginação 3",
+    "nome_curso": "Móbile da Imaginação 3",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Arte Educação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aulas de música, circo, artes visuais, teatro e dança, facilitando a escolha e ingresso posterior em..."
   },
   {
     "id": 200,
-    "titulo": "Móbile da Imaginação 4",
+    "nome_curso": "Móbile da Imaginação 4",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Arte Educação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aulas de música, circo, artes visuais, teatro e dança, facilitando a escolha e ingresso posterior em..."
   },
   {
     "id": 201,
-    "titulo": "Modelagem em Argila",
+    "nome_curso": "Modelagem em Argila",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Dê forma à sua criatividade no curso de Modelagem em Argila. Aprenda técnicas essenciais para criar ..."
   },
   {
     "id": 202,
-    "titulo": "Monociclo III",
+    "nome_curso": "Monociclo III",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que tal aprender técnicas de Monociclo? Neste curso você aprende a pedalar para frente e para trás, ..."
   },
   {
     "id": 203,
-    "titulo": "Mosaico",
+    "nome_curso": "Mosaico",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Crie peças únicas e cheias de estilo com nosso curso de mosaico. Aprenda técnicas de corte, montagem..."
   },
   {
     "id": 204,
-    "titulo": "NAH  - Corpo  Cênico",
+    "nome_curso": "NAH  - Corpo  Cênico",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Teatro",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 360,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra como explorar o movimento e a expressão corporal em uma jornada criativa que conecta arte e..."
   },
   {
     "id": 205,
-    "titulo": "Novelo das Artes 1",
+    "nome_curso": "Novelo das Artes 1",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Arte Educação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aulas de teatro, dança, artes visuais, música e circo, para desenvolver habilidades artísticas e fac..."
   },
   {
     "id": 206,
-    "titulo": "Novelo das Artes 2",
+    "nome_curso": "Novelo das Artes 2",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Arte Educação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aulas de teatro, dança, artes visuais, música e circo, para desenvolver habilidades artísticas e fac..."
   },
   {
     "id": 207,
-    "titulo": "Novelo das Artes 3",
+    "nome_curso": "Novelo das Artes 3",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Arte Educação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aulas de teatro, dança, artes visuais, música e circo, para desenvolver habilidades artísticas e fac..."
   },
   {
     "id": 208,
-    "titulo": "Novelo das Artes 4",
+    "nome_curso": "Novelo das Artes 4",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Arte Educação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aulas de teatro, dança, artes visuais, música e circo, para desenvolver habilidades artísticas e fac..."
   },
   {
     "id": 209,
-    "titulo": "Núcleo de Choro Basileu França (NCBF)",
+    "nome_curso": "Núcleo de Choro Basileu França (NCBF)",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a tocar Choro e mergulhe na história da nossa música popular de um jeito prático e animado.\r..."
   },
   {
     "id": 210,
-    "titulo": "Ópera Estúdio",
+    "nome_curso": "Ópera Estúdio",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 188,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a unir canto e atuação no Ópera Estúdio e prepare-se para brilhar nos palcos. Desenvolva sua..."
   },
   {
     "id": 211,
-    "titulo": "Orquestra Infantil Mozart",
+    "nome_curso": "Orquestra Infantil Mozart",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra o curso Orquestra Infantil Mozart e transforme a educação das crianças com a magia da músic..."
   },
   {
     "id": 212,
-    "titulo": "Orquestra Infantil Mozart - OIM",
+    "nome_curso": "Orquestra Infantil Mozart - OIM",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprimore sua técnica em cordas friccionadas tocando em grupo, seja no violino, viola, violoncelo ou ..."
   },
   {
     "id": 213,
-    "titulo": "Orquestra Sinfônica Jovem de  Goiás –   OSJG",
+    "nome_curso": "Orquestra Sinfônica Jovem de  Goiás –   OSJG",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 500,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda e evolua na música com a Orquestra Sinfônica Jovem de Goiás. Um curso para jovens instrument..."
   },
   {
     "id": 214,
-    "titulo": "Orquestra Sinfônica Juvenil Pedro Ludovico Teixei",
+    "nome_curso": "Orquestra Sinfônica Juvenil Pedro Ludovico Teixei",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 260,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Adquira uma base sólida para tocar em orquestras sinfônicas com formação em repertório e técnicas."
   },
   {
     "id": 215,
-    "titulo": "Passes de Objetos II",
+    "nome_curso": "Passes de Objetos II",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Quer melhorar suas habilidades no passe de objetos? Confira este curso e tudo o que ele pode lhe ofe..."
   },
   {
     "id": 216,
-    "titulo": "Performance Musical",
+    "nome_curso": "Performance Musical",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desenvolva suas habilidades musicais com o curso Performance Musical. Ele oferece as bases para..."
   },
   {
     "id": 217,
-    "titulo": "Pintura 2 - Acrílica",
+    "nome_curso": "Pintura 2 - Acrílica",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Explore o universo vibrante da pintura acrílica em nosso curso. Aprenda técnicas para criar texturas..."
   },
   {
     "id": 218,
-    "titulo": "Pintura 3 - Aquarela",
+    "nome_curso": "Pintura 3 - Aquarela",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 200,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda as técnicas básicas e avançadas da pintura em aquarela com nosso curso. Descubra como criar ..."
   },
   {
     "id": 219,
-    "titulo": "Pintura a Frio",
+    "nome_curso": "Pintura a Frio",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a técnica de pintura a frio e transforme superfícies em verdadeiras obras de arte. Descubra ..."
   },
   {
     "id": 220,
-    "titulo": "Pintura a Óleo II - Figura Humana",
+    "nome_curso": "Pintura a Óleo II - Figura Humana",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprofunde suas habilidades no curso Pintura a Óleo II - Figura Humana. Aprenda técnicas avançadas pa..."
   },
   {
     "id": 221,
-    "titulo": "Pintura a Óleo II - Figura Humana",
+    "nome_curso": "Pintura a Óleo II - Figura Humana",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprofunde-se na pintura a óleo com foco na figura humana! Aprenda proporção, luz, sombra e expressão..."
   },
   {
     "id": 222,
-    "titulo": "Pintura com Tinta a Óleo I",
+    "nome_curso": "Pintura com Tinta a Óleo I",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra a arte de pintar com tinta a óleo! No curso \"Pintura com Tinta a Óleo I\", você aprenderá té..."
   },
   {
     "id": 223,
-    "titulo": "Pintura com Tinta Acrílica - 2",
+    "nome_curso": "Pintura com Tinta Acrílica - 2",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda pintura com tinta acrílica e técnicas mistas em cursos completos e práticos! Desenvolva seu ..."
   },
   {
     "id": 224,
-    "titulo": "Pintura com Tinta Acrílica - Mista",
+    "nome_curso": "Pintura com Tinta Acrílica - Mista",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda pintura com tinta acrílica e técnicas mistas de forma prática e acessível! Desenvolva seu de..."
   },
   {
     "id": 225,
-    "titulo": "Pintura com Tinta Acrílica I",
+    "nome_curso": "Pintura com Tinta Acrílica I",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Explore o universo da tinta acrílica no curso Pintura com Tinta Acrílica I. Aprenda técnicas básicas..."
   },
   {
     "id": 226,
-    "titulo": "Pintura com Tinta Acrílica II",
+    "nome_curso": "Pintura com Tinta Acrílica II",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprofunde suas técnicas no curso Pintura com Tinta Acrílica II, explorando texturas, camadas e efeit..."
   },
   {
     "id": 227,
-    "titulo": "Pintura de Figura Humana",
+    "nome_curso": "Pintura de Figura Humana",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a pintar figuras humanas com óleo, usando técnicas variadas em suportes tradicionais e não c..."
   },
   {
     "id": 228,
-    "titulo": "Pintura em Cerâmica",
+    "nome_curso": "Pintura em Cerâmica",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra a arte da pintura em cerâmica! No curso você aprenderá técnicas incríveis para criar peças ..."
   },
   {
     "id": 229,
-    "titulo": "Pintura em Cerâmica",
+    "nome_curso": "Pintura em Cerâmica",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Pintura Vitrificada, Esmaltação e Pintura a Frio e transforme seu talento em renda! Curso co..."
   },
   {
     "id": 230,
-    "titulo": "Pintura em Madeira",
+    "nome_curso": "Pintura em Madeira",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Transforme madeira em arte no curso Pintura em Madeira! Aprenda técnicas para personalizar peças, cr..."
   },
   {
     "id": 231,
-    "titulo": "Pintura em Madeira",
+    "nome_curso": "Pintura em Madeira",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda técnicas avançadas e artesanais para criar peças exclusivas, desde a preparação até o acabam..."
   },
   {
     "id": 232,
-    "titulo": "Pintura em Madeira 3 - Latonagem",
+    "nome_curso": "Pintura em Madeira 3 - Latonagem",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a técnica de latonagem no curso Pintura em Madeira 3. Descubra como combinar pintura e textu..."
   },
   {
     "id": 233,
-    "titulo": "Pintura em Madeira 3 – Latonagem",
+    "nome_curso": "Pintura em Madeira 3 – Latonagem",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Pintura em Madeira – Latonagem e transforme objetos comuns em peças decorativas únicas! Domi..."
   },
   {
     "id": 234,
-    "titulo": "Pintura em Madeira I - Caixas",
+    "nome_curso": "Pintura em Madeira I - Caixas",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra como personalizar e decorar caixas de madeira no curso Pintura em Madeira I. Aprenda técnic..."
   },
   {
     "id": 235,
-    "titulo": "Pintura em Madeira I - Caixas",
+    "nome_curso": "Pintura em Madeira I - Caixas",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a transformar caixas em verdadeiras obras de arte! Curso prático com técnicas de pintura, en..."
   },
   {
     "id": 236,
-    "titulo": "Pintura I - Óleo",
+    "nome_curso": "Pintura I - Óleo",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra o universo da pintura a óleo no curso Pintura I - Óleo! Aprenda técnicas essenciais, desde ..."
   },
   {
     "id": 237,
-    "titulo": "Pintura Vitrificada e Técnicas de Esmaltação",
+    "nome_curso": "Pintura Vitrificada e Técnicas de Esmaltação",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a arte da pintura vitrificada e técnicas de esmaltação no nosso curso. Descubra como aplicar..."
   },
   {
     "id": 238,
-    "titulo": "Pintura Vitrificada e Técnicas de Esmaltação",
+    "nome_curso": "Pintura Vitrificada e Técnicas de Esmaltação",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a arte da pintura vitrificada e técnicas de esmaltação transforme superfícies em obras única..."
   },
   {
     "id": 239,
-    "titulo": "Planejamento de Mídias Sociais",
+    "nome_curso": "Planejamento de Mídias Sociais",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "As redes sociais são como vitrines para vender na internet. Descubra como deixá-las melhores com o c..."
   },
   {
     "id": 240,
-    "titulo": "Planejamento e Criação de Novos Negócios",
+    "nome_curso": "Planejamento e Criação de Novos Negócios",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda as estratégias fundamentais para criar um novo empreendimento, com base em análises críticas..."
   },
   {
     "id": 241,
-    "titulo": "Planejamento Financeiro para Startup",
+    "nome_curso": "Planejamento Financeiro para Startup",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 60,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Garanta o sucesso da sua startup com gestão financeira inteligente! No curso de Planejamento Finance..."
   },
   {
     "id": 242,
-    "titulo": "Português  Instrumental",
+    "nome_curso": "Português  Instrumental",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprimore sua comunicação com precisão e clareza! No curso de Português Instrumental, você desenvolve..."
   },
   {
     "id": 243,
-    "titulo": "Prática Coletiva de Guitarra",
+    "nome_curso": "Prática Coletiva de Guitarra",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desenvolva habilidades na guitarra e aprimore sua técnica, leitura musical e trabalho em grupo."
   },
   {
     "id": 244,
-    "titulo": "Prática Coletiva de Instrumento de Sopros",
+    "nome_curso": "Prática Coletiva de Instrumento de Sopros",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a tocar instrumentos de sopro em grupo e dê seus primeiros passos para se tornar um músico p..."
   },
   {
     "id": 245,
-    "titulo": "Prática Coletiva de Sopros",
+    "nome_curso": "Prática Coletiva de Sopros",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a tocar e aprimorar sua técnica em instrumentos de sopro, participando de uma prática coleti..."
   },
   {
     "id": 246,
-    "titulo": "Prática coletiva de Viola Clássica",
+    "nome_curso": "Prática coletiva de Viola Clássica",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que tal dar os primeiros passos e aprender viola clássica? Neste curso você se prepara musicalmente ..."
   },
   {
     "id": 247,
-    "titulo": "Prática coletiva de Violino",
+    "nome_curso": "Prática coletiva de Violino",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Tem o sonho de aprender a tocar violino? Neste curso você dá os primeiros passos nesta direção."
   },
   {
     "id": 248,
-    "titulo": "Prática coletiva de Violoncelo",
+    "nome_curso": "Prática coletiva de Violoncelo",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que tal dar começar a aprender violoncelo? Este curso é pra quem quer se preparar para dar os primei..."
   },
   {
     "id": 249,
-    "titulo": "Processo Criativo",
+    "nome_curso": "Processo Criativo",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desperte sua criatividade. Aprenda conceitos e metodologias do processo criativo, aplique técnicas e..."
   },
   {
     "id": 250,
-    "titulo": "Programação de  Computadores",
+    "nome_curso": "Programação de  Computadores",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 200,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda Programação de Computadores e domine a lógica para criar softwares e soluções digitais. Dese..."
   },
   {
     "id": 251,
-    "titulo": "Programação de Computadores",
+    "nome_curso": "Programação de Computadores",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a desenvolver algoritmos utilizando o raciocínio lógico e computacional, e codifique algorit..."
   },
   {
     "id": 252,
-    "titulo": "Retrato",
+    "nome_curso": "Retrato",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda a capturar a essência e personalidade no curso de Retrato, desenvolvendo traços, sombras e e..."
   },
   {
     "id": 253,
-    "titulo": "Ritmos e Melodias do Choro",
+    "nome_curso": "Ritmos e Melodias do Choro",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Explore e pratique os ritmos e melodias do choro, aperfeiçoando suas habilidades instrumentais e art..."
   },
   {
     "id": 254,
-    "titulo": "ROBÓTICA EDUCACIONAL PARA DOCENTES",
+    "nome_curso": "ROBÓTICA EDUCACIONAL PARA DOCENTES",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Que tal buscar maneiras inovadoras de melhorar as metodologias de ensino para crianças e adolescente..."
   },
   {
     "id": 255,
-    "titulo": "Segurança da Informação",
+    "nome_curso": "Segurança da Informação",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Proteja dados e sistemas com o curso de Segurança da Informação. Aprenda a prevenir ataques, gerenci..."
   },
   {
     "id": 256,
-    "titulo": "Sustentabilidade e Legislação Ambiental",
+    "nome_curso": "Sustentabilidade e Legislação Ambiental",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda sobre sustentabilidade e legislação ambiental para agir de forma consciente e responsável. C..."
   },
   {
     "id": 257,
-    "titulo": "Teatro Iniciante - Nível Básico",
+    "nome_curso": "Teatro Iniciante - Nível Básico",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Teatro",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Descubra o mundo do teatro e desenvolva sua expressão corporal, improvisação e interpretação. Aprend..."
   },
   {
     "id": 258,
-    "titulo": "Teatro Iniciante - Nível Iniciante",
+    "nome_curso": "Teatro Iniciante - Nível Iniciante",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Teatro",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Neste curso você aprende as técnicas necessárias para se tornar atriz/ator. Participe de jogos de im..."
   },
   {
     "id": 259,
-    "titulo": "Teatro Iniciante - Nível Intermediário",
+    "nome_curso": "Teatro Iniciante - Nível Intermediário",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Teatro",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "O curso Teatro Iniciante – Nível Intermediário é para quem quer se expressar, criar personagens e ga..."
   },
   {
     "id": 260,
-    "titulo": "Teatro Musical",
+    "nome_curso": "Teatro Musical",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 188,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Mergulhe no universo do teatro musical, combinando interpretação, canto e dança em uma experiência a..."
   },
   {
     "id": 261,
-    "titulo": "Qualificação profissional",
+    "nome_curso": "Qualificação profissional",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 90,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Solte a voz, aprenda a dançar e descubra seu talento no Teatro Musical! Um curso completo que une ca..."
   },
   {
     "id": 262,
-    "titulo": "Tecido Acrobático II",
+    "nome_curso": "Tecido Acrobático II",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 60,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Quer aprender mais sobre o tecido acrobático? Neste curso você conhecerá como executar subida normal..."
   },
   {
     "id": 263,
-    "titulo": "Técnicas Acrobáticas e Caracterização de Perso",
+    "nome_curso": "Técnicas Acrobáticas e Caracterização de Perso",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "NAH",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Comece sua jornada no circo combinando acrobacias e criação de personagens. Aprenda técnicas básicas..."
   },
   {
     "id": 264,
-    "titulo": "Técnicas de Recuperação e Pintura para Móveis",
+    "nome_curso": "Técnicas de Recuperação e Pintura para Móveis",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Artes Visuais",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Dê uma nova vida aos seus móveis! No curso Técnicas de Recuperação e Pintura para Móveis, você apren..."
   },
   {
     "id": 265,
-    "titulo": "Técnico de Nível Médio em Artes Circenses",
+    "nome_curso": "Técnico de Nível Médio em Artes Circenses",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 1200,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprenda acrobacias, equilíbrio e expressão com o curso Técnico em Artes Circenses! Formação completa..."
   },
   {
     "id": 266,
-    "titulo": "Técnico de Nível Médio em Ballet Clássico",
+    "nome_curso": "Técnico de Nível Médio em Ballet Clássico",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 1200,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Formação completa em Ballet Clássico, com aulas de técnica, repertório, dança moderna e contemporâne..."
   },
   {
     "id": 267,
-    "titulo": "Técnico de Nível Médio em Canto",
+    "nome_curso": "Técnico de Nível Médio em Canto",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 1000,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Transforme sua paixão pelo canto em profissão e aprenda as técnicas para brilhar em palcos, shows e ..."
   },
   {
     "id": 268,
-    "titulo": "Técnico de Nível Médio em Dança Contemporânea",
+    "nome_curso": "Técnico de Nível Médio em Dança Contemporânea",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Dança",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 1200,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Profissionalize-se em Dança Contemporânea, com foco em técnica, coreografia, eficiência física, anat..."
   },
   {
     "id": 269,
-    "titulo": "Técnico de Nível Médio em Instrumento Musical",
+    "nome_curso": "Técnico de Nível Médio em Instrumento Musical",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Música",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 1200,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Seja um profissional no ramo da música. Desenvolva habilidades em linguagem musical, percepção rítmi..."
   },
   {
     "id": 270,
-    "titulo": "Técnico em Artes Circenses",
+    "nome_curso": "Técnico em Artes Circenses",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 1020,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Forme-se como artista circense, desenvolvendo habilidades técnicas e artísticas em acrobacia, equili..."
   },
   {
     "id": 271,
-    "titulo": "Técnico em Teatro",
+    "nome_curso": "Técnico em Teatro",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Técnico de nível médio",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Teatro",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 1040,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Aprofunde seus conhecimentos na área da atuação. Participe de jogos de improviso, desenvolva técnica..."
   },
   {
     "id": 272,
-    "titulo": "Tecnologias e Inovação para Start ups",
+    "nome_curso": "Tecnologias e Inovação para Start ups",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Qualificação profissional",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Desperte seu lado de gestor tech! Aprenda a criar infoprodutos, domine a inteligência digital, autom..."
   },
   {
     "id": 273,
-    "titulo": "Transformação Digital",
+    "nome_curso": "Transformação Digital",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Seja protagonista da inovação! No curso de Transformação Digital, descubra como aplicar tecnologias ..."
   },
   {
     "id": 274,
-    "titulo": "Transformação Digital e Prototipagem",
+    "nome_curso": "Transformação Digital e Prototipagem",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Tecnologia e Inovação",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Lidere a inovação com tecnologia e criatividade! No curso de Transformação Digital e Prototipagem, a..."
   },
   {
     "id": 275,
-    "titulo": "Trapézio Simples IV",
+    "nome_curso": "Trapézio Simples IV",
     "instituicao": {
       "nome": "EFG",
       "unidade": null,
-      "cidade": null
+      "cidade": ""
     },
     "categoria": "Capacitação",
-    "area": null,
-    "modalidades": [],
-    "turnos": [],
+    "area": "Circo",
+    "modalidades": null,
     "idade_minima": null,
     "carga_horaria": 60,
     "status": "Aberto",
     "link": null,
-    "descricao": null
+    "descricao": "Quer dominar o trapézio simples? Esse curso te ensina diversas movimentações."
   }
 ]

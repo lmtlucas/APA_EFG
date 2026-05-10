@@ -20,12 +20,19 @@ if resposta.status_code == 200:
     for indice, card in enumerate(cards, start=1):
         titulos = card.find_all("div", class_="ccc-titulo")
 
+        area = card.find("div", class_="cci-area-conhecimento")
         categoria = None
-        titulo = None
+        nome_curso = None
 
         if len(titulos) >= 2:
             categoria = titulos[0].text.strip()
-            titulo = titulos[1].text.strip()
+            nome_curso = titulos[1].text.strip()
+
+        descricao = card.find("div", class_="ccc-conteudo")
+
+        cidade = card.find("div", class_="ccc-colegios")
+
+        modalidade = card.find("div", class_="ccc-modalidade")
 
         outros_detalhes = card.find("div", class_="ccc-outros")
 
@@ -61,21 +68,20 @@ if resposta.status_code == 200:
 
         curso = {
             "id": indice,
-            "titulo": titulo,
+            "nome_curso": nome_curso,
             "instituicao": {
                 "nome": "EFG",
                 "unidade": None,
-                "cidade": None
+                "cidade": cidade.text.strip() if cidade else None
             },
             "categoria": categoria,
-            "area": None,
-            "modalidades": [],
-            "turnos": [],
+            "area": area.text.strip() if area else None,
+            "modalidades": modalidade.text.strip() if modalidade else None,
             "idade_minima": idade_minima,
             "carga_horaria": carga_horaria,
             "status": "Aberto",
             "link": link,
-            "descricao": None
+            "descricao": descricao.text.strip() if descricao else None
         }
 
         cursos.append(curso)

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Cursos</title>
+</head>
+<body>
+
+    <h1>Cursos Disponíveis</h1>
+
+    {% for curso in cursos %}
+
+        <div>
+            <h2>{{ curso.nome_curso }}</h2>
+
+            <p>
+                Categoria:
+                {{ curso.categoria }}
+            </p>
+
+            <p>
+                Carga horária:
+                {{ curso.carga_horaria }}h
+            </p>
+
+            <p>
+                Modalidades:
+                {{ curso.modalidades }}
+            </p>
+
+            <p>
+                Cidade:
+                {{ curso.instituicao.cidade }}
+            </p>
+
+            <p>
+                Descrição:
+                {{ curso.descricao }}
+            </p>
+
+            <a href="{{ curso.link }}">
+                Ver curso
+            </a>
+        </div>
+
+        <hr>
+
+    {% endfor %}
+
+</body>
+</html>
