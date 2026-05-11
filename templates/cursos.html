@@ -31,7 +31,6 @@
             burocracia e com certificação reconhecida.
           </p>
 
-          <a href="#cursos-disponiveis">Ver cursos disponíveis</a>
         </div>
       </section>
 
@@ -45,18 +44,69 @@
           />
 
           <select name="categoria">
-            <option value="">Todas as categorias</option>
+            <option value="">Selecionar categoria</option>
             <option
-              value="Tecnologia"
+              value="Técnico de nível médio"
               {%
               if
-              categoria=""
-              ="Tecnologia"
+              categoria=="Técnico de nível médio"
               %}selected{%
               endif
               %}
             >
-              Tecnologia
+              Técnico de nível médio
+            </option>
+            <option
+              value="Qualificação profissional"
+              {%
+              if
+              categoria==
+              "Qualificação profissional"
+              %}selected{%
+              endif
+              %}
+            >
+              Qualificação profissional
+            </option>
+            <option
+              value="Capacitação"
+              {%
+              if
+              categoria==
+              "Capacitação"
+              %}selected{%
+              endif
+              %}
+            >
+              Capacitação
+            </option>
+          </select>
+
+          <select name="area">
+            <option value="">Selecionar área</option>
+            <option
+              value="Tecnologia e Inovação"
+              {%
+              if
+              area==
+              "Tecnologia e Inovação"
+              %}selected{%
+              endif
+              %}
+            >
+              Tecnologia e Inovação
+            </option>
+            <option
+              value="Música"
+              {%
+              if
+              area==
+              "Música"
+              %}selected{%
+              endif
+              %}
+            >
+              Música
             </option>
           </select>
 
@@ -66,13 +116,39 @@
               value="Online"
               {%
               if
-              modalidade=""
-              ="Online"
+              modalidade==
+              "Online"
               %}selected{%
               endif
               %}
             >
               Online
+            </option>
+            <option
+              value="Presencial"
+              {%
+              if
+              modalidade==
+              "Presencial"
+              %}selected{%
+              endif
+              %}
+            >
+              Presencial
+            </option>
+            <option
+              value="EAD"
+              {%
+              if
+              modalidade==
+              "EAD"
+              %}
+              selected
+              {%
+              endif
+              %}
+            >
+              EAD
             </option>
           </select>
 
@@ -98,7 +174,7 @@
                 <p>
                   <strong>Carga horária:</strong> {{ curso.carga_horaria }}h
                 </p>
-                <p><strong>Modalidade:</strong> {{ curso.modalidades }}</p>
+                <p><strong>Modalidade:</strong> {{ curso.modalidade }}</p>
                 <p><strong>Cidade:</strong> {{ curso.instituicao.cidade }}</p>
               </div>
 
