@@ -9,7 +9,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": 16,
     "carga_horaria": 1200,
     "status": "Aberto",
@@ -26,7 +26,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -43,7 +43,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -60,7 +60,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": 16,
     "carga_horaria": 1000,
     "status": "Aberto",
@@ -77,7 +77,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": 16,
     "carga_horaria": null,
     "status": "Aberto",
@@ -94,7 +94,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -111,7 +111,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "EAD, Presencial",
     "idade_minima": 16,
     "carga_horaria": 1440,
     "status": "Aberto",
@@ -128,7 +128,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -145,7 +145,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -162,7 +162,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "EAD, Presencial",
     "idade_minima": 16,
     "carga_horaria": 1040,
     "status": "Aberto",
@@ -179,7 +179,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "EAD, Presencial",
     "idade_minima": 16,
     "carga_horaria": 960,
     "status": "Aberto",
@@ -196,7 +196,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -213,7 +213,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -230,7 +230,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -247,7 +247,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -264,7 +264,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -281,7 +281,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -298,7 +298,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -315,7 +315,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -332,7 +332,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -349,7 +349,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -366,7 +366,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -383,7 +383,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -400,7 +400,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "EAD, Presencial",
     "idade_minima": 16,
     "carga_horaria": 960,
     "status": "Aberto",
@@ -417,7 +417,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": 16,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -434,7 +434,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -451,7 +451,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -468,7 +468,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -485,7 +485,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -502,7 +502,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -519,7 +519,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -536,7 +536,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -553,7 +553,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -570,7 +570,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -587,7 +587,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -604,7 +604,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": 16,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -621,7 +621,7 @@
     },
     "categoria": "Capacitação",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -638,7 +638,7 @@
     },
     "categoria": "Capacitação",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -655,7 +655,7 @@
     },
     "categoria": "Capacitação",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -672,7 +672,7 @@
     },
     "categoria": "Capacitação",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
@@ -689,7 +689,7 @@
     },
     "categoria": "Capacitação",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -706,7 +706,7 @@
     },
     "categoria": "Capacitação",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -723,7 +723,7 @@
     },
     "categoria": "Capacitação",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -740,7 +740,7 @@
     },
     "categoria": "Capacitação",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -757,7 +757,7 @@
     },
     "categoria": "Capacitação",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -774,7 +774,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
@@ -791,7 +791,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -808,7 +808,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -825,7 +825,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 360,
     "status": "Aberto",
@@ -842,7 +842,7 @@
     },
     "categoria": "Técnico de nivel médio",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -859,7 +859,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 1212,
     "status": "Aberto",
@@ -876,7 +876,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -893,7 +893,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -910,7 +910,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -927,7 +927,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -944,7 +944,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -961,7 +961,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -978,7 +978,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -995,7 +995,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 60,
     "status": "Aberto",
@@ -1012,7 +1012,7 @@
     },
     "categoria": "NAH",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 500,
     "status": "Aberto",
@@ -1029,7 +1029,7 @@
     },
     "categoria": "NAH",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
@@ -1046,7 +1046,7 @@
     },
     "categoria": "NAH",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
@@ -1063,7 +1063,7 @@
     },
     "categoria": "NAH",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 330,
     "status": "Aberto",
@@ -1080,7 +1080,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 252,
     "status": "Aberto",
@@ -1097,7 +1097,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 360,
     "status": "Aberto",
@@ -1114,7 +1114,7 @@
     },
     "categoria": "Capacitação",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 110,
     "status": "Aberto",
@@ -1131,7 +1131,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 252,
     "status": "Aberto",
@@ -1148,7 +1148,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 324,
     "status": "Aberto",
@@ -1165,7 +1165,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 360,
     "status": "Aberto",
@@ -1182,7 +1182,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 324,
     "status": "Aberto",
@@ -1199,7 +1199,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 400,
     "status": "Aberto",
@@ -1216,7 +1216,7 @@
     },
     "categoria": "Capacitação",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 110,
     "status": "Aberto",
@@ -1233,7 +1233,7 @@
     },
     "categoria": "Capacitação",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 144,
     "status": "Aberto",
@@ -1250,7 +1250,7 @@
     },
     "categoria": "NAH",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 260,
     "status": "Aberto",
@@ -1267,7 +1267,7 @@
     },
     "categoria": "NAH",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -1284,7 +1284,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -1301,7 +1301,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -1318,7 +1318,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -1335,7 +1335,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -1352,7 +1352,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -1369,7 +1369,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -1386,7 +1386,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
@@ -1403,7 +1403,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -1420,7 +1420,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -1437,7 +1437,7 @@
     },
     "categoria": "NAH",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 180,
     "status": "Aberto",
@@ -1454,7 +1454,7 @@
     },
     "categoria": "NAH",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 500,
     "status": "Aberto",
@@ -1471,7 +1471,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
@@ -1488,7 +1488,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
@@ -1505,7 +1505,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
@@ -1522,7 +1522,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
@@ -1539,7 +1539,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
@@ -1556,7 +1556,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
@@ -1573,7 +1573,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -1590,7 +1590,7 @@
     },
     "categoria": "NAH",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 350,
     "status": "Aberto",
@@ -1607,7 +1607,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -1624,7 +1624,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -1633,23 +1633,6 @@
   },
   {
     "id": 97,
-    "nome_curso": "Corda Bamba IV",
-    "instituicao": {
-      "nome": "EFG",
-      "unidade": null,
-      "cidade": ""
-    },
-    "categoria": "Capacitação",
-    "area": "Circo",
-    "modalidades": null,
-    "idade_minima": null,
-    "carga_horaria": 40,
-    "status": "Aberto",
-    "link": null,
-    "descricao": "Que tal aprender a se equilibrar na corda bamba? Neste curso você aprende a ficar sentado e deitado ..."
-  },
-  {
-    "id": 98,
     "nome_curso": "Corpo Circense",
     "instituicao": {
       "nome": "EFG",
@@ -1658,7 +1641,7 @@
     },
     "categoria": "NAH",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
@@ -1666,7 +1649,7 @@
     "descricao": "O Corpo Circense do Basileu França é um espaço de criação e aperfeiçoamento para artistas do circo. ..."
   },
   {
-    "id": 99,
+    "id": 98,
     "nome_curso": "Criação de Conteúdo Digital",
     "instituicao": {
       "nome": "EFG",
@@ -1675,7 +1658,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -1683,7 +1666,7 @@
     "descricao": "Trabalhe criando conteúdo de qualidade para seus clientes. Aprenda a planejar o conteúdo digital, ti..."
   },
   {
-    "id": 100,
+    "id": 99,
     "nome_curso": "Criação e Edição Multimídia",
     "instituicao": {
       "nome": "EFG",
@@ -1692,7 +1675,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -1700,7 +1683,7 @@
     "descricao": "Aprenda a criar e editar imagens; Manipular elementos visuais em editores de imagens; Aplicar filtro..."
   },
   {
-    "id": 101,
+    "id": 100,
     "nome_curso": "Curso Superior de Tecnologia em Produção Cênica",
     "instituicao": {
       "nome": "EFG",
@@ -1709,7 +1692,7 @@
     },
     "categoria": "Superior de técnologia",
     "area": "Superior de Tecnologia",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 1900,
     "status": "Aberto",
@@ -1717,7 +1700,7 @@
     "descricao": "Aprenda a planejar, implementar e executar projetos cênicos e culturais."
   },
   {
-    "id": 102,
+    "id": 101,
     "nome_curso": "Dança - Nível 1 - Dança Oriental Árabe",
     "instituicao": {
       "nome": "EFG",
@@ -1726,7 +1709,7 @@
     },
     "categoria": "Capacitação",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -1734,7 +1717,7 @@
     "descricao": "Descubra a magia e o ritmo da dança árabe e aprenda a se expressar com elegância e consciência corpo..."
   },
   {
-    "id": 103,
+    "id": 102,
     "nome_curso": "Dança - Nível 1 - Danças Urbanas",
     "instituicao": {
       "nome": "EFG",
@@ -1743,7 +1726,7 @@
     },
     "categoria": "Capacitação",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -1751,7 +1734,7 @@
     "descricao": "Entre no ritmo das Danças Urbanas e aprenda os movimentos que dominam as ruas e os palcos de um jeit..."
   },
   {
-    "id": 104,
+    "id": 103,
     "nome_curso": "Dança de Rua Basileu França - DRBF",
     "instituicao": {
       "nome": "EFG",
@@ -1760,7 +1743,7 @@
     },
     "categoria": "NAH",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 180,
     "status": "Aberto",
@@ -1768,7 +1751,7 @@
     "descricao": "O Dança de Rua Basileu França é um curso voltado para quem quer aprender e aperfeiçoar técnicas da d..."
   },
   {
-    "id": 105,
+    "id": 104,
     "nome_curso": "Dança de Rua Basileu França Juvenil - DRBFJ",
     "instituicao": {
       "nome": "EFG",
@@ -1777,7 +1760,7 @@
     },
     "categoria": "NAH",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 180,
     "status": "Aberto",
@@ -1785,7 +1768,7 @@
     "descricao": "O Dança de Rua Basileu França Juvenil é um curso para jovens que desejam explorar a cultura e os est..."
   },
   {
-    "id": 106,
+    "id": 105,
     "nome_curso": "Dança de Rua Juvenil",
     "instituicao": {
       "nome": "EFG",
@@ -1794,7 +1777,7 @@
     },
     "categoria": "NAH",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 500,
     "status": "Aberto",
@@ -1802,7 +1785,7 @@
     "descricao": "Desenvolva e aperfeiçoe suas habilidades técnicas sobre os fundamentos das Danças Urbanas, como o Hi..."
   },
   {
-    "id": 107,
+    "id": 106,
     "nome_curso": "Dança Moderna e Contemporânea",
     "instituicao": {
       "nome": "EFG",
@@ -1811,7 +1794,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 270,
     "status": "Aberto",
@@ -1819,7 +1802,7 @@
     "descricao": "Aprenda Dança Moderna e Contemporânea e descubra novas formas de expressar seus sentimentos através ..."
   },
   {
-    "id": 108,
+    "id": 107,
     "nome_curso": "Dança Moderna e Contemporânea I",
     "instituicao": {
       "nome": "EFG",
@@ -1828,12 +1811,29 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 380,
     "status": "Aberto",
     "link": null,
     "descricao": "Desenvolva a técnica e postura da dança moderna e contemporânea. Utilize o espaço de forma eficaz e ..."
+  },
+  {
+    "id": 108,
+    "nome_curso": "Danças Urbanas I",
+    "instituicao": {
+      "nome": "EFG",
+      "unidade": null,
+      "cidade": ""
+    },
+    "categoria": "Qualificação profissional",
+    "area": "Dança",
+    "modalidade": "Presencial",
+    "idade_minima": null,
+    "carga_horaria": 320,
+    "status": "Aberto",
+    "link": null,
+    "descricao": "Aperfeiçoe técnicas de Hip-Hop e House Dance. Desenvolva coordenação e ritmo. Participe de apresenta..."
   },
   {
     "id": 109,
@@ -1845,24 +1845,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Dança",
-    "modalidades": null,
-    "idade_minima": null,
-    "carga_horaria": 320,
-    "status": "Aberto",
-    "link": null,
-    "descricao": "Aperfeiçoe técnicas de Hip-Hop e House Dance. Desenvolva coordenação e ritmo. Participe de apresenta..."
-  },
-  {
-    "id": 110,
-    "nome_curso": "Danças Urbanas I",
-    "instituicao": {
-      "nome": "EFG",
-      "unidade": null,
-      "cidade": ""
-    },
-    "categoria": "Qualificação profissional",
-    "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 270,
     "status": "Aberto",
@@ -1870,7 +1853,7 @@
     "descricao": "Aprenda Danças Urbanas I e descubra o prazer de se movimentar com ritmo, coordenação e consciência c..."
   },
   {
-    "id": 111,
+    "id": 110,
     "nome_curso": "Danças Urbanas II",
     "instituicao": {
       "nome": "EFG",
@@ -1879,7 +1862,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
@@ -1887,7 +1870,7 @@
     "descricao": "Aprenda Jazz Funk e estilos comerciais. Desenvolva coordenação e ritmo. Participe de apresentações t..."
   },
   {
-    "id": 112,
+    "id": 111,
     "nome_curso": "Danças Urbanas Infanto Juvenil",
     "instituicao": {
       "nome": "EFG",
@@ -1896,7 +1879,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 180,
     "status": "Aberto",
@@ -1904,7 +1887,7 @@
     "descricao": "Aprenda Hip-Hop, desenvolva coordenação e ritmo. Participe de apresentações teatrais e crie para o e..."
   },
   {
-    "id": 113,
+    "id": 112,
     "nome_curso": "Danças Urbanas ll",
     "instituicao": {
       "nome": "EFG",
@@ -1913,7 +1896,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 270,
     "status": "Aberto",
@@ -1921,7 +1904,7 @@
     "descricao": "Aprimore seu estilo nas Danças Urbanas II e aprofunde seus conhecimentos de coreografia.\r\nFortaleça ..."
   },
   {
-    "id": 114,
+    "id": 113,
     "nome_curso": "Desenho 1",
     "instituicao": {
       "nome": "EFG",
@@ -1930,7 +1913,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
@@ -1938,7 +1921,7 @@
     "descricao": "Inicie sua jornada artística no curso de Desenho 1. Aprenda os fundamentos do desenho, como formas, ..."
   },
   {
-    "id": 115,
+    "id": 114,
     "nome_curso": "Desenho 2 - Figura Humana",
     "instituicao": {
       "nome": "EFG",
@@ -1947,7 +1930,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -1955,7 +1938,7 @@
     "descricao": "Aprenda a desenhar a figura humana com precisão e expressividade no curso Desenho 2. Domine proporçõ..."
   },
   {
-    "id": 116,
+    "id": 115,
     "nome_curso": "Desenho 3 - Ilustração",
     "instituicao": {
       "nome": "EFG",
@@ -1964,7 +1947,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
@@ -1972,7 +1955,7 @@
     "descricao": "Aperfeiçoe suas habilidades no curso de Desenho 3 - Ilustração. Aprenda técnicas para criar personag..."
   },
   {
-    "id": 117,
+    "id": 116,
     "nome_curso": "Desenho Artístico",
     "instituicao": {
       "nome": "EFG",
@@ -1981,7 +1964,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -1989,7 +1972,7 @@
     "descricao": "Desenvolva seu olhar e aprimore sua técnica no curso de Desenho Artístico, onde traços ganham vida e..."
   },
   {
-    "id": 118,
+    "id": 117,
     "nome_curso": "Desenho Auxiliado por Computador",
     "instituicao": {
       "nome": "EFG",
@@ -1998,7 +1981,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -2006,7 +1989,7 @@
     "descricao": "Aprenda a criar projetos técnicos com precisão usando ferramentas digitais modernas.Domine softwares..."
   },
   {
-    "id": 119,
+    "id": 118,
     "nome_curso": "Desenho de Figura Humana",
     "instituicao": {
       "nome": "EFG",
@@ -2015,7 +1998,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2023,7 +2006,7 @@
     "descricao": "Aprenda a representar o corpo humano com precisão e sensibilidade no curso de Desenho de Figura Huma..."
   },
   {
-    "id": 120,
+    "id": 119,
     "nome_curso": "Desenvolvedor Python: Nível Intermediário",
     "instituicao": {
       "nome": "EFG",
@@ -2032,7 +2015,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -2040,7 +2023,7 @@
     "descricao": "Com este curso você aprende técnicas para criar programas com interfaces gráficas e desenvolver solu..."
   },
   {
-    "id": 121,
+    "id": 120,
     "nome_curso": "Desenvolvimento Mobile",
     "instituicao": {
       "nome": "EFG",
@@ -2049,7 +2032,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": null,
     "status": "Aberto",
@@ -2057,7 +2040,7 @@
     "descricao": "Aprenda sobre uma das profissões mais demandadas do momento! Saiba como criar jogos e aplicativos mó..."
   },
   {
-    "id": 122,
+    "id": 121,
     "nome_curso": "Desenvolvimento Web Back-End",
     "instituicao": {
       "nome": "EFG",
@@ -2066,7 +2049,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online",
     "idade_minima": null,
     "carga_horaria": 200,
     "status": "Aberto",
@@ -2074,7 +2057,7 @@
     "descricao": "Para que uma interface computacional funcione é necessário desenvolver uma série de códigos. Essas t..."
   },
   {
-    "id": 123,
+    "id": 122,
     "nome_curso": "Desenvolvimento Web Front-End",
     "instituicao": {
       "nome": "EFG",
@@ -2083,7 +2066,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 200,
     "status": "Aberto",
@@ -2091,7 +2074,7 @@
     "descricao": "A área de desenvolvimento Web Front-End é a ponte que une os mundos do design e da programação. O De..."
   },
   {
-    "id": 124,
+    "id": 123,
     "nome_curso": "Design e Prototipagem",
     "instituicao": {
       "nome": "EFG",
@@ -2100,7 +2083,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
@@ -2108,7 +2091,7 @@
     "descricao": "Aprenda Design e Prototipagem e transforme suas ideias em produtos concretos. Desenvolva habilidades..."
   },
   {
-    "id": 125,
+    "id": 124,
     "nome_curso": "Design Thinking e Gestão da Criatividade",
     "instituicao": {
       "nome": "EFG",
@@ -2117,7 +2100,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -2125,7 +2108,7 @@
     "descricao": "Inove com estratégia e criatividade! No curso de Design Thinking e Gestão da Criatividade, descubra ..."
   },
   {
-    "id": 126,
+    "id": 125,
     "nome_curso": "Desktop GNU-Linux",
     "instituicao": {
       "nome": "EFG",
@@ -2134,7 +2117,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -2142,7 +2125,7 @@
     "descricao": "Descubra todo o potencial do Desktop GNU/Linux: um sistema rápido, seguro e personalizável. Aprenda ..."
   },
   {
-    "id": 127,
+    "id": 126,
     "nome_curso": "E-commerce",
     "instituicao": {
       "nome": "EFG",
@@ -2151,7 +2134,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -2159,7 +2142,7 @@
     "descricao": "Torne-se um especialista em Comércio Eletrônico. Entenda o que fazer para deixar seu e-commerce com ..."
   },
   {
-    "id": 128,
+    "id": 127,
     "nome_curso": "Empreendedorismo Criativo",
     "instituicao": {
       "nome": "EFG",
@@ -2168,7 +2151,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
@@ -2176,7 +2159,7 @@
     "descricao": "Transforme ideias em negócios inovadores! No curso de Empreendedorismo Criativo, aprenda a unir cria..."
   },
   {
-    "id": 129,
+    "id": 128,
     "nome_curso": "Empresas Digitais: Gestão do Negócio e Criação",
     "instituicao": {
       "nome": "EFG",
@@ -2185,7 +2168,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -2193,24 +2176,7 @@
     "descricao": "Prepare-se para o futuro dos negócios! No curso de Empresas Digitais, aprenda a criar, gerenciar e e..."
   },
   {
-    "id": 130,
-    "nome_curso": "Escada Livre IV",
-    "instituicao": {
-      "nome": "EFG",
-      "unidade": null,
-      "cidade": ""
-    },
-    "categoria": "Capacitação",
-    "area": "Circo",
-    "modalidades": null,
-    "idade_minima": null,
-    "carga_horaria": 40,
-    "status": "Aberto",
-    "link": null,
-    "descricao": "Que tal ter domínio do equilibrismo na Escada de Equilíbrio? Neste curso você aprende métodos, abord..."
-  },
-  {
-    "id": 131,
+    "id": 129,
     "nome_curso": "Estratégias de Design de Negócios",
     "instituicao": {
       "nome": "EFG",
@@ -2219,7 +2185,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -2227,7 +2193,7 @@
     "descricao": "Conheça e utilize ferramentas para estimular a criatividade e melhore seu pensamento analítico e cri..."
   },
   {
-    "id": 132,
+    "id": 130,
     "nome_curso": "Experiência do Usuário/Consumidor (UX)",
     "instituicao": {
       "nome": "EFG",
@@ -2236,7 +2202,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -2244,24 +2210,7 @@
     "descricao": "Que tal se tornar um especialista na experiência do cliente? Neste curso você aprende a entender e a..."
   },
   {
-    "id": 133,
-    "nome_curso": "Flexibilidade II",
-    "instituicao": {
-      "nome": "EFG",
-      "unidade": null,
-      "cidade": ""
-    },
-    "categoria": "Capacitação",
-    "area": "Circo",
-    "modalidades": null,
-    "idade_minima": null,
-    "carga_horaria": 40,
-    "status": "Aberto",
-    "link": null,
-    "descricao": "Que tal ganhar mais flexibilidade para suas atividades circenses? Neste curso você aprende como melh..."
-  },
-  {
-    "id": 134,
+    "id": 131,
     "nome_curso": "Formação Artística Avançada em Teatro",
     "instituicao": {
       "nome": "EFG",
@@ -2270,7 +2219,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Teatro",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 368,
     "status": "Aberto",
@@ -2278,7 +2227,7 @@
     "descricao": "Neste curso você aprende as técnicas necessárias para se tornar atriz/ator. Participe de jogos de im..."
   },
   {
-    "id": 135,
+    "id": 132,
     "nome_curso": "Formação artística em teatro",
     "instituicao": {
       "nome": "EFG",
@@ -2287,7 +2236,7 @@
     },
     "categoria": "Técnico de nivel médio",
     "area": "Teatro",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
@@ -2295,7 +2244,7 @@
     "descricao": "Neste curso você conhecerá os diferentes conceitos de dramaturgia em teatro, entenderá como ocorrem ..."
   },
   {
-    "id": 136,
+    "id": 133,
     "nome_curso": "Formação Artística Iniciante em Teatro",
     "instituicao": {
       "nome": "EFG",
@@ -2304,7 +2253,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Teatro",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": null,
     "status": "Aberto",
@@ -2312,7 +2261,7 @@
     "descricao": "Neste curso você aprende as técnicas necessárias para se tornar atriz/ator. Participe de jogos de im..."
   },
   {
-    "id": 137,
+    "id": 134,
     "nome_curso": "Formação Artística Intermediária em Teatro",
     "instituicao": {
       "nome": "EFG",
@@ -2321,7 +2270,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Teatro",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 368,
     "status": "Aberto",
@@ -2329,7 +2278,7 @@
     "descricao": "Neste curso você aprende as técnicas necessárias para se tornar atriz/ator. Participe de jogos de im..."
   },
   {
-    "id": 138,
+    "id": 135,
     "nome_curso": "Formação Inicial Artística em Artes Visuais I",
     "instituicao": {
       "nome": "EFG",
@@ -2338,7 +2287,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -2346,7 +2295,7 @@
     "descricao": "Dê os primeiros passos no mundo das artes com o curso de Formação Inicial Artística em Artes Visuais..."
   },
   {
-    "id": 139,
+    "id": 136,
     "nome_curso": "Formação Inicial Artística em Artes Visuais II",
     "instituicao": {
       "nome": "EFG",
@@ -2355,7 +2304,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -2363,7 +2312,7 @@
     "descricao": "Desenvolva sua criatividade com o curso de Formação Inicial Artística em Artes Visuais II. Aprenda f..."
   },
   {
-    "id": 140,
+    "id": 137,
     "nome_curso": "Formação Inicial Artística em Artes Visuais III",
     "instituicao": {
       "nome": "EFG",
@@ -2372,7 +2321,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -2380,7 +2329,7 @@
     "descricao": "Amplie sua expressão criativa no curso de Formação Inicial Artística em Artes Visuais III. Explore t..."
   },
   {
-    "id": 141,
+    "id": 138,
     "nome_curso": "Fotografia de Produtos e Tratamento de Imagem Digi",
     "instituicao": {
       "nome": "EFG",
@@ -2389,7 +2338,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -2397,7 +2346,7 @@
     "descricao": "Encante seus clientes pelos olhos! Aprenda a produzir fotografias para vendas online e editar imagen..."
   },
   {
-    "id": 142,
+    "id": 139,
     "nome_curso": "Fundamentos do  Agronegócio",
     "instituicao": {
       "nome": "EFG",
@@ -2406,7 +2355,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -2414,7 +2363,7 @@
     "descricao": "Desvende o universo do agronegócio! No curso de Fundamentos do Agronegócio, compreenda as bases econ..."
   },
   {
-    "id": 143,
+    "id": 140,
     "nome_curso": "Fundamentos do Desenho",
     "instituicao": {
       "nome": "EFG",
@@ -2423,7 +2372,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2431,7 +2380,7 @@
     "descricao": "Descubra as bases da arte no curso Fundamentos do Desenho, onde você aprende do zero a observar, tra..."
   },
   {
-    "id": 144,
+    "id": 141,
     "nome_curso": "Gestão de Anúncios",
     "instituicao": {
       "nome": "EFG",
@@ -2440,7 +2389,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -2448,7 +2397,7 @@
     "descricao": "Aprenda a anunciar no lugar certo, na hora certa, para as pessoas certas! Crie campanhas eficazes e ..."
   },
   {
-    "id": 145,
+    "id": 142,
     "nome_curso": "Gestão de Custos e Eficiência no Agronegócio",
     "instituicao": {
       "nome": "EFG",
@@ -2457,7 +2406,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -2465,7 +2414,7 @@
     "descricao": "Maximize os resultados no agronegócio com gestão eficiente! No curso de Gestão de Custos e Eficiênci..."
   },
   {
-    "id": 146,
+    "id": 143,
     "nome_curso": "Gestão do Negócio e Criação de Valor",
     "instituicao": {
       "nome": "EFG",
@@ -2474,7 +2423,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -2482,7 +2431,7 @@
     "descricao": "Explore canais de venda, domine a gestão de custos e formação de preço, aprimore sua liderança e hab..."
   },
   {
-    "id": 147,
+    "id": 144,
     "nome_curso": "Gestão Estratégica no Agronegócio",
     "instituicao": {
       "nome": "EFG",
@@ -2491,7 +2440,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -2499,7 +2448,7 @@
     "descricao": "Aprenda a aplicar estratégias de gestão para impulsionar o crescimento no agronegócio! No curso de G..."
   },
   {
-    "id": 148,
+    "id": 145,
     "nome_curso": "Gravura - Xilo I",
     "instituicao": {
       "nome": "EFG",
@@ -2508,7 +2457,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2516,7 +2465,7 @@
     "descricao": "Explore o universo da arte impressa no curso Gravura – Xilo I, aprendendo a criar imagens potentes a..."
   },
   {
-    "id": 149,
+    "id": 146,
     "nome_curso": "Gravura - Xilo l",
     "instituicao": {
       "nome": "EFG",
@@ -2525,7 +2474,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2533,7 +2482,7 @@
     "descricao": "Aprenda xilogravura do início ao fim! Curso prático e acessível, ensinando preparação do material, u..."
   },
   {
-    "id": 150,
+    "id": 147,
     "nome_curso": "Grupo Vai...Idade",
     "instituicao": {
       "nome": "EFG",
@@ -2542,7 +2491,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Teatro",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 200,
     "status": "Aberto",
@@ -2550,7 +2499,7 @@
     "descricao": "Desenvolva e monte um espetáculo teatral investigando a arte do envelhecimento. Aprimore suas habili..."
   },
   {
-    "id": 151,
+    "id": 148,
     "nome_curso": "Guitarra Rock e Blues",
     "instituicao": {
       "nome": "EFG",
@@ -2559,7 +2508,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2567,7 +2516,7 @@
     "descricao": "Explore os estilos rock e blues, aprenda improvisação e fundamentos musicais, e prepare-se para o me..."
   },
   {
-    "id": 152,
+    "id": 149,
     "nome_curso": "Guitarra Rock e Blues",
     "instituicao": {
       "nome": "EFG",
@@ -2576,7 +2525,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2584,7 +2533,7 @@
     "descricao": "Aprenda as bases da guitarra Rock e Blues e comece a tocar seus primeiros acordes e solos com atitud..."
   },
   {
-    "id": 153,
+    "id": 150,
     "nome_curso": "História da Arte",
     "instituicao": {
       "nome": "EFG",
@@ -2593,7 +2542,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -2601,7 +2550,7 @@
     "descricao": "Viaje pelas imagens, estilos e movimentos que marcaram épocas no curso de História da Arte. Entenda ..."
   },
   {
-    "id": 154,
+    "id": 151,
     "nome_curso": "Qualificação profissional",
     "instituicao": {
       "nome": "EFG",
@@ -2610,7 +2559,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 60,
     "status": "Aberto",
@@ -2618,7 +2567,7 @@
     "descricao": "O curso de Iniciação Coletiva ao Instrumento Musical oferece uma \nintrodução divertida e prática à m..."
   },
   {
-    "id": 155,
+    "id": 152,
     "nome_curso": "Iniciação Coletiva ao Instrumento Musical",
     "instituicao": {
       "nome": "EFG",
@@ -2627,7 +2576,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 200,
     "status": "Aberto",
@@ -2635,7 +2584,7 @@
     "descricao": "O curso de Iniciação Coletivo ao Instrumento Musical oferece formação básica e acessível para quem d..."
   },
   {
-    "id": 156,
+    "id": 153,
     "nome_curso": "Iniciação Coletiva ao Instrumento Musical",
     "instituicao": {
       "nome": "EFG",
@@ -2644,7 +2593,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2652,7 +2601,7 @@
     "descricao": "Escolha seu instrumento e dê o primeiro passo no mundo da música aprendendo em grupo. Desenvolva seu..."
   },
   {
-    "id": 157,
+    "id": 154,
     "nome_curso": "Instrumento Musical",
     "instituicao": {
       "nome": "EFG",
@@ -2661,7 +2610,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 44,
     "status": "Aberto",
@@ -2669,7 +2618,7 @@
     "descricao": "Escolha o instrumento que você ama e aprenda a tocar com técnica, ritmo e dedicação.\r\nDesenvolva seu..."
   },
   {
-    "id": 158,
+    "id": 155,
     "nome_curso": "Instrumento Musical - Iniciante",
     "instituicao": {
       "nome": "EFG",
@@ -2678,7 +2627,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
@@ -2686,7 +2635,7 @@
     "descricao": "Aprenda a tocar seu primeiro instrumento de forma fácil e divertida!  Com aulas práticas e didá..."
   },
   {
-    "id": 159,
+    "id": 156,
     "nome_curso": "Instrumento Musical - Iniciante",
     "instituicao": {
       "nome": "EFG",
@@ -2695,7 +2644,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
@@ -2703,7 +2652,7 @@
     "descricao": "Aprenda a tocar seu primeiro instrumento de forma fácil e divertida!  Com aulas práticas e didá..."
   },
   {
-    "id": 160,
+    "id": 157,
     "nome_curso": "Instrumento Musical - Nível 1 - Cordas Friccionad",
     "instituicao": {
       "nome": "EFG",
@@ -2712,7 +2661,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2720,7 +2669,7 @@
     "descricao": "Que tal fazer um desenvolvimento e\nconhecimento de repertório variado em instrumentos de cordas fric..."
   },
   {
-    "id": 161,
+    "id": 158,
     "nome_curso": "Instrumento Musical - Nível 1 - Flauta Doce",
     "instituicao": {
       "nome": "EFG",
@@ -2729,7 +2678,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2737,7 +2686,7 @@
     "descricao": "Inicie sua jornada musical com a flauta doce, aprendendo técnicas básicas de sopro, articulação e le..."
   },
   {
-    "id": 162,
+    "id": 159,
     "nome_curso": "Instrumento Musical - Nível 1 - Metais Heterogên",
     "instituicao": {
       "nome": "EFG",
@@ -2746,7 +2695,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2754,7 +2703,7 @@
     "descricao": "Que tal aprender a tocar metais? Neste curso você dá os primeiros passos para se preparar musicalmen..."
   },
   {
-    "id": 163,
+    "id": 160,
     "nome_curso": "Instrumento Musical - Nível 1 - Violão",
     "instituicao": {
       "nome": "EFG",
@@ -2763,7 +2712,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2771,7 +2720,7 @@
     "descricao": "Que tal aprender a tocar violão? Neste curso você inicia em práticas de sensibilização musical, além..."
   },
   {
-    "id": 164,
+    "id": 161,
     "nome_curso": "Instrumento Musical - Nível 2 - Cordas Friccionad",
     "instituicao": {
       "nome": "EFG",
@@ -2780,7 +2729,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2788,7 +2737,7 @@
     "descricao": "Aprimore sua técnica em instrumentos de cordas friccionadas, explorando novos repertórios e expressi..."
   },
   {
-    "id": 165,
+    "id": 162,
     "nome_curso": "Instrumento Musical - Nível 2 - Flauta Doce",
     "instituicao": {
       "nome": "EFG",
@@ -2797,7 +2746,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2805,7 +2754,7 @@
     "descricao": "Aprofunde sua técnica na flauta doce, explorando repertórios mais desafiadores e aperfeiçoando sua m..."
   },
   {
-    "id": 166,
+    "id": 163,
     "nome_curso": "Instrumento Musical - Nível 2 - Violão",
     "instituicao": {
       "nome": "EFG",
@@ -2814,7 +2763,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2822,7 +2771,7 @@
     "descricao": "Aprofunde seu conhecimento no violão, desenvolvendo técnicas avançadas e explorando novos repertório..."
   },
   {
-    "id": 167,
+    "id": 164,
     "nome_curso": "Instrumento Musical - Nível 3 - Flauta Doce",
     "instituicao": {
       "nome": "EFG",
@@ -2831,7 +2780,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2839,7 +2788,7 @@
     "descricao": "Aprimore suas habilidades musicais no curso Instrumento Musical - Nível 3 - Flauta Doce, com técnica..."
   },
   {
-    "id": 168,
+    "id": 165,
     "nome_curso": "Instrumento Musical - Nível 3 - Violão",
     "instituicao": {
       "nome": "EFG",
@@ -2848,7 +2797,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2856,7 +2805,7 @@
     "descricao": "Aprimore seu talento no curso Instrumento Musical – Nível 3 – Violão, voltado para quem já tem exper..."
   },
   {
-    "id": 169,
+    "id": 166,
     "nome_curso": "Instrumento Musical - Nível Avançado",
     "instituicao": {
       "nome": "EFG",
@@ -2865,7 +2814,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
@@ -2873,7 +2822,7 @@
     "descricao": "Aprofunde suas habilidades musicais com o curso de Instrumento Musical - Nível Avançado. Aprimore té..."
   },
   {
-    "id": 170,
+    "id": 167,
     "nome_curso": "Instrumento Musical - Nível Básico",
     "instituicao": {
       "nome": "EFG",
@@ -2882,7 +2831,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
@@ -2890,7 +2839,7 @@
     "descricao": "Dê os primeiros passos na música com o curso de Instrumento Musical - Nível Básico. Aprenda técnica,..."
   },
   {
-    "id": 171,
+    "id": 168,
     "nome_curso": "Instrumento Musical - Nível Iniciante - Flauta Do",
     "instituicao": {
       "nome": "EFG",
@@ -2899,7 +2848,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
@@ -2907,7 +2856,7 @@
     "descricao": "Que aprender começar a aprender a tocar flauta doce? Neste curso você inicia a prática deste instrum..."
   },
   {
-    "id": 172,
+    "id": 169,
     "nome_curso": "Instrumento Musical - Nível Intermediário",
     "instituicao": {
       "nome": "EFG",
@@ -2916,7 +2865,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
@@ -2924,7 +2873,7 @@
     "descricao": "Desenvolva sua técnica e amplie seu repertório no curso de Instrumento Musical - Nível Intermediário..."
   },
   {
-    "id": 173,
+    "id": 170,
     "nome_curso": "Instrumento Musical – Nível 3 – Cordas Fricci",
     "instituicao": {
       "nome": "EFG",
@@ -2933,7 +2882,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -2941,7 +2890,7 @@
     "descricao": "O curso é ideal para quem já possui alguma experiência e deseja aprimorar suas habilidades. Com qual..."
   },
   {
-    "id": 174,
+    "id": 171,
     "nome_curso": "Instrumento Musical Violão - Iniciante",
     "instituicao": {
       "nome": "EFG",
@@ -2950,7 +2899,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
@@ -2958,7 +2907,7 @@
     "descricao": "Aprenda a tocar violão do zero de forma fácil e prática! Com aulas dinâmicas, você vai dominar os pr..."
   },
   {
-    "id": 175,
+    "id": 172,
     "nome_curso": "Inteligência Artificial",
     "instituicao": {
       "nome": "EFG",
@@ -2967,7 +2916,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -2975,7 +2924,7 @@
     "descricao": "Descubra o poder da tecnologia que transforma o mundo! No curso de Inteligência Artificial, aprenda ..."
   },
   {
-    "id": 176,
+    "id": 173,
     "nome_curso": "Interpretação Teatral I",
     "instituicao": {
       "nome": "EFG",
@@ -2984,7 +2933,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Teatro",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 368,
     "status": "Aberto",
@@ -2992,7 +2941,7 @@
     "descricao": "Entre em cena e atue como ator ou atriz no campo das artes cênicas, através da prática em conjunto, ..."
   },
   {
-    "id": 177,
+    "id": 174,
     "nome_curso": "Interpretação Teatral II",
     "instituicao": {
       "nome": "EFG",
@@ -3001,7 +2950,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Teatro",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 368,
     "status": "Aberto",
@@ -3009,7 +2958,7 @@
     "descricao": "Entre em cena e atue como ator ou atriz no campo das artes cênicas, através da prática em conjunto, ..."
   },
   {
-    "id": 178,
+    "id": 175,
     "nome_curso": "Introdução à Programação de Computadores",
     "instituicao": {
       "nome": "EFG",
@@ -3018,7 +2967,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 60,
     "status": "Aberto",
@@ -3026,7 +2975,7 @@
     "descricao": "Aprenda os fundamentos da lógica de programação e domine as principais linguagens utilizadas no merc..."
   },
   {
-    "id": 179,
+    "id": 176,
     "nome_curso": "Jazz Combo",
     "instituicao": {
       "nome": "EFG",
@@ -3035,7 +2984,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -3043,7 +2992,7 @@
     "descricao": "Aprenda Jazz Combo e descubra como tocar em grupo, combinando técnica, ritmo e muita prática musical..."
   },
   {
-    "id": 180,
+    "id": 177,
     "nome_curso": "Joias em Vidro (Fusing)",
     "instituicao": {
       "nome": "EFG",
@@ -3052,7 +3001,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
@@ -3060,7 +3009,7 @@
     "descricao": "Explore o mundo da joalheria com vidro! No curso \"Joias em Vidro (Fusing)\", você aprenderá a técnica..."
   },
   {
-    "id": 181,
+    "id": 178,
     "nome_curso": "Laboratório de Arte em Vidro (Fusing)",
     "instituicao": {
       "nome": "EFG",
@@ -3069,7 +3018,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
@@ -3077,7 +3026,7 @@
     "descricao": "Descubra a magia do vidro no Laboratório de Arte Vidro (Fusing), onde calor e criatividade se unem p..."
   },
   {
-    "id": 182,
+    "id": 179,
     "nome_curso": "Laboratório de Harmonia e Improvisação",
     "instituicao": {
       "nome": "EFG",
@@ -3086,7 +3035,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -3094,7 +3043,7 @@
     "descricao": "Desenvolva habilidades em improvisação e harmonia para fortalecer sua base musical e sua carreira."
   },
   {
-    "id": 183,
+    "id": 180,
     "nome_curso": "Laboratório de Pintura",
     "instituicao": {
       "nome": "EFG",
@@ -3103,7 +3052,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -3111,7 +3060,7 @@
     "descricao": "Liberte seu talento artístico no \"Laboratório de Pintura\"! Neste curso, você experimentará diferente..."
   },
   {
-    "id": 184,
+    "id": 181,
     "nome_curso": "Laboratório de Pintura",
     "instituicao": {
       "nome": "EFG",
@@ -3120,7 +3069,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -3128,7 +3077,7 @@
     "descricao": "Desperte sua criatividade no Laboratório de Pintura, um curso que convida você a explorar cores, téc..."
   },
   {
-    "id": 185,
+    "id": 182,
     "nome_curso": "Laboratório de Pintura Experimental",
     "instituicao": {
       "nome": "EFG",
@@ -3137,7 +3086,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -3145,7 +3094,7 @@
     "descricao": "Solte sua criatividade no Laboratório de Pintura Experimental! Aqui, você explora técnicas inovadora..."
   },
   {
-    "id": 186,
+    "id": 183,
     "nome_curso": "Liderança e Gestão Estratégica de Pessoas",
     "instituicao": {
       "nome": "EFG",
@@ -3154,7 +3103,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -3162,24 +3111,7 @@
     "descricao": "Aprenda a liderar e gerenciar pessoas de forma estratégica. Explore tendências, ferramentas de comun..."
   },
   {
-    "id": 187,
-    "nome_curso": "Lira Acrobática IV",
-    "instituicao": {
-      "nome": "EFG",
-      "unidade": null,
-      "cidade": ""
-    },
-    "categoria": "Capacitação",
-    "area": "Circo",
-    "modalidades": null,
-    "idade_minima": null,
-    "carga_horaria": 60,
-    "status": "Aberto",
-    "link": null,
-    "descricao": "Que tal ficar craque em lira acrobática? Neste curso você realizará equilíbrios diversos, executará ..."
-  },
-  {
-    "id": 188,
+    "id": 184,
     "nome_curso": "Malabares e Equilíbrios I",
     "instituicao": {
       "nome": "EFG",
@@ -3188,7 +3120,7 @@
     },
     "categoria": "Capacitação",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -3196,7 +3128,7 @@
     "descricao": "Aprenda os fundamentos de malabares e equilibrismo de forma divertida e desafiadora. Este curso intr..."
   },
   {
-    "id": 189,
+    "id": 185,
     "nome_curso": "Malabares e Equilíbrios II",
     "instituicao": {
       "nome": "EFG",
@@ -3205,7 +3137,7 @@
     },
     "categoria": "Capacitação",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -3213,7 +3145,7 @@
     "descricao": "Aperfeiçoe suas habilidades em malabares e equilibrismo com este curso intermediário. Desafie seu fo..."
   },
   {
-    "id": 190,
+    "id": 186,
     "nome_curso": "Marketing  Aplicado ao  Agronegócio",
     "instituicao": {
       "nome": "EFG",
@@ -3222,7 +3154,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -3230,7 +3162,7 @@
     "descricao": "Impulsione o agronegócio com estratégias certeiras! No curso de Marketing Aplicado ao Agronegócio, a..."
   },
   {
-    "id": 191,
+    "id": 187,
     "nome_curso": "Marketing Digital",
     "instituicao": {
       "nome": "EFG",
@@ -3239,7 +3171,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -3247,7 +3179,7 @@
     "descricao": "Aprenda a consolidar a presença digital da sua marca! Seja visto e seja lembrado. Analise o mercado ..."
   },
   {
-    "id": 192,
+    "id": 188,
     "nome_curso": "Marketing Digital",
     "instituicao": {
       "nome": "EFG",
@@ -3256,7 +3188,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -3264,7 +3196,7 @@
     "descricao": "Neste curso você aprende a construir marcas de sucesso na internet através das técnicas de Marketing..."
   },
   {
-    "id": 193,
+    "id": 189,
     "nome_curso": "Marketing e Mídias Sociais",
     "instituicao": {
       "nome": "EFG",
@@ -3273,7 +3205,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "EAD, Presencial",
     "idade_minima": null,
     "carga_horaria": 1040,
     "status": "Aberto",
@@ -3281,7 +3213,7 @@
     "descricao": "Saiba como turbinar seu E-commerce e suas redes sociais! No curso Marketing e Mídias Sociais você ap..."
   },
   {
-    "id": 194,
+    "id": 190,
     "nome_curso": "Matemática aplicada a Eletrônica",
     "instituicao": {
       "nome": "EFG",
@@ -3290,7 +3222,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -3298,7 +3230,7 @@
     "descricao": "Domine conceitos matemáticos essenciais para a eletrônica! No curso de Matemática Aplicada à Eletrôn..."
   },
   {
-    "id": 195,
+    "id": 191,
     "nome_curso": "Matemática Básica",
     "instituicao": {
       "nome": "EFG",
@@ -3307,7 +3239,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -3315,7 +3247,7 @@
     "descricao": "Reforce os fundamentos da matemática. Estude operações aritméticas, equações, funções e suas aplicaç..."
   },
   {
-    "id": 196,
+    "id": 192,
     "nome_curso": "Mídias Sociais",
     "instituicao": {
       "nome": "EFG",
@@ -3324,7 +3256,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -3332,7 +3264,7 @@
     "descricao": "Seja um especialista em Redes Sociais! Use essa ferramenta para vender seus produtos e se conectar c..."
   },
   {
-    "id": 197,
+    "id": 193,
     "nome_curso": "Móbile da Imaginação 1",
     "instituicao": {
       "nome": "EFG",
@@ -3341,7 +3273,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Arte Educação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -3349,7 +3281,7 @@
     "descricao": "Aulas de música, circo, artes visuais, teatro e dança, facilitando a escolha e ingresso posterior em..."
   },
   {
-    "id": 198,
+    "id": 194,
     "nome_curso": "Móbile da Imaginação 2",
     "instituicao": {
       "nome": "EFG",
@@ -3358,7 +3290,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Arte Educação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -3366,7 +3298,7 @@
     "descricao": "Aulas de música, circo, artes visuais, teatro e dança, facilitando a escolha e ingresso posterior em..."
   },
   {
-    "id": 199,
+    "id": 195,
     "nome_curso": "Móbile da Imaginação 3",
     "instituicao": {
       "nome": "EFG",
@@ -3375,7 +3307,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Arte Educação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -3383,7 +3315,7 @@
     "descricao": "Aulas de música, circo, artes visuais, teatro e dança, facilitando a escolha e ingresso posterior em..."
   },
   {
-    "id": 200,
+    "id": 196,
     "nome_curso": "Móbile da Imaginação 4",
     "instituicao": {
       "nome": "EFG",
@@ -3392,7 +3324,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Arte Educação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -3400,7 +3332,7 @@
     "descricao": "Aulas de música, circo, artes visuais, teatro e dança, facilitando a escolha e ingresso posterior em..."
   },
   {
-    "id": 201,
+    "id": 197,
     "nome_curso": "Modelagem em Argila",
     "instituicao": {
       "nome": "EFG",
@@ -3409,7 +3341,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
@@ -3417,24 +3349,7 @@
     "descricao": "Dê forma à sua criatividade no curso de Modelagem em Argila. Aprenda técnicas essenciais para criar ..."
   },
   {
-    "id": 202,
-    "nome_curso": "Monociclo III",
-    "instituicao": {
-      "nome": "EFG",
-      "unidade": null,
-      "cidade": ""
-    },
-    "categoria": "Capacitação",
-    "area": "Circo",
-    "modalidades": null,
-    "idade_minima": null,
-    "carga_horaria": 40,
-    "status": "Aberto",
-    "link": null,
-    "descricao": "Que tal aprender técnicas de Monociclo? Neste curso você aprende a pedalar para frente e para trás, ..."
-  },
-  {
-    "id": 203,
+    "id": 198,
     "nome_curso": "Mosaico",
     "instituicao": {
       "nome": "EFG",
@@ -3443,7 +3358,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -3451,7 +3366,7 @@
     "descricao": "Crie peças únicas e cheias de estilo com nosso curso de mosaico. Aprenda técnicas de corte, montagem..."
   },
   {
-    "id": 204,
+    "id": 199,
     "nome_curso": "NAH  - Corpo  Cênico",
     "instituicao": {
       "nome": "EFG",
@@ -3460,7 +3375,7 @@
     },
     "categoria": "NAH",
     "area": "Teatro",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 360,
     "status": "Aberto",
@@ -3468,7 +3383,7 @@
     "descricao": "Descubra como explorar o movimento e a expressão corporal em uma jornada criativa que conecta arte e..."
   },
   {
-    "id": 205,
+    "id": 200,
     "nome_curso": "Novelo das Artes 1",
     "instituicao": {
       "nome": "EFG",
@@ -3477,7 +3392,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Arte Educação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -3485,7 +3400,7 @@
     "descricao": "Aulas de teatro, dança, artes visuais, música e circo, para desenvolver habilidades artísticas e fac..."
   },
   {
-    "id": 206,
+    "id": 201,
     "nome_curso": "Novelo das Artes 2",
     "instituicao": {
       "nome": "EFG",
@@ -3494,7 +3409,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Arte Educação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -3502,7 +3417,7 @@
     "descricao": "Aulas de teatro, dança, artes visuais, música e circo, para desenvolver habilidades artísticas e fac..."
   },
   {
-    "id": 207,
+    "id": 202,
     "nome_curso": "Novelo das Artes 3",
     "instituicao": {
       "nome": "EFG",
@@ -3511,7 +3426,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Arte Educação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -3519,7 +3434,7 @@
     "descricao": "Aulas de teatro, dança, artes visuais, música e circo, para desenvolver habilidades artísticas e fac..."
   },
   {
-    "id": 208,
+    "id": 203,
     "nome_curso": "Novelo das Artes 4",
     "instituicao": {
       "nome": "EFG",
@@ -3528,7 +3443,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Arte Educação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -3536,7 +3451,7 @@
     "descricao": "Aulas de teatro, dança, artes visuais, música e circo, para desenvolver habilidades artísticas e fac..."
   },
   {
-    "id": 209,
+    "id": 204,
     "nome_curso": "Núcleo de Choro Basileu França (NCBF)",
     "instituicao": {
       "nome": "EFG",
@@ -3545,7 +3460,7 @@
     },
     "categoria": "NAH",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
@@ -3553,7 +3468,7 @@
     "descricao": "Aprenda a tocar Choro e mergulhe na história da nossa música popular de um jeito prático e animado.\r..."
   },
   {
-    "id": 210,
+    "id": 205,
     "nome_curso": "Ópera Estúdio",
     "instituicao": {
       "nome": "EFG",
@@ -3562,7 +3477,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 188,
     "status": "Aberto",
@@ -3570,7 +3485,7 @@
     "descricao": "Aprenda a unir canto e atuação no Ópera Estúdio e prepare-se para brilhar nos palcos. Desenvolva sua..."
   },
   {
-    "id": 211,
+    "id": 206,
     "nome_curso": "Orquestra Infantil Mozart",
     "instituicao": {
       "nome": "EFG",
@@ -3579,7 +3494,7 @@
     },
     "categoria": "NAH",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
@@ -3587,7 +3502,7 @@
     "descricao": "Descubra o curso Orquestra Infantil Mozart e transforme a educação das crianças com a magia da músic..."
   },
   {
-    "id": 212,
+    "id": 207,
     "nome_curso": "Orquestra Infantil Mozart - OIM",
     "instituicao": {
       "nome": "EFG",
@@ -3596,7 +3511,7 @@
     },
     "categoria": "NAH",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
@@ -3604,7 +3519,7 @@
     "descricao": "Aprimore sua técnica em cordas friccionadas tocando em grupo, seja no violino, viola, violoncelo ou ..."
   },
   {
-    "id": 213,
+    "id": 208,
     "nome_curso": "Orquestra Sinfônica Jovem de  Goiás –   OSJG",
     "instituicao": {
       "nome": "EFG",
@@ -3613,7 +3528,7 @@
     },
     "categoria": "NAH",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 500,
     "status": "Aberto",
@@ -3621,7 +3536,7 @@
     "descricao": "Aprenda e evolua na música com a Orquestra Sinfônica Jovem de Goiás. Um curso para jovens instrument..."
   },
   {
-    "id": 214,
+    "id": 209,
     "nome_curso": "Orquestra Sinfônica Juvenil Pedro Ludovico Teixei",
     "instituicao": {
       "nome": "EFG",
@@ -3630,7 +3545,7 @@
     },
     "categoria": "NAH",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 260,
     "status": "Aberto",
@@ -3638,24 +3553,7 @@
     "descricao": "Adquira uma base sólida para tocar em orquestras sinfônicas com formação em repertório e técnicas."
   },
   {
-    "id": 215,
-    "nome_curso": "Passes de Objetos II",
-    "instituicao": {
-      "nome": "EFG",
-      "unidade": null,
-      "cidade": ""
-    },
-    "categoria": "Capacitação",
-    "area": "Circo",
-    "modalidades": null,
-    "idade_minima": null,
-    "carga_horaria": 40,
-    "status": "Aberto",
-    "link": null,
-    "descricao": "Quer melhorar suas habilidades no passe de objetos? Confira este curso e tudo o que ele pode lhe ofe..."
-  },
-  {
-    "id": 216,
+    "id": 210,
     "nome_curso": "Performance Musical",
     "instituicao": {
       "nome": "EFG",
@@ -3664,7 +3562,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -3672,7 +3570,7 @@
     "descricao": "Desenvolva suas habilidades musicais com o curso Performance Musical. Ele oferece as bases para..."
   },
   {
-    "id": 217,
+    "id": 211,
     "nome_curso": "Pintura 2 - Acrílica",
     "instituicao": {
       "nome": "EFG",
@@ -3681,7 +3579,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 280,
     "status": "Aberto",
@@ -3689,7 +3587,7 @@
     "descricao": "Explore o universo vibrante da pintura acrílica em nosso curso. Aprenda técnicas para criar texturas..."
   },
   {
-    "id": 218,
+    "id": 212,
     "nome_curso": "Pintura 3 - Aquarela",
     "instituicao": {
       "nome": "EFG",
@@ -3698,7 +3596,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 200,
     "status": "Aberto",
@@ -3706,7 +3604,7 @@
     "descricao": "Aprenda as técnicas básicas e avançadas da pintura em aquarela com nosso curso. Descubra como criar ..."
   },
   {
-    "id": 219,
+    "id": 213,
     "nome_curso": "Pintura a Frio",
     "instituicao": {
       "nome": "EFG",
@@ -3715,7 +3613,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
@@ -3723,7 +3621,7 @@
     "descricao": "Aprenda a técnica de pintura a frio e transforme superfícies em verdadeiras obras de arte. Descubra ..."
   },
   {
-    "id": 220,
+    "id": 214,
     "nome_curso": "Pintura a Óleo II - Figura Humana",
     "instituicao": {
       "nome": "EFG",
@@ -3732,7 +3630,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
@@ -3740,7 +3638,7 @@
     "descricao": "Aprofunde suas habilidades no curso Pintura a Óleo II - Figura Humana. Aprenda técnicas avançadas pa..."
   },
   {
-    "id": 221,
+    "id": 215,
     "nome_curso": "Pintura a Óleo II - Figura Humana",
     "instituicao": {
       "nome": "EFG",
@@ -3749,7 +3647,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
@@ -3757,7 +3655,7 @@
     "descricao": "Aprofunde-se na pintura a óleo com foco na figura humana! Aprenda proporção, luz, sombra e expressão..."
   },
   {
-    "id": 222,
+    "id": 216,
     "nome_curso": "Pintura com Tinta a Óleo I",
     "instituicao": {
       "nome": "EFG",
@@ -3766,7 +3664,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
@@ -3774,7 +3672,7 @@
     "descricao": "Descubra a arte de pintar com tinta a óleo! No curso \"Pintura com Tinta a Óleo I\", você aprenderá té..."
   },
   {
-    "id": 223,
+    "id": 217,
     "nome_curso": "Pintura com Tinta Acrílica - 2",
     "instituicao": {
       "nome": "EFG",
@@ -3783,7 +3681,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -3791,7 +3689,7 @@
     "descricao": "Aprenda pintura com tinta acrílica e técnicas mistas em cursos completos e práticos! Desenvolva seu ..."
   },
   {
-    "id": 224,
+    "id": 218,
     "nome_curso": "Pintura com Tinta Acrílica - Mista",
     "instituicao": {
       "nome": "EFG",
@@ -3800,7 +3698,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
@@ -3808,7 +3706,7 @@
     "descricao": "Aprenda pintura com tinta acrílica e técnicas mistas de forma prática e acessível! Desenvolva seu de..."
   },
   {
-    "id": 225,
+    "id": 219,
     "nome_curso": "Pintura com Tinta Acrílica I",
     "instituicao": {
       "nome": "EFG",
@@ -3817,7 +3715,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
@@ -3825,7 +3723,7 @@
     "descricao": "Explore o universo da tinta acrílica no curso Pintura com Tinta Acrílica I. Aprenda técnicas básicas..."
   },
   {
-    "id": 226,
+    "id": 220,
     "nome_curso": "Pintura com Tinta Acrílica II",
     "instituicao": {
       "nome": "EFG",
@@ -3834,7 +3732,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 100,
     "status": "Aberto",
@@ -3842,7 +3740,7 @@
     "descricao": "Aprofunde suas técnicas no curso Pintura com Tinta Acrílica II, explorando texturas, camadas e efeit..."
   },
   {
-    "id": 227,
+    "id": 221,
     "nome_curso": "Pintura de Figura Humana",
     "instituicao": {
       "nome": "EFG",
@@ -3851,7 +3749,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
@@ -3859,7 +3757,7 @@
     "descricao": "Aprenda a pintar figuras humanas com óleo, usando técnicas variadas em suportes tradicionais e não c..."
   },
   {
-    "id": 228,
+    "id": 222,
     "nome_curso": "Pintura em Cerâmica",
     "instituicao": {
       "nome": "EFG",
@@ -3868,7 +3766,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
@@ -3876,7 +3774,7 @@
     "descricao": "Descubra a arte da pintura em cerâmica! No curso você aprenderá técnicas incríveis para criar peças ..."
   },
   {
-    "id": 229,
+    "id": 223,
     "nome_curso": "Pintura em Cerâmica",
     "instituicao": {
       "nome": "EFG",
@@ -3885,7 +3783,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
@@ -3893,7 +3791,7 @@
     "descricao": "Aprenda Pintura Vitrificada, Esmaltação e Pintura a Frio e transforme seu talento em renda! Curso co..."
   },
   {
-    "id": 230,
+    "id": 224,
     "nome_curso": "Pintura em Madeira",
     "instituicao": {
       "nome": "EFG",
@@ -3902,7 +3800,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
@@ -3910,7 +3808,7 @@
     "descricao": "Transforme madeira em arte no curso Pintura em Madeira! Aprenda técnicas para personalizar peças, cr..."
   },
   {
-    "id": 231,
+    "id": 225,
     "nome_curso": "Pintura em Madeira",
     "instituicao": {
       "nome": "EFG",
@@ -3919,7 +3817,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 320,
     "status": "Aberto",
@@ -3927,7 +3825,7 @@
     "descricao": "Aprenda técnicas avançadas e artesanais para criar peças exclusivas, desde a preparação até o acabam..."
   },
   {
-    "id": 232,
+    "id": 226,
     "nome_curso": "Pintura em Madeira 3 - Latonagem",
     "instituicao": {
       "nome": "EFG",
@@ -3936,7 +3834,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -3944,7 +3842,7 @@
     "descricao": "Aprenda a técnica de latonagem no curso Pintura em Madeira 3. Descubra como combinar pintura e textu..."
   },
   {
-    "id": 233,
+    "id": 227,
     "nome_curso": "Pintura em Madeira 3 – Latonagem",
     "instituicao": {
       "nome": "EFG",
@@ -3953,7 +3851,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -3961,7 +3859,7 @@
     "descricao": "Aprenda Pintura em Madeira – Latonagem e transforme objetos comuns em peças decorativas únicas! Domi..."
   },
   {
-    "id": 234,
+    "id": 228,
     "nome_curso": "Pintura em Madeira I - Caixas",
     "instituicao": {
       "nome": "EFG",
@@ -3970,7 +3868,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -3978,7 +3876,7 @@
     "descricao": "Descubra como personalizar e decorar caixas de madeira no curso Pintura em Madeira I. Aprenda técnic..."
   },
   {
-    "id": 235,
+    "id": 229,
     "nome_curso": "Pintura em Madeira I - Caixas",
     "instituicao": {
       "nome": "EFG",
@@ -3987,7 +3885,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -3995,7 +3893,7 @@
     "descricao": "Aprenda a transformar caixas em verdadeiras obras de arte! Curso prático com técnicas de pintura, en..."
   },
   {
-    "id": 236,
+    "id": 230,
     "nome_curso": "Pintura I - Óleo",
     "instituicao": {
       "nome": "EFG",
@@ -4004,7 +3902,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -4012,7 +3910,7 @@
     "descricao": "Descubra o universo da pintura a óleo no curso Pintura I - Óleo! Aprenda técnicas essenciais, desde ..."
   },
   {
-    "id": 237,
+    "id": 231,
     "nome_curso": "Pintura Vitrificada e Técnicas de Esmaltação",
     "instituicao": {
       "nome": "EFG",
@@ -4021,7 +3919,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
@@ -4029,7 +3927,7 @@
     "descricao": "Aprenda a arte da pintura vitrificada e técnicas de esmaltação no nosso curso. Descubra como aplicar..."
   },
   {
-    "id": 238,
+    "id": 232,
     "nome_curso": "Pintura Vitrificada e Técnicas de Esmaltação",
     "instituicao": {
       "nome": "EFG",
@@ -4038,7 +3936,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 120,
     "status": "Aberto",
@@ -4046,7 +3944,7 @@
     "descricao": "Aprenda a arte da pintura vitrificada e técnicas de esmaltação transforme superfícies em obras única..."
   },
   {
-    "id": 239,
+    "id": 233,
     "nome_curso": "Planejamento de Mídias Sociais",
     "instituicao": {
       "nome": "EFG",
@@ -4055,7 +3953,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -4063,7 +3961,7 @@
     "descricao": "As redes sociais são como vitrines para vender na internet. Descubra como deixá-las melhores com o c..."
   },
   {
-    "id": 240,
+    "id": 234,
     "nome_curso": "Planejamento e Criação de Novos Negócios",
     "instituicao": {
       "nome": "EFG",
@@ -4072,7 +3970,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -4080,7 +3978,7 @@
     "descricao": "Aprenda as estratégias fundamentais para criar um novo empreendimento, com base em análises críticas..."
   },
   {
-    "id": 241,
+    "id": 235,
     "nome_curso": "Planejamento Financeiro para Startup",
     "instituicao": {
       "nome": "EFG",
@@ -4089,7 +3987,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 60,
     "status": "Aberto",
@@ -4097,7 +3995,7 @@
     "descricao": "Garanta o sucesso da sua startup com gestão financeira inteligente! No curso de Planejamento Finance..."
   },
   {
-    "id": 242,
+    "id": 236,
     "nome_curso": "Português  Instrumental",
     "instituicao": {
       "nome": "EFG",
@@ -4106,7 +4004,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -4114,7 +4012,7 @@
     "descricao": "Aprimore sua comunicação com precisão e clareza! No curso de Português Instrumental, você desenvolve..."
   },
   {
-    "id": 243,
+    "id": 237,
     "nome_curso": "Prática Coletiva de Guitarra",
     "instituicao": {
       "nome": "EFG",
@@ -4123,7 +4021,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -4131,7 +4029,7 @@
     "descricao": "Desenvolva habilidades na guitarra e aprimore sua técnica, leitura musical e trabalho em grupo."
   },
   {
-    "id": 244,
+    "id": 238,
     "nome_curso": "Prática Coletiva de Instrumento de Sopros",
     "instituicao": {
       "nome": "EFG",
@@ -4140,7 +4038,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -4148,7 +4046,7 @@
     "descricao": "Aprenda a tocar instrumentos de sopro em grupo e dê seus primeiros passos para se tornar um músico p..."
   },
   {
-    "id": 245,
+    "id": 239,
     "nome_curso": "Prática Coletiva de Sopros",
     "instituicao": {
       "nome": "EFG",
@@ -4157,7 +4055,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -4165,58 +4063,7 @@
     "descricao": "Aprenda a tocar e aprimorar sua técnica em instrumentos de sopro, participando de uma prática coleti..."
   },
   {
-    "id": 246,
-    "nome_curso": "Prática coletiva de Viola Clássica",
-    "instituicao": {
-      "nome": "EFG",
-      "unidade": null,
-      "cidade": ""
-    },
-    "categoria": "Capacitação",
-    "area": "Música",
-    "modalidades": null,
-    "idade_minima": null,
-    "carga_horaria": 40,
-    "status": "Aberto",
-    "link": null,
-    "descricao": "Que tal dar os primeiros passos e aprender viola clássica? Neste curso você se prepara musicalmente ..."
-  },
-  {
-    "id": 247,
-    "nome_curso": "Prática coletiva de Violino",
-    "instituicao": {
-      "nome": "EFG",
-      "unidade": null,
-      "cidade": ""
-    },
-    "categoria": "Capacitação",
-    "area": "Música",
-    "modalidades": null,
-    "idade_minima": null,
-    "carga_horaria": 40,
-    "status": "Aberto",
-    "link": null,
-    "descricao": "Tem o sonho de aprender a tocar violino? Neste curso você dá os primeiros passos nesta direção."
-  },
-  {
-    "id": 248,
-    "nome_curso": "Prática coletiva de Violoncelo",
-    "instituicao": {
-      "nome": "EFG",
-      "unidade": null,
-      "cidade": ""
-    },
-    "categoria": "Capacitação",
-    "area": "Música",
-    "modalidades": null,
-    "idade_minima": null,
-    "carga_horaria": 40,
-    "status": "Aberto",
-    "link": null,
-    "descricao": "Que tal dar começar a aprender violoncelo? Este curso é pra quem quer se preparar para dar os primei..."
-  },
-  {
-    "id": 249,
+    "id": 240,
     "nome_curso": "Processo Criativo",
     "instituicao": {
       "nome": "EFG",
@@ -4225,7 +4072,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -4233,7 +4080,7 @@
     "descricao": "Desperte sua criatividade. Aprenda conceitos e metodologias do processo criativo, aplique técnicas e..."
   },
   {
-    "id": 250,
+    "id": 241,
     "nome_curso": "Programação de  Computadores",
     "instituicao": {
       "nome": "EFG",
@@ -4242,7 +4089,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 200,
     "status": "Aberto",
@@ -4250,7 +4097,7 @@
     "descricao": "Aprenda Programação de Computadores e domine a lógica para criar softwares e soluções digitais. Dese..."
   },
   {
-    "id": 251,
+    "id": 242,
     "nome_curso": "Programação de Computadores",
     "instituicao": {
       "nome": "EFG",
@@ -4259,7 +4106,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 240,
     "status": "Aberto",
@@ -4267,7 +4114,7 @@
     "descricao": "Aprenda a desenvolver algoritmos utilizando o raciocínio lógico e computacional, e codifique algorit..."
   },
   {
-    "id": 252,
+    "id": 243,
     "nome_curso": "Retrato",
     "instituicao": {
       "nome": "EFG",
@@ -4276,7 +4123,7 @@
     },
     "categoria": "Capacitação",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -4284,7 +4131,7 @@
     "descricao": "Aprenda a capturar a essência e personalidade no curso de Retrato, desenvolvendo traços, sombras e e..."
   },
   {
-    "id": 253,
+    "id": 244,
     "nome_curso": "Ritmos e Melodias do Choro",
     "instituicao": {
       "nome": "EFG",
@@ -4293,7 +4140,7 @@
     },
     "categoria": "NAH",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -4301,7 +4148,7 @@
     "descricao": "Explore e pratique os ritmos e melodias do choro, aperfeiçoando suas habilidades instrumentais e art..."
   },
   {
-    "id": 254,
+    "id": 245,
     "nome_curso": "ROBÓTICA EDUCACIONAL PARA DOCENTES",
     "instituicao": {
       "nome": "EFG",
@@ -4310,7 +4157,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -4318,7 +4165,7 @@
     "descricao": "Que tal buscar maneiras inovadoras de melhorar as metodologias de ensino para crianças e adolescente..."
   },
   {
-    "id": 255,
+    "id": 246,
     "nome_curso": "Segurança da Informação",
     "instituicao": {
       "nome": "EFG",
@@ -4327,7 +4174,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -4335,7 +4182,7 @@
     "descricao": "Proteja dados e sistemas com o curso de Segurança da Informação. Aprenda a prevenir ataques, gerenci..."
   },
   {
-    "id": 256,
+    "id": 247,
     "nome_curso": "Sustentabilidade e Legislação Ambiental",
     "instituicao": {
       "nome": "EFG",
@@ -4344,7 +4191,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -4352,7 +4199,7 @@
     "descricao": "Aprenda sobre sustentabilidade e legislação ambiental para agir de forma consciente e responsável. C..."
   },
   {
-    "id": 257,
+    "id": 248,
     "nome_curso": "Teatro Iniciante - Nível Básico",
     "instituicao": {
       "nome": "EFG",
@@ -4361,7 +4208,7 @@
     },
     "categoria": "Capacitação",
     "area": "Teatro",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -4369,7 +4216,7 @@
     "descricao": "Descubra o mundo do teatro e desenvolva sua expressão corporal, improvisação e interpretação. Aprend..."
   },
   {
-    "id": 258,
+    "id": 249,
     "nome_curso": "Teatro Iniciante - Nível Iniciante",
     "instituicao": {
       "nome": "EFG",
@@ -4378,7 +4225,7 @@
     },
     "categoria": "Capacitação",
     "area": "Teatro",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -4386,7 +4233,7 @@
     "descricao": "Neste curso você aprende as técnicas necessárias para se tornar atriz/ator. Participe de jogos de im..."
   },
   {
-    "id": 259,
+    "id": 250,
     "nome_curso": "Teatro Iniciante - Nível Intermediário",
     "instituicao": {
       "nome": "EFG",
@@ -4395,7 +4242,7 @@
     },
     "categoria": "Capacitação",
     "area": "Teatro",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -4403,7 +4250,7 @@
     "descricao": "O curso Teatro Iniciante – Nível Intermediário é para quem quer se expressar, criar personagens e ga..."
   },
   {
-    "id": 260,
+    "id": 251,
     "nome_curso": "Teatro Musical",
     "instituicao": {
       "nome": "EFG",
@@ -4412,7 +4259,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 188,
     "status": "Aberto",
@@ -4420,7 +4267,7 @@
     "descricao": "Mergulhe no universo do teatro musical, combinando interpretação, canto e dança em uma experiência a..."
   },
   {
-    "id": 261,
+    "id": 252,
     "nome_curso": "Qualificação profissional",
     "instituicao": {
       "nome": "EFG",
@@ -4429,7 +4276,7 @@
     },
     "categoria": "Capacitação",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 90,
     "status": "Aberto",
@@ -4437,24 +4284,7 @@
     "descricao": "Solte a voz, aprenda a dançar e descubra seu talento no Teatro Musical! Um curso completo que une ca..."
   },
   {
-    "id": 262,
-    "nome_curso": "Tecido Acrobático II",
-    "instituicao": {
-      "nome": "EFG",
-      "unidade": null,
-      "cidade": ""
-    },
-    "categoria": "Capacitação",
-    "area": "Circo",
-    "modalidades": null,
-    "idade_minima": null,
-    "carga_horaria": 60,
-    "status": "Aberto",
-    "link": null,
-    "descricao": "Quer aprender mais sobre o tecido acrobático? Neste curso você conhecerá como executar subida normal..."
-  },
-  {
-    "id": 263,
+    "id": 253,
     "nome_curso": "Técnicas Acrobáticas e Caracterização de Perso",
     "instituicao": {
       "nome": "EFG",
@@ -4463,7 +4293,7 @@
     },
     "categoria": "NAH",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 80,
     "status": "Aberto",
@@ -4471,7 +4301,7 @@
     "descricao": "Comece sua jornada no circo combinando acrobacias e criação de personagens. Aprenda técnicas básicas..."
   },
   {
-    "id": 264,
+    "id": 254,
     "nome_curso": "Técnicas de Recuperação e Pintura para Móveis",
     "instituicao": {
       "nome": "EFG",
@@ -4480,7 +4310,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Artes Visuais",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 300,
     "status": "Aberto",
@@ -4488,7 +4318,7 @@
     "descricao": "Dê uma nova vida aos seus móveis! No curso Técnicas de Recuperação e Pintura para Móveis, você apren..."
   },
   {
-    "id": 265,
+    "id": 255,
     "nome_curso": "Técnico de Nível Médio em Artes Circenses",
     "instituicao": {
       "nome": "EFG",
@@ -4497,7 +4327,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 1200,
     "status": "Aberto",
@@ -4505,7 +4335,7 @@
     "descricao": "Aprenda acrobacias, equilíbrio e expressão com o curso Técnico em Artes Circenses! Formação completa..."
   },
   {
-    "id": 266,
+    "id": 256,
     "nome_curso": "Técnico de Nível Médio em Ballet Clássico",
     "instituicao": {
       "nome": "EFG",
@@ -4514,7 +4344,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 1200,
     "status": "Aberto",
@@ -4522,7 +4352,7 @@
     "descricao": "Formação completa em Ballet Clássico, com aulas de técnica, repertório, dança moderna e contemporâne..."
   },
   {
-    "id": 267,
+    "id": 257,
     "nome_curso": "Técnico de Nível Médio em Canto",
     "instituicao": {
       "nome": "EFG",
@@ -4531,7 +4361,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 1000,
     "status": "Aberto",
@@ -4539,7 +4369,7 @@
     "descricao": "Transforme sua paixão pelo canto em profissão e aprenda as técnicas para brilhar em palcos, shows e ..."
   },
   {
-    "id": 268,
+    "id": 258,
     "nome_curso": "Técnico de Nível Médio em Dança Contemporânea",
     "instituicao": {
       "nome": "EFG",
@@ -4548,7 +4378,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Dança",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 1200,
     "status": "Aberto",
@@ -4556,7 +4386,7 @@
     "descricao": "Profissionalize-se em Dança Contemporânea, com foco em técnica, coreografia, eficiência física, anat..."
   },
   {
-    "id": 269,
+    "id": 259,
     "nome_curso": "Técnico de Nível Médio em Instrumento Musical",
     "instituicao": {
       "nome": "EFG",
@@ -4565,7 +4395,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Música",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 1200,
     "status": "Aberto",
@@ -4573,7 +4403,7 @@
     "descricao": "Seja um profissional no ramo da música. Desenvolva habilidades em linguagem musical, percepção rítmi..."
   },
   {
-    "id": 270,
+    "id": 260,
     "nome_curso": "Técnico em Artes Circenses",
     "instituicao": {
       "nome": "EFG",
@@ -4582,7 +4412,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Circo",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 1020,
     "status": "Aberto",
@@ -4590,7 +4420,7 @@
     "descricao": "Forme-se como artista circense, desenvolvendo habilidades técnicas e artísticas em acrobacia, equili..."
   },
   {
-    "id": 271,
+    "id": 261,
     "nome_curso": "Técnico em Teatro",
     "instituicao": {
       "nome": "EFG",
@@ -4599,7 +4429,7 @@
     },
     "categoria": "Técnico de nível médio",
     "area": "Teatro",
-    "modalidades": null,
+    "modalidade": "Presencial",
     "idade_minima": null,
     "carga_horaria": 1040,
     "status": "Aberto",
@@ -4607,7 +4437,7 @@
     "descricao": "Aprofunde seus conhecimentos na área da atuação. Participe de jogos de improviso, desenvolva técnica..."
   },
   {
-    "id": 272,
+    "id": 262,
     "nome_curso": "Tecnologias e Inovação para Start ups",
     "instituicao": {
       "nome": "EFG",
@@ -4616,7 +4446,7 @@
     },
     "categoria": "Qualificação profissional",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 160,
     "status": "Aberto",
@@ -4624,7 +4454,7 @@
     "descricao": "Desperte seu lado de gestor tech! Aprenda a criar infoprodutos, domine a inteligência digital, autom..."
   },
   {
-    "id": 273,
+    "id": 263,
     "nome_curso": "Transformação Digital",
     "instituicao": {
       "nome": "EFG",
@@ -4633,7 +4463,7 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
@@ -4641,7 +4471,7 @@
     "descricao": "Seja protagonista da inovação! No curso de Transformação Digital, descubra como aplicar tecnologias ..."
   },
   {
-    "id": 274,
+    "id": 264,
     "nome_curso": "Transformação Digital e Prototipagem",
     "instituicao": {
       "nome": "EFG",
@@ -4650,28 +4480,11 @@
     },
     "categoria": "Capacitação",
     "area": "Tecnologia e Inovação",
-    "modalidades": null,
+    "modalidade": "Online, Presencial",
     "idade_minima": null,
     "carga_horaria": 40,
     "status": "Aberto",
     "link": null,
     "descricao": "Lidere a inovação com tecnologia e criatividade! No curso de Transformação Digital e Prototipagem, a..."
-  },
-  {
-    "id": 275,
-    "nome_curso": "Trapézio Simples IV",
-    "instituicao": {
-      "nome": "EFG",
-      "unidade": null,
-      "cidade": ""
-    },
-    "categoria": "Capacitação",
-    "area": "Circo",
-    "modalidades": null,
-    "idade_minima": null,
-    "carga_horaria": 60,
-    "status": "Aberto",
-    "link": null,
-    "descricao": "Quer dominar o trapézio simples? Esse curso te ensina diversas movimentações."
   }
 ]
