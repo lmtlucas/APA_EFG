@@ -37,7 +37,7 @@
 
       <section class="cursos" id="cursos-disponiveis">
         <div class="container">
-          <h2>Cursos disponíveis</h2>
+          <h2>Inscrições abertas</h2>
 
           <div class="cursos-grid">
             {% for curso in cursos_recentes %}
@@ -53,7 +53,7 @@
                 <p>
                   <strong>Carga horária:</strong> {{ curso.carga_horaria }}h
                 </p>
-                <p><strong>Modalidade:</strong> {{ curso.modalidades }}</p>
+                <p><strong>Modalidade:</strong> {{ curso.modalidade }}</p>
                 <p><strong>Cidade:</strong> {{ curso.instituicao.cidade }}</p>
               </div>
 
