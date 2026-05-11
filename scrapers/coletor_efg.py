@@ -32,7 +32,7 @@ if resposta.status_code == 200:
 
         cidade = card.find("div", class_="ccc-colegios")
 
-        modalidade = card.find("div", class_="ccc-modalidade")
+        modalidade = card.find("div", class_="cci-modalidade")
 
         outros_detalhes = card.find("div", class_="ccc-outros")
 
@@ -76,7 +76,7 @@ if resposta.status_code == 200:
             },
             "categoria": categoria,
             "area": area.text.strip() if area else None,
-            "modalidades": modalidade.text.strip() if modalidade else None,
+            "modalidade": modalidade.text.strip() if modalidade else None,
             "idade_minima": idade_minima,
             "carga_horaria": carga_horaria,
             "status": "Aberto",
