@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Este projeto foi criado com o objetivo de centralizar cursos gratuitos disponíveis em Goiânia e região.
+Este projeto foi desenvolvido com o objetivo de centralizar cursos gratuitos disponíveis em Goiânia e região.
 
 Hoje, essas oportunidades estão espalhadas em vários sites (como EFG, IFG, Senai, etc.), o que dificulta encontrar cursos abertos.
 
