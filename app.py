@@ -32,11 +32,11 @@ def listar_cursos():
     for curso in cursos:
         nome_curso = curso["nome_curso"].lower()
         categoria_curso = curso["categoria"]
-        modalidades_curso = curso["modalidades"]
+        modalidade_curso = curso["modalidade"]
 
         busca_ok = busca in nome_curso
         categoria_ok = categoria == "" or categoria == categoria_curso
-        modalidade_ok = modalidade == "" or modalidade in modalidades_curso
+        modalidade_ok = modalidade == "" or modalidade == modalidade_curso
 
         if busca_ok and categoria_ok and modalidade_ok:
             cursos_filtrados.append(curso)
@@ -50,4 +50,5 @@ def listar_cursos():
     )
 
 
-app.run(debug=True)
+if __name__ == "__main__":
+    app.run(debug=True)
