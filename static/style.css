@@ -1,0 +1,300 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.header-container {
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header {
+  background-color: #1d1e1e;
+  color: white;
+  padding: 8px 24px;
+}
+
+header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+header nav ul a {
+  color: white;
+}
+
+main {
+  width: 100%;
+}
+
+.hero {
+  text-align: center;
+  padding: 40px 20px;
+  background-color: #fafafa;
+  color: #1a1a1a;
+}
+
+.hero h1 {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+  color: #737373;
+}
+
+.hero a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #2563eb;
+  color: #fafafa;
+  border-radius: 4px;
+}
+
+.hero a:hover {
+  background-color: #215fe5;
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  color: #555;
+}
+
+a {
+  text-decoration: none;
+}
+
+.cursos {
+  padding: 64px 0;
+  background-color: #fff;
+}
+
+.cursos-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+.curso-card {
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.04);
+
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.curso-categoria {
+  width: fit-content;
+  background-color: #dbeafe;
+  color: #1d4ed8;
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.curso-card h3 {
+  margin: 0;
+  color: #111827;
+  font-size: 1.25rem;
+}
+
+.curso-descricao {
+  color: #6b7280;
+  line-height: 1.5;
+}
+
+.curso-info {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.curso-info p {
+  margin: 0;
+  color: #4b5563;
+  font-size: 0.95rem;
+}
+
+.curso-link {
+  margin-top: auto;
+  display: inline-block;
+  text-align: center;
+  background-color: #2563eb;
+  color: #ffffff;
+  padding: 12px 16px;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+.curso-link:hover {
+  background-color: #1d4ed8;
+}
+
+.ver-mais {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.ver-mais a {
+  display: inline-block;
+  background-color: #1d1e1e;
+  color: #ffffff;
+  padding: 14px 24px;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.ver-mais a:hover {
+  background-color: #333;
+}
+
+/* FAQ */
+.faq {
+  padding: 80px 0;
+  background-color: #f9fafb;
+}
+
+.faq h2 {
+  text-align: center;
+  margin-bottom: 48px;
+  font-size: 2rem;
+  color: #111827;
+}
+
+.faq-lista {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.faq-item {
+  background-color: white;
+  padding: 24px;
+  border-radius: 16px;
+  border: 1px solid #e5e7eb;
+}
+
+.faq-item h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  color: #111827;
+}
+
+.faq-item p {
+  margin: 0;
+  color: #6b7280;
+  line-height: 1.6;
+}
+
+/* Footer */
+.footer {
+  background-color: #111827;
+  color: white;
+  padding: 64px 0 24px;
+}
+
+.footer-topo {
+  display: flex;
+  justify-content: space-between;
+  gap: 48px;
+  margin-bottom: 48px;
+}
+
+.footer-logo {
+  max-width: 400px;
+}
+
+.footer-logo h3 {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.footer-logo p {
+  color: #d1d5db;
+  line-height: 1.6;
+}
+
+.footer-links h4 {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  margin-bottom: 12px;
+}
+
+.footer-links a {
+  color: #d1d5db;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: white;
+}
+
+.footer-bottom {
+  border-top: 1px solid #374151;
+  padding-top: 24px;
+  text-align: center;
+}
+
+.footer-bottom p {
+  color: #9ca3af;
+  margin: 0;
+}
+
+/* Filtro de busca */
+.filtros {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 32px;
+  flex-wrap: wrap;
+}
+
+.filtros input,
+.filtros select {
+  padding: 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+}
+
+.filtros button {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  background-color: #2563eb;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+}

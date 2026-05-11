@@ -1,51 +1,143 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
+  <head>
+    <meta charset="UTF-8" />
     <title>Cursos</title>
-</head>
-<body>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
 
-    <h1>Cursos Disponíveis</h1>
+  <body>
+    <header class="header">
+      <div class="header-container">
+        <img src="" alt="Logo do site" />
 
-    {% for curso in cursos %}
+        <nav>
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/cursos">Cursos</a></li>
+            <li><a href="/instituicoes">Instituições</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
 
-        <div>
-            <h2>{{ curso.nome_curso }}</h2>
+    <main>
+      <section class="hero">
+        <div class="container">
+          <h1>Qualificação profissional gratuita<br />ao seu alcance</h1>
+
+          <p>
+            Transforme seu futuro com cursos gratuitos de excelência, sem
+            burocracia e com certificação reconhecida.
+          </p>
+
+          <a href="#cursos-disponiveis">Ver cursos disponíveis</a>
+        </div>
+      </section>
+
+      <div class="container">
+        <form method="GET" action="/cursos" class="filtros">
+          <input
+            type="text"
+            name="busca"
+            placeholder="Buscar curso..."
+            value="{{ busca }}"
+          />
+
+          <select name="categoria">
+            <option value="">Todas as categorias</option>
+            <option
+              value="Tecnologia"
+              {%
+              if
+              categoria=""
+              ="Tecnologia"
+              %}selected{%
+              endif
+              %}
+            >
+              Tecnologia
+            </option>
+          </select>
+
+          <select name="modalidade">
+            <option value="">Todas as modalidades</option>
+            <option
+              value="Online"
+              {%
+              if
+              modalidade=""
+              ="Online"
+              %}selected{%
+              endif
+              %}
+            >
+              Online
+            </option>
+          </select>
+
+          <button type="submit">Filtrar</button>
+        </form>
+      </div>
+
+      <section class="cursos" id="cursos-disponiveis">
+        <div class="container">
+          <h2>Cursos disponíveis</h2>
+
+          <div class="cursos-grid">
+            {% for curso in cursos %}
+
+            <div class="curso-card">
+              <span class="curso-categoria">{{ curso.categoria }}</span>
+
+              <h3>{{ curso.nome_curso }}</h3>
+
+              <p class="curso-descricao">{{ curso.descricao }}</p>
+
+              <div class="curso-info">
+                <p>
+                  <strong>Carga horária:</strong> {{ curso.carga_horaria }}h
+                </p>
+                <p><strong>Modalidade:</strong> {{ curso.modalidades }}</p>
+                <p><strong>Cidade:</strong> {{ curso.instituicao.cidade }}</p>
+              </div>
+
+              <a class="curso-link" href="{{ curso.link }}">Ver curso</a>
+            </div>
+
+            {% endfor %}
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-topo">
+          <div class="footer-logo">
+            <h3>Portal de Cursos GO</h3>
 
             <p>
-                Categoria:
-                {{ curso.categoria }}
+              Encontre oportunidades gratuitas de qualificação profissional em
+              Goiás.
             </p>
+          </div>
 
-            <p>
-                Carga horária:
-                {{ curso.carga_horaria }}h
-            </p>
+          <div class="footer-links">
+            <h4>Navegação</h4>
 
-            <p>
-                Modalidades:
-                {{ curso.modalidades }}
-            </p>
-
-            <p>
-                Cidade:
-                {{ curso.instituicao.cidade }}
-            </p>
-
-            <p>
-                Descrição:
-                {{ curso.descricao }}
-            </p>
-
-            <a href="{{ curso.link }}">
-                Ver curso
-            </a>
+            <ul>
+              <li><a href="/">Home</a></li>
+              <li><a href="/cursos">Cursos</a></li>
+              <li><a href="/instituicoes">Instituições</a></li>
+            </ul>
+          </div>
         </div>
 
-        <hr>
-
-    {% endfor %}
-
-</body>
+        <div class="footer-bottom">
+          <p>© 2026 Portal de Cursos GO. Todos os direitos reservados.</p>
+        </div>
+      </div>
+    </footer>
+  </body>
 </html>

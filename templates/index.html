@@ -1,15 +1,144 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Cursos gratuitos em Goiânia</title>
-  <link rel="stylesheet" href="/static/style.css">
-</head>
-<body>
-  <h1>Cursos gratuitos em Goiânia</h1>
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Cursos</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
 
-  <section id="lista-cursos"></section>
+  <body>
+    <header class="header">
+      <div class="header-container">
+        <img src="" alt="Logo do site" />
 
-  <script src="/static/script.js"></script>
-</body>
+        <nav>
+          <ul>
+            <li><a href="/">Início</a></li>
+            <li><a href="/cursos">Cursos</a></li>
+            <li><a href="/instituicoes">Instituições</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="container">
+          <h1>Qualificação profissional gratuita<br />ao seu alcance</h1>
+
+          <p>
+            Transforme seu futuro com cursos gratuitos de excelência, sem
+            burocracia e com certificação reconhecida.
+          </p>
+
+          <a href="#cursos-disponiveis">Ver cursos disponíveis</a>
+        </div>
+      </section>
+
+      <section class="cursos" id="cursos-disponiveis">
+        <div class="container">
+          <h2>Cursos disponíveis</h2>
+
+          <div class="cursos-grid">
+            {% for curso in cursos_recentes %}
+
+            <div class="curso-card">
+              <span class="curso-categoria">{{ curso.categoria }}</span>
+
+              <h3>{{ curso.nome_curso }}</h3>
+
+              <p class="curso-descricao">{{ curso.descricao }}</p>
+
+              <div class="curso-info">
+                <p>
+                  <strong>Carga horária:</strong> {{ curso.carga_horaria }}h
+                </p>
+                <p><strong>Modalidade:</strong> {{ curso.modalidades }}</p>
+                <p><strong>Cidade:</strong> {{ curso.instituicao.cidade }}</p>
+              </div>
+
+              <a class="curso-link" href="{{ curso.link }}">Ver curso</a>
+            </div>
+
+            {% endfor %}
+
+            <div class="ver-mais">
+              <a href="/cursos">Ver todos os cursos</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="faq">
+        <div class="container">
+          <h2>Perguntas frequentes</h2>
+
+          <div class="faq-lista">
+            <div class="faq-item">
+              <h3>Os cursos são realmente gratuitos?</h3>
+
+              <p>
+                Sim. Todos os cursos listados na plataforma possuem inscrição
+                gratuita.
+              </p>
+            </div>
+
+            <div class="faq-item">
+              <h3>Recebo certificado ao concluir?</h3>
+
+              <p>
+                A maioria das instituições oferece certificado de conclusão.
+              </p>
+            </div>
+
+            <div class="faq-item">
+              <h3>Posso fazer cursos online?</h3>
+
+              <p>
+                Sim. Existem cursos presenciais, híbridos e totalmente online.
+              </p>
+            </div>
+
+            <div class="faq-item">
+              <h3>Como faço minha inscrição?</h3>
+
+              <p>
+                Basta clicar em “Ver curso” para acessar a página oficial da
+                instituição.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-topo">
+          <div class="footer-logo">
+            <h3>Portal de Cursos GO</h3>
+
+            <p>
+              Encontre oportunidades gratuitas de qualificação profissional em
+              Goiás.
+            </p>
+          </div>
+
+          <div class="footer-links">
+            <h4>Navegação</h4>
+
+            <ul>
+              <li><a href="/">Home</a></li>
+              <li><a href="/cursos">Cursos</a></li>
+              <li><a href="/instituicoes">Instituições</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="footer-bottom">
+          <p>© 2026 Portal de Cursos GO. Todos os direitos reservados.</p>
+        </div>
+      </div>
+    </footer>
+  </body>
 </html>
